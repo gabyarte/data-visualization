@@ -3,22 +3,21 @@ library(colourpicker)
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
-  
+
   # Application title
   titlePanel(
     h1("INDIA Tourism 2014-2020 Dataset")
   ),
-  
-  # Sidebar with a slider input for number of bins 
+
+  # Sidebar with a slider input for number of bins
   sidebarLayout(
     sidebarPanel(
-      h3("Evolution of Annual Visitors")
-      ,
-      selectInput(inputId = "country1", 
-                  label = "Select Country 1", 
-                  choices = list("Canada"= "Canada",
+      h3("Evolution of Annual Visitors"),
+      selectInput(inputId = "country1",
+                  label = "Select Country 1",
+                  choices = list("Canada" = "Canada",
                                  "U.S.A" = "U.S.A",
-                                 "Argentina"= "Argentina", 
+                                 "Argentina" = "Argentina",
                                  "Brazil" = "Brazil",
                                  "Mexico" = "Mexico",
                                  "Austria" = "Austria",
@@ -79,13 +78,12 @@ shinyUI(fluidPage(
                                  "Taiwan" = "Taiwan",
                                  "Australia" = "Australia",
                                  "New Zealand" = "New Zealand"),
-                  selected =  "Canada")
-      ,
-      selectInput(inputId = "country2", 
-                  label = "Select Country 2", 
-                  choices = list("Canada"= "Canada",
+                  selected =  "Canada"),
+      selectInput(inputId = "country2",
+                  label = "Select Country 2",
+                  choices = list("Canada" = "Canada",
                                  "U.S.A" = "U.S.A",
-                                 "Argentina"= "Argentina", 
+                                 "Argentina" = "Argentina",
                                  "Brazil" = "Brazil",
                                  "Mexico" = "Mexico",
                                  "Austria" = "Austria",
@@ -146,18 +144,18 @@ shinyUI(fluidPage(
                                  "Taiwan" = "Taiwan",
                                  "Australia" = "Australia",
                                  "New Zealand" = "New Zealand"),
-                  selected =  "U.S.A")
-      ,
-      a(href="https://www.kaggle.com/datasets/rajkachhadiya/india-tourism-20142020", h5("INDIA Tourism 2014-2020 Dataset"))
+                  selected =  "U.S.A"),
+      a(
+        href = "https://www.kaggle.com/datasets/rajkachhadiya/india-tourism-20142020",
+        h5("INDIA Tourism 2014-2020 Dataset"))
     ),
-    
-    
+
     mainPanel(
       plotOutput("linePlot",
                  click = "plot_click",
                  dblclick = dblclickOpts(id = "plot_dblclick")
       ),
-      
+
       fluidRow(
         column(width = 6,
                verbatimTextOutput("click_info")
@@ -165,11 +163,10 @@ shinyUI(fluidPage(
         column(width = 6,
                verbatimTextOutput("dblclick_info")
         ),
-        
+
         fluidPage(
           plotOutput("plot")
         )
       )
     )
   )))
-
