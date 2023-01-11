@@ -145,16 +145,11 @@ shinyUI(fluidPage(
                                  "Australia" = "Australia",
                                  "New Zealand" = "New Zealand"),
                   selected =  "U.S.A"),
-      a(
-      
-      
-      
-        href = "https://www.kaggle.com/datasets/rajkachhadiya/india-tourism-20142020",
+      a(href = "https://www.kaggle.com/datasets/rajkachhadiya/india-tourism-20142020",
         h5("INDIA Tourism 2014-2020 Dataset")),
-      
       sliderInput("siyear", "Years:",
                   min = 2014, max = 2020,
-                  value = 2014, round=1, sep=""),
+                  value = 2014, round = 1, sep = ""),
     ),
 
     mainPanel(
@@ -166,11 +161,11 @@ shinyUI(fluidPage(
                  click = "plot_click",
                  dblclick = dblclickOpts(id = "plot_dblclick")
       ),
-      
+
       plotOutput("lineScatter"),
-      
+
       textOutput("out_siyear"),
-      
+
       fluidRow(
         column(width = 6,
                verbatimTextOutput("click_info")
