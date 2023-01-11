@@ -148,15 +148,29 @@ shinyUI(fluidPage(
                                  "New Zealand" = "New Zealand"),
                   selected =  "U.S.A")
       ,
-      a(href="https://www.kaggle.com/datasets/rajkachhadiya/india-tourism-20142020", h5("INDIA Tourism 2014-2020 Dataset"))
+      
+      
+      
+      a(href="https://www.kaggle.com/datasets/rajkachhadiya/india-tourism-20142020", h5("INDIA Tourism 2014-2020 Dataset")),
+      
+      sliderInput("siyear", "Years:",
+                  min = 2014, max = 2020,
+                  value = 2014, round=1, sep=""),
     ),
-    
     
     mainPanel(
       plotOutput("linePlot",
                  click = "plot_click",
                  dblclick = dblclickOpts(id = "plot_dblclick")
       ),
+      plotOutput("lineAge",
+                 click = "plot_click",
+                 dblclick = dblclickOpts(id = "plot_dblclick")
+      ),
+      
+      plotOutput("lineScatter"),
+      
+      textOutput("out_siyear"),
       
       fluidRow(
         column(width = 6,
@@ -164,10 +178,6 @@ shinyUI(fluidPage(
         ),
         column(width = 6,
                verbatimTextOutput("dblclick_info")
-        ),
-        
-        fluidPage(
-          plotOutput("plot")
         )
       )
     )
