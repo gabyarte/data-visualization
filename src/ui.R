@@ -21,7 +21,8 @@ ui_body <- dashboardBody(
       box(
         title = "India Tourism Overview Evolution Through Years",
         footer = "Analysis of the visitors and incomes earned due to the tourism in India and the evolution of it through the years",
-        solidHeader = TRUE
+        solidHeader = TRUE,
+        width = 12
       ),
       box(width = 12,
           solidHeader = TRUE,

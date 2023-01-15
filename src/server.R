@@ -24,46 +24,53 @@ shinyServer(function(input, output) {
 
     ggplot(
       df2,
-      aes_string(y = "sum_visitors", x = "year", group = 1)) +
-      geom_line() +
-      geom_point(size = 3) +
-      geom_line(aes_string(y = "avg_income"), color = "red") +
-      scale_y_continuous(labels = comma) +
-      scale_color_discrete(name = "country") +
-      ggtitle(plot_title) +
-      theme(plot.title = element_text(size = 20, hjust = 0.5),
-            axis.title.y = element_text(size = 13),
-            axis.title.x = element_text(size = 13),
-            axis.text.y = element_text(size = 12),
-            axis.text.x = element_text(size = 12)
-      ) +
-      labs(x = "Years", y = "Visitors / Income")
+      aes_string(
+        x = "year",
+        y = "sum_visitors",
+        group = 1)) +
+    geom_line() +
+    ggtitle(plot_title) +
+    geom_point(size = 3) +
+    geom_line(
+      aes_string(y = "avg_income"),
+      color = "#228f22") +
+    scale_y_continuous(labels = comma) +
+    labs(x = "Years", y = "Visitors / Income") +
+    theme(plot.title = element_text(size = 20, hjust = 0.5),
+          axis.title.y = element_text(size = 13),
+          axis.title.x = element_text(size = 13),
+          axis.text.y = element_text(size = 12),
+          axis.text.x = element_text(size = 12)
+    )
   })
 
   ##general
   output$scatterGeneral <- renderPlot({
     df_income <- read.csv("./../data/input/income.csv")
-    plot_title <- paste("Relation between income and visitors")
+    plot_title <- paste("Incomes per year related with the number of visitors")
     ggplot(
-      data = df_income,
-      aes_string(x = "visitantes", y = "ingresos")) +
-      geom_point() +
+        data = df_income,
+        aes_string(
+          x = "year",
+          y = "ingresos",
+          size = "visitantes",
+          label = "visitantes")) +
+      geom_point(color = "#228f22", show.legend = FALSE) +
+      geom_text(hjust = -0.4, vjust = 0, size = 5) +
       ggtitle(plot_title) +
-      labs(x = "Visitors ()", y = "Incomes (US$ billions)") +
+      labs(x = "Year", y = "Incomes (US$ billions)") +
       scale_y_continuous(labels = comma) +
-      scale_x_continuous(labels = comma) +
       theme(plot.title = element_text(size = 20, hjust = 0.5),
             axis.title.y = element_text(size = 13),
             axis.title.x = element_text(size = 13),
             axis.text.y = element_text(size = 12),
-            axis.text.x = element_text(size = 12)
+            axis.text.x = element_text(size = 12),
       )
   })
 
   ## nationality
   output$linePlot <- renderPlot({
     df_annual_visitors <- read.csv("./../data/input/annual_visitors.csv")
-aes_string_string
     # select a city
     country_of_choice <- c(input$country1, input$country2)
     df_visitors <- df_annual_visitors %>%
