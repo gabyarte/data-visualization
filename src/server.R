@@ -68,7 +68,54 @@ shinyServer(function(input, output) {
       )
   })
 
-  ## nationality
+  ## Detailed view
+  output$lineAge <- renderPlot({
+    df_age_group <- read.csv("./../data/input/yearly_categories.csv")
+    plot_title <- paste("Amount of people per variable in", input$siyear)
+    choice <- input$categorical_choice
+
+    ggplot(
+      data = df_age_group %>%
+        filter(category == choice, year == input$siyear),
+      aes(x = " ", y = value, fill = variable)) +
+    geom_bar(stat = "identity", width = 1, color = "white") +
+    coord_polar("y", start = 0) +
+    theme_void() +
+    geom_text(
+      aes(y = cumsum(value) - min(value) / 2,
+          label = value),
+      size = 4) +
+    scale_fill_brewer(palette = "Greens") +
+    ggtitle(plot_title) +
+    labs(fill = choice) +
+    theme(plot.title = element_text(size = 20, hjust = 0.5))
+  })
+
+  output$stackedAir <- renderPlot({
+    df_air_continent <- read.csv(
+      "./../data/input/annual_visitors_air.csv", sep = ";")
+    plot_title <- paste("Amount of people per airport in", input$siyear)
+
+    ggplot(
+      data = df_air_continent %>%
+        filter(year == input$siyear),
+      aes_string(
+        x = "airport",
+        y = "annual_visitors_air",
+        fill = "Continente")) +
+    geom_bar(stat = "identity", width = 0.5) +
+    scale_y_continuous(labels = comma) +
+    labs(x = "Airport", y = "Visitors") +
+    ggtitle(plot_title) +
+    theme(plot.title = element_text(size = 20, hjust = 0.5),
+          axis.title.y = element_text(size = 13),
+          axis.title.x = element_text(size = 13),
+          axis.text.y = element_text(size = 12),
+          axis.text.x = element_text(size = 12),
+    )
+  })
+
+   ## nationality
   output$linePlot <- renderPlot({
     df_annual_visitors <- read.csv("./../data/input/annual_visitors.csv")
     # select a city
@@ -92,37 +139,6 @@ shinyServer(function(input, output) {
             axis.text.y = element_text(size = 12),
             axis.text.x = element_text(size = 12)
       )
-  })
-
-  ## Detailed view
-  output$viewFirst <- renderPlot({
-    df_air_continent <- read.csv(
-      "./../data/input/annual_visitors_air.csv", sep = ";")
-    ggplot(
-      data = df_air_continent,
-      aes_string(
-        x = "airport", y = "annual_visitors_air", fill = "Continente")) +
-      geom_bar(stat = "identity", width = 0.5) +
-      scale_y_continuous(name = "visitors", labels = comma)
-  })
-
-  output$lineAge <- renderPlot({
-    df_age_group <- read.csv("./../data/input/age_group.csv")
-    ggplot(
-      data = df_age_group,
-      aes_string(x = "age_group", y = paste("X", input$siyear, sep = ""))) +
-      geom_col()
-  })
-
-  output$stackedAir <- renderPlot({
-    df_air_continent <- read.csv(
-      "./../data/input/annual_visitors_air.csv", sep = ";")
-    ggplot(
-      data = df_air_continent,
-      aes_string(
-        x = "airport", y = "annual_visitors_air", fill = "Continente")) +
-      geom_bar(stat = "identity", width = 0.5) +
-      scale_y_continuous(name = "visitors", labels = comma)
   })
 
   output$lineScatter <- renderPlot({

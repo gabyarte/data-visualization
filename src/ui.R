@@ -10,7 +10,7 @@ ui_sidebar <- dashboardSidebar(
     id = "sidebar_menu",
     menuItem("General View", tabName = "First", icon = icon("star")),
     menuItem("Detail View", tabName = "Second", icon = icon("dashboard")),
-    menuItem("Comparation View", tabName = "Thrid", icon = icon("cloud")),
+    menuItem("Comparisons View", tabName = "Thrid", icon = icon("cloud")),
     menuItem("Fourth", tabName = "Fourth", icon = icon("users"))
 ))
 
@@ -18,20 +18,23 @@ ui_body <- dashboardBody(
   tabItems(
     tabItem(
       tabName = "First",
-      box(
-        title = "India Tourism Overview Evolution Through Years",
-        footer = "Analysis of the visitors and incomes earned due to the tourism in India and the evolution of it through the years",
-        solidHeader = TRUE,
-        width = 12
-      ),
-      box(width = 12,
-          solidHeader = TRUE,
-          plotOutput("generalR")
-      ),
-      box(width = 12,
-          solidHeader = TRUE,
-          plotOutput("scatterGeneral")
-      ),
+      fluidPage(
+        titlePanel(
+            h2("India Tourism Overview Evolution Through Years")
+          ),
+        mainPanel(
+          width = 12,
+          h4("Analysis of the visitors and incomes earned due to the tourism in India and the evolution of it through the years"),
+          box(width = 12,
+              solidHeader = TRUE,
+              plotOutput("generalR")
+          ),
+          box(width = 12,
+              solidHeader = TRUE,
+              plotOutput("scatterGeneral")
+          ),
+        )
+      )
     ),
 
     tabItem(
@@ -39,28 +42,37 @@ ui_body <- dashboardBody(
       fluidPage(
         # Application title
         titlePanel(
-          h1("INDIA Tourism 2014-2020 Dataset")
+          h2("Yearly analysis of tourism")
         ),
         mainPanel(
+          width = 12,
+          h4("Analysis of the important statistics regarding airport visitors, visitors' nationalities and age groups."),
           box(width = 12,
-              solidHeader = TRUE,
-              plotOutput("viewFirst")
-          ),
-
-          fluidRow(
-            box(width = 4,
-                sliderInput("siyear", "Years:",
-                            min = 2014, max = 2020,
-                            value = 2014, round = 1, sep = "")
-            ),
-            box(width = 8,
-                solidHeader = TRUE,
-                plotOutput("lineAge")
-            ),
+              sliderInput("siyear", "Years:",
+                          min = 2014, max = 2020,
+                          value = 2014, round = 1, sep = "")
           ),
           box(width = 12,
               solidHeader = TRUE,
               plotOutput("stackedAir")
+          ),
+          fluidRow(
+            box(width = 3,
+              radioButtons(
+              "categorical_choice",
+              h4("Select variable to analyze"),
+              choices = list(
+                "Age Groups",
+                "Continent",
+                "Sex",
+                "Transport mean"
+              ),
+              selected = "Age Groups")
+            ),
+            box(width = 9,
+              solidHeader = TRUE,
+              plotOutput("lineAge")
+            ),
           ),
         ))
     ),
