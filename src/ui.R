@@ -3,7 +3,7 @@ library(colourpicker)
 library(shinydashboard)
 
 # Define UI for application that draws a histogram
-ui_header <- dashboardHeader(title = "Basic dashboard")
+ui_header <- dashboardHeader(title = "India Tourism in the Open")
 
 ui_sidebar <- dashboardSidebar(
   sidebarMenu(
@@ -17,6 +17,23 @@ ui_sidebar <- dashboardSidebar(
 ui_body <- dashboardBody(
   tabItems(
     tabItem(
+      tabName = "First",
+      box(
+        title = "India Tourism Overview Evolution Through Years",
+        footer = "Analysis of the visitors and incomes earned due to the tourism in India and the evolution of it through the years",
+        solidHeader = TRUE
+      ),
+      box(width = 12,
+          solidHeader = TRUE,
+          plotOutput("generalR")
+      ),
+      box(width = 12,
+          solidHeader = TRUE,
+          plotOutput("scatterGeneral")
+      ),
+    ),
+
+    tabItem(
       tabName = "Second",
       fluidPage(
         # Application title
@@ -26,7 +43,6 @@ ui_body <- dashboardBody(
         mainPanel(
           box(width = 12,
               solidHeader = TRUE,
-              title = "Plotly Scatter3",
               plotOutput("viewFirst")
           ),
 
@@ -38,33 +54,14 @@ ui_body <- dashboardBody(
             ),
             box(width = 8,
                 solidHeader = TRUE,
-                title = "Plotly Scatter2",
                 plotOutput("lineAge")
             ),
           ),
           box(width = 12,
               solidHeader = TRUE,
-              title = "Plotly Scatter3",
               plotOutput("stackedAir")
           ),
         ))
-    ),
-
-    tabItem(
-      tabName = "First",
-      box(
-        title = "asdasd"
-      ),
-      box(width = 12,
-          solidHeader = TRUE,
-          title = "Plotly Scatter3",
-          plotOutput("generalR")
-      ),
-      box(width = 12,
-          solidHeader = TRUE,
-          title = "Plotly Scatter3",
-          plotOutput("scatterGeneral")
-      ),
     ),
 
     tabItem(
