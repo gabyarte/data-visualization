@@ -1,0 +1,3529 @@
+year;airport;Country;Continente;annual_visitors_air;male_visitors;female_visitors
+2014;Delhi;Canada;America;56650;53.7;46.3
+2014;Mumbai;Canada;America;3490;53.7;46.3
+2014;Chennai;Canada;America;16109;53.7;46.3
+2014;Calicut;Canada;America;143639;53.7;46.3
+2014;Benguluru;Canada;America;11813;53.7;46.3
+2014;Kolkata;Canada;America;7518;53.7;46.3
+2014;Hyderabad;Canada;America;29265;53.7;46.3
+2014;Cochin;Canada;America;0;53.7;46.3
+2015;Delhi;Canada;America;55417;53.8;46.2
+2015;Mumbai;Canada;America;4220;53.8;46.2
+2015;Chennai;Canada;America;16878;53.8;46.2
+2015;Calicut;Canada;America;153312;53.8;46.2
+2015;Benguluru;Canada;America;12940;53.8;46.2
+2015;Kolkata;Canada;America;8720;53.8;46.2
+2015;Hyderabad;Canada;America;29818;53.8;46.2
+2015;Cochin;Canada;America;0;53.8;46.2
+2016;Delhi;Canada;America;205888;53.4;46.6
+2016;Mumbai;Canada;America;57420;53.4;46.6
+2016;Chennai;Canada;America;18083;53.4;46.6
+2016;Calicut;Canada;America;0;53.4;46.6
+2016;Benguluru;Canada;America;13641;53.4;46.6
+2016;Kolkata;Canada;America;5076;53.4;46.6
+2016;Hyderabad;Canada;America;9200;53.4;46.6
+2016;Cochin;Canada;America;7931;53.4;46.6
+2017;Delhi;Canada;America;190194;53;47
+2017;Mumbai;Canada;America;65411;53;47
+2017;Chennai;Canada;America;18114;53;47
+2017;Calicut;Canada;America;0;53;47
+2017;Benguluru;Canada;America;14424;53;47
+2017;Kolkata;Canada;America;9057;53;47
+2017;Hyderabad;Canada;America;8721;53;47
+2017;Cochin;Canada;America;7044;53;47
+2018;Delhi;Canada;America;193774;53.1;46.9
+2018;Mumbai;Canada;America;73016;53.1;46.9
+2018;Chennai;Canada;America;17903;53.1;46.9
+2018;Calicut;Canada;America;0;53.1;46.9
+2018;Benguluru;Canada;America;17903;53.1;46.9
+2018;Kolkata;Canada;America;5266;53.1;46.9
+2018;Hyderabad;Canada;America;10180;53.1;46.9
+2018;Cochin;Canada;America;10531;53.1;46.9
+2019;Delhi;Canada;America;224486;53.1;46.9
+2019;Mumbai;Canada;America;53131;53.1;46.9
+2019;Chennai;Canada;America;14074;53.1;46.9
+2019;Calicut;Canada;America;1056;53.1;46.9
+2019;Benguluru;Canada;America;16186;53.1;46.9
+2019;Kolkata;Canada;America;3167;53.1;46.9
+2019;Hyderabad;Canada;America;11611;53.1;46.9
+2019;Cochin;Canada;America;9852;53.1;46.9
+2020;Delhi;Canada;America;88096;53.23;46.77
+2020;Mumbai;Canada;America;12901;53.23;46.77
+2020;Chennai;Canada;America;3195;53.23;46.77
+2020;Calicut;Canada;America;246;53.23;46.77
+2020;Benguluru;Canada;America;4792;53.23;46.77
+2020;Kolkata;Canada;America;614;53.23;46.77
+2020;Hyderabad;Canada;America;3195;53.23;46.77
+2020;Cochin;Canada;America;3072;53.23;46.77
+2014;Delhi;U.S.A;America;288698;55.9;44.1
+2014;Mumbai;U.S.A;America;22380;55.9;44.1
+2014;Chennai;U.S.A;America;92876;55.9;44.1
+2014;Calicut;U.S.A;America;348004;55.9;44.1
+2014;Benguluru;U.S.A;America;114136;55.9;44.1
+2014;Kolkata;U.S.A;America;99589;55.9;44.1
+2014;Hyderabad;U.S.A;America;153301;55.9;44.1
+2014;Cochin;U.S.A;America;0;55.9;44.1
+2015;Delhi;U.S.A;America;290056;55.5;44.5
+2015;Mumbai;U.S.A;America;27913;55.5;44.5
+2015;Chennai;U.S.A;America;98304;55.5;44.5
+2015;Calicut;U.S.A;America;377437;55.5;44.5
+2015;Benguluru;U.S.A;America;127431;55.5;44.5
+2015;Kolkata;U.S.A;America;115294;55.5;44.5
+2015;Hyderabad;U.S.A;America;177189;55.5;44.5
+2015;Cochin;U.S.A;America;0;55.5;44.5
+2016;Delhi;U.S.A;America;400754;55.1;44.9
+2016;Mumbai;U.S.A;America;294405;55.1;44.9
+2016;Chennai;U.S.A;America;108943;55.1;44.9
+2016;Calicut;U.S.A;America;0;55.1;44.9
+2016;Benguluru;U.S.A;America;133585;55.1;44.9
+2016;Kolkata;U.S.A;America;29830;55.1;44.9
+2016;Hyderabad;U.S.A;America;124506;55.1;44.9
+2016;Cochin;U.S.A;America;58362;55.1;44.9
+2017;Delhi;U.S.A;America;426845;54.8;45.2
+2017;Mumbai;U.S.A;America;318068;54.8;45.2
+2017;Chennai;U.S.A;America;111530;54.8;45.2
+2017;Calicut;U.S.A;America;0;54.8;45.2
+2017;Benguluru;U.S.A;America;140446;54.8;45.2
+2017;Kolkata;U.S.A;America;129430;54.8;45.2
+2017;Hyderabad;U.S.A;America;60584;54.8;45.2
+2017;Cochin;U.S.A;America;34423;54.8;45.2
+2018;Delhi;U.S.A;America;453027;54.8;45.2
+2018;Mumbai;U.S.A;America;336493;54.8;45.2
+2018;Chennai;U.S.A;America;122361;54.8;45.2
+2018;Calicut;U.S.A;America;0;54.8;45.2
+2018;Benguluru;U.S.A;America;152951;54.8;45.2
+2018;Kolkata;U.S.A;America;33504;54.8;45.2
+2018;Hyderabad;U.S.A;America;139841;54.8;45.2
+2018;Cochin;U.S.A;America;65551;54.8;45.2
+2019;Delhi;U.S.A;America;417321;54.7;45.3
+2019;Mumbai;U.S.A;America;353815;54.7;45.3
+2019;Chennai;U.S.A;America;158763;54.7;45.3
+2019;Calicut;U.S.A;America;3024;54.7;45.3
+2019;Benguluru;U.S.A;America;181444;54.7;45.3
+2019;Kolkata;U.S.A;America;40825;54.7;45.3
+2019;Hyderabad;U.S.A;America;207148;54.7;45.3
+2019;Cochin;U.S.A;America;39313;54.7;45.3
+2020;Delhi;U.S.A;America;158031;55.13;44.87
+2020;Mumbai;U.S.A;America;87883;55.13;44.87
+2020;Chennai;U.S.A;America;27981;55.13;44.87
+2020;Calicut;U.S.A;America;394;55.13;44.87
+2020;Benguluru;U.S.A;America;34286;55.13;44.87
+2020;Kolkata;U.S.A;America;7488;55.13;44.87
+2020;Hyderabad;U.S.A;America;46109;55.13;44.87
+2020;Cochin;U.S.A;America;7882;55.13;44.87
+2014;Delhi;Argentina;America;1820;46.2;53.8
+2014;Mumbai;Argentina;America;292;46.2;53.8
+2014;Chennai;Argentina;America;399;46.2;53.8
+2014;Calicut;Argentina;America;5556;46.2;53.8
+2014;Benguluru;Argentina;America;555;46.2;53.8
+2014;Kolkata;Argentina;America;146;46.2;53.8
+2014;Hyderabad;Argentina;America;963;46.2;53.8
+2014;Cochin;Argentina;America;0;46.2;53.8
+2015;Delhi;Argentina;America;1618;47.2;52.8
+2015;Mumbai;Argentina;America;430;47.2;52.8
+2015;Chennai;Argentina;America;421;47.2;52.8
+2015;Calicut;Argentina;America;5302;47.2;52.8
+2015;Benguluru;Argentina;America;701;47.2;52.8
+2015;Kolkata;Argentina;America;103;47.2;52.8
+2015;Hyderabad;Argentina;America;776;47.2;52.8
+2015;Cochin;Argentina;America;0;47.2;52.8
+2016;Delhi;Argentina;America;7914;45.7;54.3
+2016;Mumbai;Argentina;America;1452;45.7;54.3
+2016;Chennai;Argentina;America;505;45.7;54.3
+2016;Calicut;Argentina;America;0;45.7;54.3
+2016;Benguluru;Argentina;America;1120;45.7;54.3
+2016;Kolkata;Argentina;America;455;45.7;54.3
+2016;Hyderabad;Argentina;America;135;45.7;54.3
+2016;Cochin;Argentina;America;172;45.7;54.3
+2017;Delhi;Argentina;America;10115;43.2;56.8
+2017;Mumbai;Argentina;America;1532;43.2;56.8
+2017;Chennai;Argentina;America;580;43.2;56.8
+2017;Calicut;Argentina;America;0;43.2;56.8
+2017;Benguluru;Argentina;America;848;43.2;56.8
+2017;Kolkata;Argentina;America;461;43.2;56.8
+2017;Hyderabad;Argentina;America;149;43.2;56.8
+2017;Cochin;Argentina;America;193;43.2;56.8
+2018;Delhi;Argentina;America;11621;42.6;57.4
+2018;Mumbai;Argentina;America;1618;42.6;57.4
+2018;Chennai;Argentina;America;572;42.6;57.4
+2018;Calicut;Argentina;America;0;42.6;57.4
+2018;Benguluru;Argentina;America;817;42.6;57.4
+2018;Kolkata;Argentina;America;294;42.6;57.4
+2018;Hyderabad;Argentina;America;131;42.6;57.4
+2018;Cochin;Argentina;America;343;42.6;57.4
+2019;Delhi;Argentina;America;4084;44.8;55.2
+2019;Mumbai;Argentina;America;5125;44.8;55.2
+2019;Chennai;Argentina;America;732;44.8;55.2
+2019;Calicut;Argentina;America;13;44.8;55.2
+2019;Benguluru;Argentina;America;1400;44.8;55.2
+2019;Kolkata;Argentina;America;488;44.8;55.2
+2019;Hyderabad;Argentina;America;450;44.8;55.2
+2019;Cochin;Argentina;America;141;44.8;55.2
+2020;Delhi;Argentina;America;1305;38.91;61.09
+2020;Mumbai;Argentina;America;1490;38.91;61.09
+2020;Chennai;Argentina;America;275;38.91;61.09
+2020;Calicut;Argentina;America;0;38.91;61.09
+2020;Benguluru;Argentina;America;494;38.91;61.09
+2020;Kolkata;Argentina;America;86;38.91;61.09
+2020;Hyderabad;Argentina;America;159;38.91;61.09
+2020;Cochin;Argentina;America;228;38.91;61.09
+2014;Delhi;Brazil;America;4304;53.7;46.3
+2014;Mumbai;Brazil;America;509;53.7;46.3
+2014;Chennai;Brazil;America;1096;53.7;46.3
+2014;Calicut;Brazil;America;9586;53.7;46.3
+2014;Benguluru;Brazil;America;1976;53.7;46.3
+2014;Kolkata;Brazil;America;548;53.7;46.3
+2014;Hyderabad;Brazil;America;1545;53.7;46.3
+2014;Cochin;Brazil;America;0;53.7;46.3
+2015;Delhi;Brazil;America;4246;54.3;45.7
+2015;Mumbai;Brazil;America;639;54.3;45.7
+2015;Chennai;Brazil;America;1340;54.3;45.7
+2015;Calicut;Brazil;America;9913;54.3;45.7
+2015;Benguluru;Brazil;America;2082;54.3;45.7
+2015;Kolkata;Brazil;America;536;54.3;45.7
+2015;Hyderabad;Brazil;America;1855;54.3;45.7
+2015;Cochin;Brazil;America;0;54.3;45.7
+2016;Delhi;Brazil;America;10815;54.1;45.9
+2016;Mumbai;Brazil;America;3811;54.1;45.9
+2016;Chennai;Brazil;America;1426;54.1;45.9
+2016;Calicut;Brazil;America;21;54.1;45.9
+2016;Benguluru;Brazil;America;1937;54.1;45.9
+2016;Kolkata;Brazil;America;617;54.1;45.9
+2016;Hyderabad;Brazil;America;617;54.1;45.9
+2016;Cochin;Brazil;America;426;54.1;45.9
+2017;Delhi;Brazil;America;12642;52.9;47.1
+2017;Mumbai;Brazil;America;4548;52.9;47.1
+2017;Chennai;Brazil;America;1663;52.9;47.1
+2017;Calicut;Brazil;America;0;52.9;47.1
+2017;Benguluru;Brazil;America;2005;52.9;47.1
+2017;Kolkata;Brazil;America;709;52.9;47.1
+2017;Hyderabad;Brazil;America;685;52.9;47.1
+2017;Cochin;Brazil;America;2470;52.9;47.1
+2018;Delhi;Brazil;America;14220;51.7;48.3
+2018;Mumbai;Brazil;America;4758;51.7;48.3
+2018;Chennai;Brazil;America;1595;51.7;48.3
+2018;Calicut;Brazil;America;0;51.7;48.3
+2018;Benguluru;Brazil;America;2233;51.7;48.3
+2018;Kolkata;Brazil;America;558;51.7;48.3
+2018;Hyderabad;Brazil;America;824;51.7;48.3
+2018;Cochin;Brazil;America;638;51.7;48.3
+2019;Delhi;Brazil;America;6762;53.9;46.1
+2019;Mumbai;Brazil;America;9737;53.9;46.1
+2019;Chennai;Brazil;America;1957;53.9;46.1
+2019;Calicut;Brazil;America;76;53.9;46.1
+2019;Benguluru;Brazil;America;2263;53.9;46.1
+2019;Kolkata;Brazil;America;610;53.9;46.1
+2019;Hyderabad;Brazil;America;1576;53.9;46.1
+2019;Cochin;Brazil;America;839;53.9;46.1
+2020;Delhi;Brazil;America;2654;49.86;50.14
+2020;Mumbai;Brazil;America;3730;49.86;50.14
+2020;Chennai;Brazil;America;356;49.86;50.14
+2020;Calicut;Brazil;America;8;49.86;50.14
+2020;Benguluru;Brazil;America;364;49.86;50.14
+2020;Kolkata;Brazil;America;49;49.86;50.14
+2020;Hyderabad;Brazil;America;251;49.86;50.14
+2020;Cochin;Brazil;America;210;49.86;50.14
+2014;Delhi;Mexico;America;2055;50.8;49.2
+2014;Mumbai;Mexico;America;294;50.8;49.2
+2014;Chennai;Mexico;America;853;50.8;49.2
+2014;Calicut;Mexico;America;8778;50.8;49.2
+2014;Benguluru;Mexico;America;797;50.8;49.2
+2014;Kolkata;Mexico;America;266;50.8;49.2
+2014;Hyderabad;Mexico;America;937;50.8;49.2
+2014;Cochin;Mexico;America;0;50.8;49.2
+2015;Delhi;Mexico;America;2220;51.9;48.1
+2015;Mumbai;Mexico;America;295;51.9;48.1
+2015;Chennai;Mexico;America;871;51.9;48.1
+2015;Calicut;Mexico;America;8303;51.9;48.1
+2015;Benguluru;Mexico;America;871;51.9;48.1
+2015;Kolkata;Mexico;America;365;51.9;48.1
+2015;Hyderabad;Mexico;America;1124;51.9;48.1
+2015;Cochin;Mexico;America;0;51.9;48.1
+2016;Delhi;Mexico;America;9335;50.8;49.2
+2016;Mumbai;Mexico;America;2228;50.8;49.2
+2016;Chennai;Mexico;America;941;50.8;49.2
+2016;Calicut;Mexico;America;0;50.8;49.2
+2016;Benguluru;Mexico;America;988;50.8;49.2
+2016;Kolkata;Mexico;America;361;50.8;49.2
+2016;Hyderabad;Mexico;America;314;50.8;49.2
+2016;Cochin;Mexico;America;235;50.8;49.2
+2017;Delhi;Mexico;America;11828;48.8;51.2
+2017;Mumbai;Mexico;America;2192;48.8;51.2
+2017;Chennai;Mexico;America;869;48.8;51.2
+2017;Calicut;Mexico;America;0;48.8;51.2
+2017;Benguluru;Mexico;America;960;48.8;51.2
+2017;Kolkata;Mexico;America;399;48.8;51.2
+2017;Hyderabad;Mexico;America;362;48.8;51.2
+2017;Cochin;Mexico;America;380;48.8;51.2
+2018;Delhi;Mexico;America;12304;47.8;52.2
+2018;Mumbai;Mexico;America;2548;47.8;52.2
+2018;Chennai;Mexico;America;916;47.8;52.2
+2018;Calicut;Mexico;America;0;47.8;52.2
+2018;Benguluru;Mexico;America;1832;47.8;52.2
+2018;Kolkata;Mexico;America;418;47.8;52.2
+2018;Hyderabad;Mexico;America;378;47.8;52.2
+2018;Cochin;Mexico;America;438;47.8;52.2
+2019;Delhi;Mexico;America;7497;48.7;51.3
+2019;Mumbai;Mexico;America;7746;48.7;51.3
+2019;Chennai;Mexico;America;1661;48.7;51.3
+2019;Calicut;Mexico;America;21;48.7;51.3
+2019;Benguluru;Mexico;America;2783;48.7;51.3
+2019;Kolkata;Mexico;America;249;48.7;51.3
+2019;Hyderabad;Mexico;America;332;48.7;51.3
+2019;Cochin;Mexico;America;228;48.7;51.3
+2020;Delhi;Mexico;America;1685;47.86;52.14
+2020;Mumbai;Mexico;America;1663;47.86;52.14
+2020;Chennai;Mexico;America;330;47.86;52.14
+2020;Calicut;Mexico;America;5;47.86;52.14
+2020;Benguluru;Mexico;America;554;47.86;52.14
+2020;Kolkata;Mexico;America;69;47.86;52.14
+2020;Hyderabad;Mexico;America;128;47.86;52.14
+2020;Cochin;Mexico;America;23;47.86;52.14
+2014;Delhi;Austria;Europa;5017;57.2;42.8
+2014;Mumbai;Austria;Europa;584;57.2;42.8
+2014;Chennai;Austria;Europa;2130;57.2;42.8
+2014;Calicut;Austria;Europa;18795;57.2;42.8
+2014;Benguluru;Austria;Europa;2165;57.2;42.8
+2014;Kolkata;Austria;Europa;344;57.2;42.8
+2014;Hyderabad;Austria;Europa;5326;57.2;42.8
+2014;Cochin;Austria;Europa;0;57.2;42.8
+2015;Delhi;Austria;Europa;4983;57.2;42.8
+2015;Mumbai;Austria;Europa;673;57.2;42.8
+2015;Chennai;Austria;Europa;1650;57.2;42.8
+2015;Calicut;Austria;Europa;18182;57.2;42.8
+2015;Benguluru;Austria;Europa;2189;57.2;42.8
+2015;Kolkata;Austria;Europa;404;57.2;42.8
+2015;Hyderabad;Austria;Europa;5589;57.2;42.8
+2015;Cochin;Austria;Europa;0;57.2;42.8
+2016;Delhi;Austria;Europa;15618;58.2;41.8
+2016;Mumbai;Austria;Europa;5063;58.2;41.8
+2016;Chennai;Austria;Europa;1787;58.2;41.8
+2016;Calicut;Austria;Europa;33;58.2;41.8
+2016;Benguluru;Austria;Europa;2316;58.2;41.8
+2016;Kolkata;Austria;Europa;695;58.2;41.8
+2016;Hyderabad;Austria;Europa;364;58.2;41.8
+2016;Cochin;Austria;Europa;3143;58.2;41.8
+2017;Delhi;Austria;Europa;14324;58.1;41.9
+2017;Mumbai;Austria;Europa;5157;58.1;41.9
+2017;Chennai;Austria;Europa;1560;58.1;41.9
+2017;Calicut;Austria;Europa;0;58.1;41.9
+2017;Benguluru;Austria;Europa;2387;58.1;41.9
+2017;Kolkata;Austria;Europa;637;58.1;41.9
+2017;Hyderabad;Austria;Europa;477;58.1;41.9
+2017;Cochin;Austria;Europa;796;58.1;41.9
+2018;Delhi;Austria;Europa;16401;58.2;41.8
+2018;Mumbai;Austria;Europa;5179;58.2;41.8
+2018;Chennai;Austria;Europa;1560;58.2;41.8
+2018;Calicut;Austria;Europa;0;58.2;41.8
+2018;Benguluru;Austria;Europa;2191;58.2;41.8
+2018;Kolkata;Austria;Europa;664;58.2;41.8
+2018;Hyderabad;Austria;Europa;564;58.2;41.8
+2018;Cochin;Austria;Europa;2988;58.2;41.8
+2019;Delhi;Austria;Europa;18656;57.1;42.9
+2019;Mumbai;Austria;Europa;6693;57.1;42.9
+2019;Chennai;Austria;Europa;1132;57.1;42.9
+2019;Calicut;Austria;Europa;162;57.1;42.9
+2019;Benguluru;Austria;Europa;1746;57.1;42.9
+2019;Kolkata;Austria;Europa;970;57.1;42.9
+2019;Hyderabad;Austria;Europa;517;57.1;42.9
+2019;Cochin;Austria;Europa;744;57.1;42.9
+2020;Delhi;Austria;Europa;5821;55.48;44.52
+2020;Mumbai;Austria;Europa;1074;55.48;44.52
+2020;Chennai;Austria;Europa;294;55.48;44.52
+2020;Calicut;Austria;Europa;83;55.48;44.52
+2020;Benguluru;Austria;Europa;569;55.48;44.52
+2020;Kolkata;Austria;Europa;174;55.48;44.52
+2020;Hyderabad;Austria;Europa;220;55.48;44.52
+2020;Cochin;Austria;Europa;358;55.48;44.52
+2014;Delhi;Belgium;Europa;13142;60.2;39.8
+2014;Mumbai;Belgium;Europa;487;60.2;39.8
+2014;Chennai;Belgium;Europa;2658;60.2;39.8
+2014;Calicut;Belgium;Europa;16062;60.2;39.8
+2014;Benguluru;Belgium;Europa;1872;60.2;39.8
+2014;Kolkata;Belgium;Europa;562;60.2;39.8
+2014;Hyderabad;Belgium;Europa;2658;60.2;39.8
+2014;Cochin;Belgium;Europa;0;60.2;39.8
+2015;Delhi;Belgium;Europa;12729;60.9;39.1
+2015;Mumbai;Belgium;Europa;477;60.9;39.1
+2015;Chennai;Belgium;Europa;2641;60.9;39.1
+2015;Calicut;Belgium;Europa;14930;60.9;39.1
+2015;Benguluru;Belgium;Europa;2091;60.9;39.1
+2015;Kolkata;Belgium;Europa;624;60.9;39.1
+2015;Hyderabad;Belgium;Europa;3192;60.9;39.1
+2015;Cochin;Belgium;Europa;0;60.9;39.1
+2016;Delhi;Belgium;Europa;14804;61.5;38.5
+2016;Mumbai;Belgium;Europa;12375;61.5;38.5
+2016;Chennai;Belgium;Europa;3189;61.5;38.5
+2016;Calicut;Belgium;Europa;0;61.5;38.5
+2016;Benguluru;Belgium;Europa;2505;61.5;38.5
+2016;Kolkata;Belgium;Europa;607;61.5;38.5
+2016;Hyderabad;Belgium;Europa;759;61.5;38.5
+2016;Cochin;Belgium;Europa;797;61.5;38.5
+2017;Delhi;Belgium;Europa;15420;60.5;39.5
+2017;Mumbai;Belgium;Europa;15755;60.5;39.5
+2017;Chennai;Belgium;Europa;2849;60.5;39.5
+2017;Calicut;Belgium;Europa;0;60.5;39.5
+2017;Benguluru;Belgium;Europa;2598;60.5;39.5
+2017;Kolkata;Belgium;Europa;545;60.5;39.5
+2017;Hyderabad;Belgium;Europa;754;60.5;39.5
+2017;Cochin;Belgium;Europa;629;60.5;39.5
+2018;Delhi;Belgium;Europa;16841;59.6;40.4
+2018;Mumbai;Belgium;Europa;16885;59.6;40.4
+2018;Chennai;Belgium;Europa;2866;59.6;40.4
+2018;Calicut;Belgium;Europa;0;59.6;40.4
+2018;Benguluru;Belgium;Europa;2822;59.6;40.4
+2018;Kolkata;Belgium;Europa;529;59.6;40.4
+2018;Hyderabad;Belgium;Europa;749;59.6;40.4
+2018;Cochin;Belgium;Europa;794;59.6;40.4
+2019;Delhi;Belgium;Europa;10091;60.8;39.2
+2019;Mumbai;Belgium;Europa;16922;60.8;39.2
+2019;Chennai;Belgium;Europa;2945;60.8;39.2
+2019;Calicut;Belgium;Europa;79;60.8;39.2
+2019;Benguluru;Belgium;Europa;3848;60.8;39.2
+2019;Kolkata;Belgium;Europa;942;60.8;39.2
+2019;Hyderabad;Belgium;Europa;2081;60.8;39.2
+2019;Cochin;Belgium;Europa;825;60.8;39.2
+2020;Delhi;Belgium;Europa;3803;60.38;39.62
+2020;Mumbai;Belgium;Europa;4299;60.38;39.62
+2020;Chennai;Belgium;Europa;628;60.38;39.62
+2020;Calicut;Belgium;Europa;28;60.38;39.62
+2020;Benguluru;Belgium;Europa;1113;60.38;39.62
+2020;Kolkata;Belgium;Europa;198;60.38;39.62
+2020;Hyderabad;Belgium;Europa;408;60.38;39.62
+2020;Cochin;Belgium;Europa;320;60.38;39.62
+2014;Delhi;Denmark;Europa;5971;57.1;42.9
+2014;Mumbai;Denmark;Europa;482;57.1;42.9
+2014;Chennai;Denmark;Europa;2918;57.1;42.9
+2014;Calicut;Denmark;Europa;10067;57.1;42.9
+2014;Benguluru;Denmark;Europa;2678;57.1;42.9
+2014;Kolkata;Denmark;Europa;402;57.1;42.9
+2014;Hyderabad;Denmark;Europa;4257;57.1;42.9
+2014;Cochin;Denmark;Europa;0;57.1;42.9
+2015;Delhi;Denmark;Europa;5561;59.2;40.8
+2015;Mumbai;Denmark;Europa;506;59.2;40.8
+2015;Chennai;Denmark;Europa;2720;59.2;40.8
+2015;Calicut;Denmark;Europa;8666;59.2;40.8
+2015;Benguluru;Denmark;Europa;2696;59.2;40.8
+2015;Kolkata;Denmark;Europa;361;59.2;40.8
+2015;Hyderabad;Denmark;Europa;3563;59.2;40.8
+2015;Cochin;Denmark;Europa;0;59.2;40.8
+2016;Delhi;Denmark;Europa;8873;58.7;41.3
+2016;Mumbai;Denmark;Europa;5561;58.7;41.3
+2016;Chennai;Denmark;Europa;2793;58.7;41.3
+2016;Calicut;Denmark;Europa;0;58.7;41.3
+2016;Benguluru;Denmark;Europa;2645;58.7;41.3
+2016;Kolkata;Denmark;Europa;519;58.7;41.3
+2016;Hyderabad;Denmark;Europa;395;58.7;41.3
+2016;Cochin;Denmark;Europa;742;58.7;41.3
+2017;Delhi;Denmark;Europa;11106;58.8;41.2
+2017;Mumbai;Denmark;Europa;5004;58.8;41.2
+2017;Chennai;Denmark;Europa;2649;58.8;41.2
+2017;Calicut;Denmark;Europa;0;58.8;41.2
+2017;Benguluru;Denmark;Europa;2944;58.8;41.2
+2017;Kolkata;Denmark;Europa;535;58.8;41.2
+2017;Hyderabad;Denmark;Europa;482;58.8;41.2
+2017;Cochin;Denmark;Europa;776;58.8;41.2
+2018;Delhi;Denmark;Europa;12885;56.8;43.2
+2018;Mumbai;Denmark;Europa;4201;56.8;43.2
+2018;Chennai;Denmark;Europa;2566;56.8;43.2
+2018;Calicut;Denmark;Europa;0;56.8;43.2
+2018;Benguluru;Denmark;Europa;2932;56.8;43.2
+2018;Kolkata;Denmark;Europa;536;56.8;43.2
+2018;Hyderabad;Denmark;Europa;395;56.8;43.2
+2018;Cochin;Denmark;Europa;648;56.8;43.2
+2019;Delhi;Denmark;Europa;14359;57.9;42.1
+2019;Mumbai;Denmark;Europa;4451;57.9;42.1
+2019;Chennai;Denmark;Europa;2252;57.9;42.1
+2019;Calicut;Denmark;Europa;53;57.9;42.1
+2019;Benguluru;Denmark;Europa;2729;57.9;42.1
+2019;Kolkata;Denmark;Europa;662;57.9;42.1
+2019;Hyderabad;Denmark;Europa;583;57.9;42.1
+2019;Cochin;Denmark;Europa;450;57.9;42.1
+2020;Delhi;Denmark;Europa;4109;53.08;46.92
+2020;Mumbai;Denmark;Europa;1659;53.08;46.92
+2020;Chennai;Denmark;Europa;685;53.08;46.92
+2020;Calicut;Denmark;Europa;8;53.08;46.92
+2020;Benguluru;Denmark;Europa;1098;53.08;46.92
+2020;Kolkata;Denmark;Europa;173;53.08;46.92
+2020;Hyderabad;Denmark;Europa;206;53.08;46.92
+2020;Cochin;Denmark;Europa;99;53.08;46.92
+2014;Delhi;Finland;Europa;2909;55;45
+2014;Mumbai;Finland;Europa;188;55;45
+2014;Chennai;Finland;Europa;938;55;45
+2014;Calicut;Finland;Europa;10677;55;45
+2014;Benguluru;Finland;Europa;995;55;45
+2014;Kolkata;Finland;Europa;150;55;45
+2014;Hyderabad;Finland;Europa;2909;55;45
+2014;Cochin;Finland;Europa;0;55;45
+2015;Delhi;Finland;Europa;2556;54.4;45.6
+2015;Mumbai;Finland;Europa;181;54.4;45.6
+2015;Chennai;Finland;Europa;707;54.4;45.6
+2015;Calicut;Finland;Europa;10732;54.4;45.6
+2015;Benguluru;Finland;Europa;852;54.4;45.6
+2015;Kolkata;Finland;Europa;181;54.4;45.6
+2015;Hyderabad;Finland;Europa;2919;54.4;45.6
+2015;Cochin;Finland;Europa;0;54.4;45.6
+2016;Delhi;Finland;Europa;10747;54.5;45.5
+2016;Mumbai;Finland;Europa;2480;54.5;45.5
+2016;Chennai;Finland;Europa;808;54.5;45.5
+2016;Calicut;Finland;Europa;18;54.5;45.5
+2016;Benguluru;Finland;Europa;735;54.5;45.5
+2016;Kolkata;Finland;Europa;129;54.5;45.5
+2016;Hyderabad;Finland;Europa;3123;54.5;45.5
+2016;Cochin;Finland;Europa;331;54.5;45.5
+2017;Delhi;Finland;Europa;11313;53.6;46.4
+2017;Mumbai;Finland;Europa;1875;53.6;46.4
+2017;Chennai;Finland;Europa;877;53.6;46.4
+2017;Calicut;Finland;Europa;0;53.6;46.4
+2017;Benguluru;Finland;Europa;836;53.6;46.4
+2017;Kolkata;Finland;Europa;163;53.6;46.4
+2017;Hyderabad;Finland;Europa;245;53.6;46.4
+2017;Cochin;Finland;Europa;652;53.6;46.4
+2018;Delhi;Finland;Europa;12170;52.7;47.3
+2018;Mumbai;Finland;Europa;1635;52.7;47.3
+2018;Chennai;Finland;Europa;722;52.7;47.3
+2018;Calicut;Finland;Europa;0;52.7;47.3
+2018;Benguluru;Finland;Europa;786;52.7;47.3
+2018;Kolkata;Finland;Europa;170;52.7;47.3
+2018;Hyderabad;Finland;Europa;234;52.7;47.3
+2018;Cochin;Finland;Europa;382;52.7;47.3
+2019;Delhi;Finland;Europa;11121;54.7;45.3
+2019;Mumbai;Finland;Europa;3334;54.7;45.3
+2019;Chennai;Finland;Europa;1345;54.7;45.3
+2019;Calicut;Finland;Europa;38;54.7;45.3
+2019;Benguluru;Finland;Europa;1572;54.7;45.3
+2019;Kolkata;Finland;Europa;398;54.7;45.3
+2019;Hyderabad;Finland;Europa;474;54.7;45.3
+2019;Cochin;Finland;Europa;227;54.7;45.3
+2020;Delhi;Finland;Europa;2646;56.87;43.13
+2020;Mumbai;Finland;Europa;836;56.87;43.13
+2020;Chennai;Finland;Europa;228;56.87;43.13
+2020;Calicut;Finland;Europa;17;56.87;43.13
+2020;Benguluru;Finland;Europa;323;56.87;43.13
+2020;Kolkata;Finland;Europa;65;56.87;43.13
+2020;Hyderabad;Finland;Europa;116;56.87;43.13
+2020;Cochin;Finland;Europa;34;56.87;43.13
+2014;Delhi;France;Europa;48236;54.1;45.9
+2014;Mumbai;France;Europa;2953;54.1;45.9
+2014;Chennai;France;Europa;49712;54.1;45.9
+2014;Calicut;France;Europa;105577;54.1;45.9
+2014;Benguluru;France;Europa;21903;54.1;45.9
+2014;Kolkata;France;Europa;2215;54.1;45.9
+2014;Hyderabad;France;Europa;15504;54.1;45.9
+2014;Cochin;France;Europa;0;54.1;45.9
+2015;Delhi;France;Europa;49864;54.5;45.5
+2015;Mumbai;France;Europa;3001;54.5;45.5
+2015;Chennai;France;Europa;44555;54.5;45.5
+2015;Calicut;France;Europa;93265;54.5;45.5
+2015;Benguluru;France;Europa;23085;54.5;45.5
+2015;Kolkata;France;Europa;2078;54.5;45.5
+2015;Hyderabad;France;Europa;15006;54.5;45.5
+2015;Cochin;France;Europa;0;54.5;45.5
+2016;Delhi;France;Europa;93573;54.6;45.4
+2016;Mumbai;France;Europa;52038;54.6;45.4
+2016;Chennai;France;Europa;47503;54.6;45.4
+2016;Calicut;France;Europa;0;54.6;45.4
+2016;Benguluru;France;Europa;23632;54.6;45.4
+2016;Kolkata;France;Europa;2864;54.6;45.4
+2016;Hyderabad;France;Europa;2387;54.6;45.4
+2016;Cochin;France;Europa;5968;54.6;45.4
+2017;Delhi;France;Europa;96353;54;46
+2017;Mumbai;France;Europa;53668;54;46
+2017;Chennai;France;Europa;49425;54;46
+2017;Calicut;France;Europa;0;54;46
+2017;Benguluru;France;Europa;25711;54;46
+2017;Kolkata;France;Europa;2746;54;46
+2017;Hyderabad;France;Europa;2995;54;46
+2017;Cochin;France;Europa;20219;54;46
+2018;Delhi;France;Europa;102045;53.6;46.4
+2018;Mumbai;France;Europa;48144;53.6;46.4
+2018;Chennai;France;Europa;58087;53.6;46.4
+2018;Calicut;France;Europa;0;53.6;46.4
+2018;Benguluru;France;Europa;26689;53.6;46.4
+2018;Kolkata;France;Europa;3140;53.6;46.4
+2018;Hyderabad;France;Europa;3140;53.6;46.4
+2018;Cochin;France;Europa;6803;53.6;46.4
+2019;Delhi;France;Europa;95187;53.5;46.5
+2019;Mumbai;France;Europa;61562;53.5;46.5
+2019;Chennai;France;Europa;26207;53.5;46.5
+2019;Calicut;France;Europa;494;53.5;46.5
+2019;Benguluru;France;Europa;30658;53.5;46.5
+2019;Kolkata;France;Europa;8406;53.5;46.5
+2019;Hyderabad;France;Europa;8159;53.5;46.5
+2019;Cochin;France;Europa;5934;53.5;46.5
+2020;Delhi;France;Europa;34078;50.23;49.77
+2020;Mumbai;France;Europa;15443;50.23;49.77
+2020;Chennai;France;Europa;6979;50.23;49.77
+2020;Calicut;France;Europa;148;50.23;49.77
+2020;Benguluru;France;Europa;10543;50.23;49.77
+2020;Kolkata;France;Europa;1114;50.23;49.77
+2020;Hyderabad;France;Europa;1930;50.23;49.77
+2020;Cochin;France;Europa;1262;50.23;49.77
+2014;Delhi;Germany;Europa;51408;60.3;39.7
+2014;Mumbai;Germany;Europa;5260;60.3;39.7
+2014;Chennai;Germany;Europa;21520;60.3;39.7
+2014;Calicut;Germany;Europa;96121;60.3;39.7
+2014;Benguluru;Germany;Europa;28215;60.3;39.7
+2014;Kolkata;Germany;Europa;2869;60.3;39.7
+2014;Hyderabad;Germany;Europa;33714;60.3;39.7
+2014;Cochin;Germany;Europa;0;60.3;39.7
+2015;Delhi;Germany;Europa;54381;60.3;39.7
+2015;Mumbai;Germany;Europa;5215;60.3;39.7
+2015;Chennai;Germany;Europa;21603;60.3;39.7
+2015;Calicut;Germany;Europa;94608;60.3;39.7
+2015;Benguluru;Germany;Europa;30543;60.3;39.7
+2015;Kolkata;Germany;Europa;3476;60.3;39.7
+2015;Hyderabad;Germany;Europa;38489;60.3;39.7
+2015;Cochin;Germany;Europa;0;60.3;39.7
+2016;Delhi;Germany;Europa;99191;59.3;40.7
+2016;Mumbai;Germany;Europa;54515;59.3;40.7
+2016;Chennai;Germany;Europa;22072;59.3;40.7
+2016;Calicut;Germany;Europa;0;59.3;40.7
+2016;Benguluru;Germany;Europa;31645;59.3;40.7
+2016;Kolkata;Germany;Europa;5053;59.3;40.7
+2016;Hyderabad;Germany;Europa;3723;59.3;40.7
+2016;Cochin;Germany;Europa;10637;59.3;40.7
+2017;Delhi;Germany;Europa;106405;59.5;40.5
+2017;Mumbai;Germany;Europa;56570;59.5;40.5
+2017;Chennai;Germany;Europa;22089;59.5;40.5
+2017;Calicut;Germany;Europa;0;59.5;40.5
+2017;Benguluru;Germany;Europa;32326;59.5;40.5
+2017;Kolkata;Germany;Europa;5118;59.5;40.5
+2017;Hyderabad;Germany;Europa;3771;59.5;40.5
+2017;Cochin;Germany;Europa;53068;59.5;40.5
+2018;Delhi;Germany;Europa;112102;58.9;41.1
+2018;Mumbai;Germany;Europa;62218;58.9;41.1
+2018;Chennai;Germany;Europa;21927;58.9;41.1
+2018;Calicut;Germany;Europa;0;58.9;41.1
+2018;Benguluru;Germany;Europa;33165;58.9;41.1
+2018;Kolkata;Germany;Europa;4659;58.9;41.1
+2018;Hyderabad;Germany;Europa;4111;58.9;41.1
+2018;Cochin;Germany;Europa;10415;58.9;41.1
+2019;Delhi;Germany;Europa;90091;58.4;41.6
+2019;Mumbai;Germany;Europa;81612;58.4;41.6
+2019;Chennai;Germany;Europa;18283;58.4;41.6
+2019;Calicut;Germany;Europa;1060;58.4;41.6
+2019;Benguluru;Germany;Europa;41336;58.4;41.6
+2019;Kolkata;Germany;Europa;5564;58.4;41.6
+2019;Hyderabad;Germany;Europa;8214;58.4;41.6
+2019;Cochin;Germany;Europa;7154;58.4;41.6
+2020;Delhi;Germany;Europa;30257;56.68;43.32
+2020;Mumbai;Germany;Europa;16471;56.68;43.32
+2020;Chennai;Germany;Europa;4136;56.68;43.32
+2020;Calicut;Germany;Europa;290;56.68;43.32
+2020;Benguluru;Germany;Europa;13060;56.68;43.32
+2020;Kolkata;Germany;Europa;1233;56.68;43.32
+2020;Hyderabad;Germany;Europa;2467;56.68;43.32
+2020;Cochin;Germany;Europa;2467;56.68;43.32
+2014;Delhi;Greece;Europa;1776;65.5;34.5
+2014;Mumbai;Greece;Europa;241;65.5;34.5
+2014;Chennai;Greece;Europa;540;65.5;34.5
+2014;Calicut;Greece;Europa;3013;65.5;34.5
+2014;Benguluru;Greece;Europa;606;65.5;34.5
+2014;Kolkata;Greece;Europa;340;65.5;34.5
+2014;Hyderabad;Greece;Europa;1785;65.5;34.5
+2014;Cochin;Greece;Europa;0;65.5;34.5
+2015;Delhi;Greece;Europa;1828;67.2;32.8
+2015;Mumbai;Greece;Europa;267;67.2;32.8
+2015;Chennai;Greece;Europa;501;67.2;32.8
+2015;Calicut;Greece;Europa;2879;67.2;32.8
+2015;Benguluru;Greece;Europa;655;67.2;32.8
+2015;Kolkata;Greece;Europa;283;67.2;32.8
+2015;Hyderabad;Greece;Europa;1674;67.2;32.8
+2015;Cochin;Greece;Europa;0;67.2;32.8
+2016;Delhi;Greece;Europa;3538;64.2;35.8
+2016;Mumbai;Greece;Europa;1828;64.2;35.8
+2016;Chennai;Greece;Europa;615;64.2;35.8
+2016;Calicut;Greece;Europa;0;64.2;35.8
+2016;Benguluru;Greece;Europa;715;64.2;35.8
+2016;Kolkata;Greece;Europa;308;64.2;35.8
+2016;Hyderabad;Greece;Europa;317;64.2;35.8
+2016;Cochin;Greece;Europa;398;64.2;35.8
+2017;Delhi;Greece;Europa;3857;59.3;40.7
+2017;Mumbai;Greece;Europa;1687;59.3;40.7
+2017;Chennai;Greece;Europa;741;59.3;40.7
+2017;Calicut;Greece;Europa;0;59.3;40.7
+2017;Benguluru;Greece;Europa;771;59.3;40.7
+2017;Kolkata;Greece;Europa;278;59.3;40.7
+2017;Hyderabad;Greece;Europa;473;59.3;40.7
+2017;Cochin;Greece;Europa;319;59.3;40.7
+2018;Delhi;Greece;Europa;4603;58.5;41.5
+2018;Mumbai;Greece;Europa;1737;58.5;41.5
+2018;Chennai;Greece;Europa;725;58.5;41.5
+2018;Calicut;Greece;Europa;0;58.5;41.5
+2018;Benguluru;Greece;Europa;799;58.5;41.5
+2018;Kolkata;Greece;Europa;309;58.5;41.5
+2018;Hyderabad;Greece;Europa;480;58.5;41.5
+2018;Cochin;Greece;Europa;703;58.5;41.5
+2019;Delhi;Greece;Europa;5808;60;40
+2019;Mumbai;Greece;Europa;2569;60;40
+2019;Chennai;Greece;Europa;227;60;40
+2019;Calicut;Greece;Europa;10;60;40
+2019;Benguluru;Greece;Europa;671;60;40
+2019;Kolkata;Greece;Europa;320;60;40
+2019;Hyderabad;Greece;Europa;258;60;40
+2019;Cochin;Greece;Europa;155;60;40
+2020;Delhi;Greece;Europa;2038;63.14;36.86
+2020;Mumbai;Greece;Europa;437;63.14;36.86
+2020;Chennai;Greece;Europa;60;63.14;36.86
+2020;Calicut;Greece;Europa;3;63.14;36.86
+2020;Benguluru;Greece;Europa;94;63.14;36.86
+2020;Kolkata;Greece;Europa;83;63.14;36.86
+2020;Hyderabad;Greece;Europa;83;63.14;36.86
+2020;Cochin;Greece;Europa;20;63.14;36.86
+2014;Delhi;Ireland;Europa;5940;54.5;45.5
+2014;Mumbai;Ireland;Europa;1188;54.5;45.5
+2014;Chennai;Ireland;Europa;2115;54.5;45.5
+2014;Calicut;Ireland;Europa;8143;54.5;45.5
+2014;Benguluru;Ireland;Europa;2869;54.5;45.5
+2014;Kolkata;Ireland;Europa;1304;54.5;45.5
+2014;Hyderabad;Ireland;Europa;7418;54.5;45.5
+2014;Cochin;Ireland;Europa;0;54.5;45.5
+2015;Delhi;Ireland;Europa;5902;53.8;46.2
+2015;Mumbai;Ireland;Europa;1418;53.8;46.2
+2015;Chennai;Ireland;Europa;2308;53.8;46.2
+2015;Calicut;Ireland;Europa;8804;53.8;46.2
+2015;Benguluru;Ireland;Europa;3330;53.8;46.2
+2015;Kolkata;Ireland;Europa;1616;53.8;46.2
+2015;Hyderabad;Ireland;Europa;9595;53.8;46.2
+2015;Cochin;Ireland;Europa;0;53.8;46.2
+2016;Delhi;Ireland;Europa;10385;53.7;46.3
+2016;Mumbai;Ireland;Europa;6085;53.7;46.3
+2016;Chennai;Ireland;Europa;2514;53.7;46.3
+2016;Calicut;Ireland;Europa;0;53.7;46.3
+2016;Benguluru;Ireland;Europa;3571;53.7;46.3
+2016;Kolkata;Ireland;Europa;1494;53.7;46.3
+2016;Hyderabad;Ireland;Europa;1786;53.7;46.3
+2016;Cochin;Ireland;Europa;6778;53.7;46.3
+2017;Delhi;Ireland;Europa;10790;53.9;46.1
+2017;Mumbai;Ireland;Europa;6041;53.9;46.1
+2017;Chennai;Ireland;Europa;2584;53.9;46.1
+2017;Calicut;Ireland;Europa;0;53.9;46.1
+2017;Benguluru;Ireland;Europa;3609;53.9;46.1
+2017;Kolkata;Ireland;Europa;1596;53.9;46.1
+2017;Hyderabad;Ireland;Europa;1710;53.9;46.1
+2017;Cochin;Ireland;Europa;646;53.9;46.1
+2018;Delhi;Ireland;Europa;11272;53.9;46.1
+2018;Mumbai;Ireland;Europa;5970;53.9;46.1
+2018;Chennai;Ireland;Europa;2671;53.9;46.1
+2018;Calicut;Ireland;Europa;0;53.9;46.1
+2018;Benguluru;Ireland;Europa;4006;53.9;46.1
+2018;Kolkata;Ireland;Europa;1532;53.9;46.1
+2018;Hyderabad;Ireland;Europa;1846;53.9;46.1
+2018;Cochin;Ireland;Europa;7384;53.9;46.1
+2019;Delhi;Ireland;Europa;10666;54.4;45.6
+2019;Mumbai;Ireland;Europa;8278;54.4;45.6
+2019;Chennai;Ireland;Europa;3583;54.4;45.6
+2019;Calicut;Ireland;Europa;453;54.4;45.6
+2019;Benguluru;Ireland;Europa;5560;54.4;45.6
+2019;Kolkata;Ireland;Europa;865;54.4;45.6
+2019;Hyderabad;Ireland;Europa;2759;54.4;45.6
+2019;Cochin;Ireland;Europa;7536;54.4;45.6
+2020;Delhi;Ireland;Europa;3223;54.83;45.17
+2020;Mumbai;Ireland;Europa;2175;54.83;45.17
+2020;Chennai;Ireland;Europa;544;54.83;45.17
+2020;Calicut;Ireland;Europa;49;54.83;45.17
+2020;Benguluru;Ireland;Europa;1883;54.83;45.17
+2020;Kolkata;Ireland;Europa;87;54.83;45.17
+2020;Hyderabad;Ireland;Europa;379;54.83;45.17
+2020;Cochin;Ireland;Europa;1214;54.83;45.17
+2014;Delhi;Italy;Europa;18043;63.3;36.7
+2014;Mumbai;Italy;Europa;2564;63.3;36.7
+2014;Chennai;Italy;Europa;8518;63.3;36.7
+2014;Calicut;Italy;Europa;44604;63.3;36.7
+2014;Benguluru;Italy;Europa;5953;63.3;36.7
+2014;Kolkata;Italy;Europa;1374;63.3;36.7
+2014;Hyderabad;Italy;Europa;10533;63.3;36.7
+2014;Cochin;Italy;Europa;0;63.3;36.7
+2015;Delhi;Italy;Europa;16033;64.8;35.2
+2015;Mumbai;Italy;Europa;2819;64.8;35.2
+2015;Chennai;Italy;Europa;8192;64.8;35.2
+2015;Calicut;Italy;Europa;41667;64.8;35.2
+2015;Benguluru;Italy;Europa;6254;64.8;35.2
+2015;Kolkata;Italy;Europa;1321;64.8;35.2
+2015;Hyderabad;Italy;Europa;11804;64.8;35.2
+2015;Cochin;Italy;Europa;0;64.8;35.2
+2016;Delhi;Italy;Europa;44655;64.3;35.7
+2016;Mumbai;Italy;Europa;16793;64.3;35.7
+2016;Chennai;Italy;Europa;7920;64.3;35.7
+2016;Calicut;Italy;Europa;95;64.3;35.7
+2016;Benguluru;Italy;Europa;6107;64.3;35.7
+2016;Kolkata;Italy;Europa;2767;64.3;35.7
+2016;Hyderabad;Italy;Europa;1718;64.3;35.7
+2016;Cochin;Italy;Europa;2958;64.3;35.7
+2017;Delhi;Italy;Europa;54838;62.2;37.8
+2017;Mumbai;Italy;Europa;18802;62.2;37.8
+2017;Chennai;Italy;Europa;7722;62.2;37.8
+2017;Calicut;Italy;Europa;112;62.2;37.8
+2017;Benguluru;Italy;Europa;6603;62.2;37.8
+2017;Kolkata;Italy;Europa;2686;62.2;37.8
+2017;Hyderabad;Italy;Europa;1791;62.2;37.8
+2017;Cochin;Italy;Europa;2238;62.2;37.8
+2018;Delhi;Italy;Europa;66893;60.9;39.1
+2018;Mumbai;Italy;Europa;19547;60.9;39.1
+2018;Chennai;Italy;Europa;7743;60.9;39.1
+2018;Calicut;Italy;Europa;0;60.9;39.1
+2018;Benguluru;Italy;Europa;7108;60.9;39.1
+2018;Kolkata;Italy;Europa;2792;60.9;39.1
+2018;Hyderabad;Italy;Europa;1650;60.9;39.1
+2018;Cochin;Italy;Europa;3300;60.9;39.1
+2019;Delhi;Italy;Europa;76500;60.6;39.4
+2019;Mumbai;Italy;Europa;17357;60.6;39.4
+2019;Chennai;Italy;Europa;3857;60.6;39.4
+2019;Calicut;Italy;Europa;257;60.6;39.4
+2019;Benguluru;Italy;Europa;5914;60.6;39.4
+2019;Kolkata;Italy;Europa;2700;60.6;39.4
+2019;Hyderabad;Italy;Europa;2186;60.6;39.4
+2019;Cochin;Italy;Europa;7200;60.6;39.4
+2020;Delhi;Italy;Europa;21705;58.57;41.43
+2020;Mumbai;Italy;Europa;2495;58.57;41.43
+2020;Chennai;Italy;Europa;437;58.57;41.43
+2020;Calicut;Italy;Europa;31;58.57;41.43
+2020;Benguluru;Italy;Europa;1279;58.57;41.43
+2020;Kolkata;Italy;Europa;187;58.57;41.43
+2020;Hyderabad;Italy;Europa;187;58.57;41.43
+2020;Cochin;Italy;Europa;1341;58.57;41.43
+2014;Delhi;Netherlands;Europa;17004;61.4;38.6
+2014;Mumbai;Netherlands;Europa;1287;61.4;38.6
+2014;Chennai;Netherlands;Europa;3862;61.4;38.6
+2014;Calicut;Netherlands;Europa;33670;61.4;38.6
+2014;Benguluru;Netherlands;Europa;6436;61.4;38.6
+2014;Kolkata;Netherlands;Europa;1490;61.4;38.6
+2014;Hyderabad;Netherlands;Europa;3997;61.4;38.6
+2014;Cochin;Netherlands;Europa;0;61.4;38.6
+2015;Delhi;Netherlands;Europa;15685;61.9;38.1
+2015;Mumbai;Netherlands;Europa;1390;61.9;38.1
+2015;Chennai;Netherlands;Europa;3838;61.9;38.1
+2015;Calicut;Netherlands;Europa;32561;61.9;38.1
+2015;Benguluru;Netherlands;Europa;6750;61.9;38.1
+2015;Kolkata;Netherlands;Europa;1588;61.9;38.1
+2015;Hyderabad;Netherlands;Europa;4368;61.9;38.1
+2015;Cochin;Netherlands;Europa;0;61.9;38.1
+2016;Delhi;Netherlands;Europa;35345;60.9;39.1
+2016;Mumbai;Netherlands;Europa;17098;60.9;39.1
+2016;Chennai;Netherlands;Europa;4239;60.9;39.1
+2016;Calicut;Netherlands;Europa;0;60.9;39.1
+2016;Benguluru;Netherlands;Europa;6753;60.9;39.1
+2016;Kolkata;Netherlands;Europa;1437;60.9;39.1
+2016;Hyderabad;Netherlands;Europa;1724;60.9;39.1
+2016;Cochin;Netherlands;Europa;1221;60.9;39.1
+2017;Delhi;Netherlands;Europa;37406;60.7;39.3
+2017;Mumbai;Netherlands;Europa;19240;60.7;39.3
+2017;Chennai;Netherlands;Europa;4063;60.7;39.3
+2017;Calicut;Netherlands;Europa;0;60.7;39.3
+2017;Benguluru;Netherlands;Europa;7129;60.7;39.3
+2017;Kolkata;Netherlands;Europa;1303;60.7;39.3
+2017;Hyderabad;Netherlands;Europa;1763;60.7;39.3
+2017;Cochin;Netherlands;Europa;613;60.7;39.3
+2018;Delhi;Netherlands;Europa;38114;59.9;40.1
+2018;Mumbai;Netherlands;Europa;21710;59.9;40.1
+2018;Chennai;Netherlands;Europa;3836;59.9;40.1
+2018;Calicut;Netherlands;Europa;0;59.9;40.1
+2018;Benguluru;Netherlands;Europa;9386;59.9;40.1
+2018;Kolkata;Netherlands;Europa;1387;59.9;40.1
+2018;Hyderabad;Netherlands;Europa;1796;59.9;40.1
+2018;Cochin;Netherlands;Europa;1224;59.9;40.1
+2019;Delhi;Netherlands;Europa;25780;60.2;39.8
+2019;Mumbai;Netherlands;Europa;24335;60.2;39.8
+2019;Chennai;Netherlands;Europa;5622;60.2;39.8
+2019;Calicut;Netherlands;Europa;161;60.2;39.8
+2019;Benguluru;Netherlands;Europa;15822;60.2;39.8
+2019;Kolkata;Netherlands;Europa;2249;60.2;39.8
+2019;Hyderabad;Netherlands;Europa;2731;60.2;39.8
+2019;Cochin;Netherlands;Europa;1124;60.2;39.8
+2020;Delhi;Netherlands;Europa;9742;55.29;44.71
+2020;Mumbai;Netherlands;Europa;7116;55.29;44.71
+2020;Chennai;Netherlands;Europa;1864;55.29;44.71
+2020;Calicut;Netherlands;Europa;53;55.29;44.71
+2020;Benguluru;Netherlands;Europa;5120;55.29;44.71
+2020;Kolkata;Netherlands;Europa;578;55.29;44.71
+2020;Hyderabad;Netherlands;Europa;945;55.29;44.71
+2020;Cochin;Netherlands;Europa;368;55.29;44.71
+2014;Delhi;Norway;Europa;3446;55.2;44.8
+2014;Mumbai;Norway;Europa;217;55.2;44.8
+2014;Chennai;Norway;Europa;1339;55.2;44.8
+2014;Calicut;Norway;Europa;11420;55.2;44.8
+2014;Benguluru;Norway;Europa;1024;55.2;44.8
+2014;Kolkata;Norway;Europa;315;55.2;44.8
+2014;Hyderabad;Norway;Europa;1930;55.2;44.8
+2014;Cochin;Norway;Europa;0;55.2;44.8
+2015;Delhi;Norway;Europa;3655;56;44
+2015;Mumbai;Norway;Europa;415;56;44
+2015;Chennai;Norway;Europa;1482;56;44
+2015;Calicut;Norway;Europa;10886;56;44
+2015;Benguluru;Norway;Europa;1126;56;44
+2015;Kolkata;Norway;Europa;454;56;44
+2015;Hyderabad;Norway;Europa;1739;56;44
+2015;Cochin;Norway;Europa;0;56;44
+2016;Delhi;Norway;Europa;11363;54.7;45.3
+2016;Mumbai;Norway;Europa;3486;54.7;45.3
+2016;Chennai;Norway;Europa;1330;54.7;45.3
+2016;Calicut;Norway;Europa;0;54.7;45.3
+2016;Benguluru;Norway;Europa;1068;54.7;45.3
+2016;Kolkata;Norway;Europa;383;54.7;45.3
+2016;Hyderabad;Norway;Europa;383;54.7;45.3
+2016;Cochin;Norway;Europa;383;54.7;45.3
+2017;Delhi;Norway;Europa;11777;54.3;45.7
+2017;Mumbai;Norway;Europa;3738;54.3;45.7
+2017;Chennai;Norway;Europa;1441;54.3;45.7
+2017;Calicut;Norway;Europa;0;54.3;45.7
+2017;Benguluru;Norway;Europa;1065;54.3;45.7
+2017;Kolkata;Norway;Europa;313;54.3;45.7
+2017;Hyderabad;Norway;Europa;397;54.3;45.7
+2017;Cochin;Norway;Europa;480;54.3;45.7
+2018;Delhi;Norway;Europa;13465;53.4;46.6
+2018;Mumbai;Norway;Europa;3621;53.4;46.6
+2018;Chennai;Norway;Europa;1290;53.4;46.6
+2018;Calicut;Norway;Europa;0;53.4;46.6
+2018;Benguluru;Norway;Europa;1064;53.4;46.6
+2018;Kolkata;Norway;Europa;385;53.4;46.6
+2018;Hyderabad;Norway;Europa;294;53.4;46.6
+2018;Cochin;Norway;Europa;475;53.4;46.6
+2019;Delhi;Norway;Europa;9788;53.6;46.4
+2019;Mumbai;Norway;Europa;5847;53.6;46.4
+2019;Chennai;Norway;Europa;1620;53.6;46.4
+2019;Calicut;Norway;Europa;66;53.6;46.4
+2019;Benguluru;Norway;Europa;1905;53.6;46.4
+2019;Kolkata;Norway;Europa;657;53.6;46.4
+2019;Hyderabad;Norway;Europa;569;53.6;46.4
+2019;Cochin;Norway;Europa;482;53.6;46.4
+2020;Delhi;Norway;Europa;2988;50.96;49.04
+2020;Mumbai;Norway;Europa;1587;50.96;49.04
+2020;Chennai;Norway;Europa;342;50.96;49.04
+2020;Calicut;Norway;Europa;12;50.96;49.04
+2020;Benguluru;Norway;Europa;685;50.96;49.04
+2020;Kolkata;Norway;Europa;199;50.96;49.04
+2020;Hyderabad;Norway;Europa;143;50.96;49.04
+2020;Cochin;Norway;Europa;137;50.96;49.04
+2014;Delhi;Portugal;Europa;16993;65.8;34.2
+2014;Mumbai;Portugal;Europa;217;65.8;34.2
+2014;Chennai;Portugal;Europa;795;65.8;34.2
+2014;Calicut;Portugal;Europa;7882;65.8;34.2
+2014;Benguluru;Portugal;Europa;723;65.8;34.2
+2014;Kolkata;Portugal;Europa;253;65.8;34.2
+2014;Hyderabad;Portugal;Europa;9292;65.8;34.2
+2014;Cochin;Portugal;Europa;0;65.8;34.2
+2015;Delhi;Portugal;Europa;21683;65.9;34.1
+2015;Mumbai;Portugal;Europa;223;65.9;34.1
+2015;Chennai;Portugal;Europa;892;65.9;34.1
+2015;Calicut;Portugal;Europa;8165;65.9;34.1
+2015;Benguluru;Portugal;Europa;1026;65.9;34.1
+2015;Kolkata;Portugal;Europa;312;65.9;34.1
+2015;Hyderabad;Portugal;Europa;12314;65.9;34.1
+2015;Cochin;Portugal;Europa;0;65.9;34.1
+2016;Delhi;Portugal;Europa;8765;65.2;34.8
+2016;Mumbai;Portugal;Europa;25913;65.2;34.8
+2016;Chennai;Portugal;Europa;1034;65.2;34.8
+2016;Calicut;Portugal;Europa;0;65.2;34.8
+2016;Benguluru;Portugal;Europa;1198;65.2;34.8
+2016;Kolkata;Portugal;Europa;381;65.2;34.8
+2016;Hyderabad;Portugal;Europa;327;65.2;34.8
+2016;Cochin;Portugal;Europa;381;65.2;34.8
+2017;Delhi;Portugal;Europa;9758;65.3;34.7
+2017;Mumbai;Portugal;Europa;30866;65.3;34.7
+2017;Chennai;Portugal;Europa;1062;65.3;34.7
+2017;Calicut;Portugal;Europa;0;65.3;34.7
+2017;Benguluru;Portugal;Europa;1195;65.3;34.7
+2017;Kolkata;Portugal;Europa;332;65.3;34.7
+2017;Hyderabad;Portugal;Europa;398;65.3;34.7
+2017;Cochin;Portugal;Europa;2190;65.3;34.7
+2018;Delhi;Portugal;Europa;11025;64.2;35.8
+2018;Mumbai;Portugal;Europa;33149;64.2;35.8
+2018;Chennai;Portugal;Europa;1192;64.2;35.8
+2018;Calicut;Portugal;Europa;0;64.2;35.8
+2018;Benguluru;Portugal;Europa;1639;64.2;35.8
+2018;Kolkata;Portugal;Europa;447;64.2;35.8
+2018;Hyderabad;Portugal;Europa;447;64.2;35.8
+2018;Cochin;Portugal;Europa;670;64.2;35.8
+2019;Delhi;Portugal;Europa;40660;63.9;36.1
+2019;Mumbai;Portugal;Europa;20031;63.9;36.1
+2019;Chennai;Portugal;Europa;2392;63.9;36.1
+2019;Calicut;Portugal;Europa;0;63.9;36.1
+2019;Benguluru;Portugal;Europa;5905;63.9;36.1
+2019;Kolkata;Portugal;Europa;1046;63.9;36.1
+2019;Hyderabad;Portugal;Europa;1719;63.9;36.1
+2019;Cochin;Portugal;Europa;673;63.9;36.1
+2020;Delhi;Portugal;Europa;25579;66.37;33.63
+2020;Mumbai;Portugal;Europa;3101;66.37;33.63
+2020;Chennai;Portugal;Europa;341;66.37;33.63
+2020;Calicut;Portugal;Europa;0;66.37;33.63
+2020;Benguluru;Portugal;Europa;1023;66.37;33.63
+2020;Kolkata;Portugal;Europa;124;66.37;33.63
+2020;Hyderabad;Portugal;Europa;248;66.37;33.63
+2020;Cochin;Portugal;Europa;155;66.37;33.63
+2014;Delhi;Spain;Europa;13758;54.1;45.9
+2014;Mumbai;Spain;Europa;1662;54.1;45.9
+2014;Chennai;Spain;Europa;3589;54.1;45.9
+2014;Calicut;Spain;Europa;37020;54.1;45.9
+2014;Benguluru;Spain;Europa;3855;54.1;45.9
+2014;Kolkata;Spain;Europa;930;54.1;45.9
+2014;Hyderabad;Spain;Europa;5649;54.1;45.9
+2014;Cochin;Spain;Europa;0;54.1;45.9
+2015;Delhi;Spain;Europa;13467;54.8;45.2
+2015;Mumbai;Spain;Europa;1642;54.8;45.2
+2015;Chennai;Spain;Europa;3613;54.8;45.2
+2015;Calicut;Spain;Europa;36394;54.8;45.2
+2015;Benguluru;Spain;Europa;4336;54.8;45.2
+2015;Kolkata;Spain;Europa;985;54.8;45.2
+2015;Hyderabad;Spain;Europa;5256;54.8;45.2
+2015;Cochin;Spain;Europa;0;54.8;45.2
+2016;Delhi;Spain;Europa;44202;53;47
+2016;Mumbai;Spain;Europa;14581;53;47
+2016;Chennai;Spain;Europa;4428;53;47
+2016;Calicut;Spain;Europa;0;53;47
+2016;Benguluru;Spain;Europa;4428;53;47
+2016;Kolkata;Spain;Europa;1603;53;47
+2016;Hyderabad;Spain;Europa;992;53;47
+2016;Cochin;Spain;Europa;1756;53;47
+2017;Delhi;Spain;Europa;49354;52.7;47.3
+2017;Mumbai;Spain;Europa;13356;52.7;47.3
+2017;Chennai;Spain;Europa;4479;52.7;47.3
+2017;Calicut;Spain;Europa;0;52.7;47.3
+2017;Benguluru;Spain;Europa;4805;52.7;47.3
+2017;Kolkata;Spain;Europa;1629;52.7;47.3
+2017;Hyderabad;Spain;Europa;1140;52.7;47.3
+2017;Cochin;Spain;Europa;6108;52.7;47.3
+2018;Delhi;Spain;Europa;51542;52.2;47.8
+2018;Mumbai;Spain;Europa;13413;52.2;47.8
+2018;Chennai;Spain;Europa;4471;52.2;47.8
+2018;Calicut;Spain;Europa;0;52.2;47.8
+2018;Benguluru;Spain;Europa;4893;52.2;47.8
+2018;Kolkata;Spain;Europa;1687;52.2;47.8
+2018;Hyderabad;Spain;Europa;1097;52.2;47.8
+2018;Cochin;Spain;Europa;2109;52.2;47.8
+2019;Delhi;Spain;Europa;41578;52.2;47.8
+2019;Mumbai;Spain;Europa;21914;52.2;47.8
+2019;Chennai;Spain;Europa;3000;52.2;47.8
+2019;Calicut;Spain;Europa;83;52.2;47.8
+2019;Benguluru;Spain;Europa;5999;52.2;47.8
+2019;Kolkata;Spain;Europa;1916;52.2;47.8
+2019;Hyderabad;Spain;Europa;2000;52.2;47.8
+2019;Cochin;Spain;Europa;1750;52.2;47.8
+2020;Delhi;Spain;Europa;11189;54.76;45.24
+2020;Mumbai;Spain;Europa;2712;54.76;45.24
+2020;Chennai;Spain;Europa;327;54.76;45.24
+2020;Calicut;Spain;Europa;16;54.76;45.24
+2020;Benguluru;Spain;Europa;915;54.76;45.24
+2020;Kolkata;Spain;Europa;147;54.76;45.24
+2020;Hyderabad;Spain;Europa;212;54.76;45.24
+2020;Cochin;Spain;Europa;294;54.76;45.24
+2014;Delhi;Sweden;Europa;10473;54.9;45.1
+2014;Mumbai;Sweden;Europa;944;54.9;45.1
+2014;Chennai;Sweden;Europa;2427;54.9;45.1
+2014;Calicut;Sweden;Europa;16990;54.9;45.1
+2014;Benguluru;Sweden;Europa;4675;54.9;45.1
+2014;Kolkata;Sweden;Europa;764;54.9;45.1
+2014;Hyderabad;Sweden;Europa;8675;54.9;45.1
+2014;Cochin;Sweden;Europa;0;54.9;45.1
+2015;Delhi;Sweden;Europa;9463;55.6;44.4
+2015;Mumbai;Sweden;Europa;938;55.6;44.4
+2015;Chennai;Sweden;Europa;2344;55.6;44.4
+2015;Calicut;Sweden;Europa;16667;55.6;44.4
+2015;Benguluru;Sweden;Europa;4859;55.6;44.4
+2015;Kolkata;Sweden;Europa;853;55.6;44.4
+2015;Hyderabad;Sweden;Europa;7502;55.6;44.4
+2015;Cochin;Sweden;Europa;0;55.6;44.4
+2016;Delhi;Sweden;Europa;17213;55.8;44.2
+2016;Mumbai;Sweden;Europa;15728;55.8;44.2
+2016;Chennai;Sweden;Europa;2490;55.8;44.2
+2016;Calicut;Sweden;Europa;44;55.8;44.2
+2016;Benguluru;Sweden;Europa;4849;55.8;44.2
+2016;Kolkata;Sweden;Europa;917;55.8;44.2
+2016;Hyderabad;Sweden;Europa;961;55.8;44.2
+2016;Cochin;Sweden;Europa;1485;55.8;44.2
+2017;Delhi;Sweden;Europa;19899;55.5;44.5
+2017;Mumbai;Sweden;Europa;8528;55.5;44.5
+2017;Chennai;Sweden;Europa;2293;55.5;44.5
+2017;Calicut;Sweden;Europa;46;55.5;44.5
+2017;Benguluru;Sweden;Europa;5227;55.5;44.5
+2017;Kolkata;Sweden;Europa;917;55.5;44.5
+2017;Hyderabad;Sweden;Europa;963;55.5;44.5
+2017;Cochin;Sweden;Europa;2614;55.5;44.5
+2018;Delhi;Sweden;Europa;22250;55.1;44.9
+2018;Mumbai;Sweden;Europa;7432;55.1;44.9
+2018;Chennai;Sweden;Europa;2150;55.1;44.9
+2018;Calicut;Sweden;Europa;0;55.1;44.9
+2018;Benguluru;Sweden;Europa;4721;55.1;44.9
+2018;Kolkata;Sweden;Europa;982;55.1;44.9
+2018;Hyderabad;Sweden;Europa;841;55.1;44.9
+2018;Cochin;Sweden;Europa;1496;55.1;44.9
+2019;Delhi;Sweden;Europa;23317;55.8;44.2
+2019;Mumbai;Sweden;Europa;5967;55.8;44.2
+2019;Chennai;Sweden;Europa;3470;55.8;44.2
+2019;Calicut;Sweden;Europa;85;55.8;44.2
+2019;Benguluru;Sweden;Europa;5332;55.8;44.2
+2019;Kolkata;Sweden;Europa;1058;55.8;44.2
+2019;Hyderabad;Sweden;Europa;1270;55.8;44.2
+2019;Cochin;Sweden;Europa;592;55.8;44.2
+2020;Delhi;Sweden;Europa;6116;52.48;47.52
+2020;Mumbai;Sweden;Europa;1727;52.48;47.52
+2020;Chennai;Sweden;Europa;899;52.48;47.52
+2020;Calicut;Sweden;Europa;48;52.48;47.52
+2020;Benguluru;Sweden;Europa;2159;52.48;47.52
+2020;Kolkata;Sweden;Europa;276;52.48;47.52
+2020;Hyderabad;Sweden;Europa;348;52.48;47.52
+2020;Cochin;Sweden;Europa;168;52.48;47.52
+2014;Delhi;Switzerland;Europa;12313;54.5;45.5
+2014;Mumbai;Switzerland;Europa;870;54.5;45.5
+2014;Chennai;Switzerland;Europa;3616;54.5;45.5
+2014;Calicut;Switzerland;Europa;18630;54.5;45.5
+2014;Benguluru;Switzerland;Europa;2975;54.5;45.5
+2014;Kolkata;Switzerland;Europa;641;54.5;45.5
+2014;Hyderabad;Switzerland;Europa;6729;54.5;45.5
+2014;Cochin;Switzerland;Europa;0;54.5;45.5
+2015;Delhi;Switzerland;Europa;12184;54.3;45.7
+2015;Mumbai;Switzerland;Europa;969;54.3;45.7
+2015;Chennai;Switzerland;Europa;3277;54.3;45.7
+2015;Calicut;Switzerland;Europa;18783;54.3;45.7
+2015;Benguluru;Switzerland;Europa;3046;54.3;45.7
+2015;Kolkata;Switzerland;Europa;646;54.3;45.7
+2015;Hyderabad;Switzerland;Europa;7246;54.3;45.7
+2015;Cochin;Switzerland;Europa;0;54.3;45.7
+2016;Delhi;Switzerland;Europa;19057;54.1;45.9
+2016;Mumbai;Switzerland;Europa;12031;54.1;45.9
+2016;Chennai;Switzerland;Europa;3465;54.1;45.9
+2016;Calicut;Switzerland;Europa;0;54.1;45.9
+2016;Benguluru;Switzerland;Europa;3128;54.1;45.9
+2016;Kolkata;Switzerland;Europa;866;54.1;45.9
+2016;Hyderabad;Switzerland;Europa;722;54.1;45.9
+2016;Cochin;Switzerland;Europa;3320;54.1;45.9
+2017;Delhi;Switzerland;Europa;19892;53.8;46.2
+2017;Mumbai;Switzerland;Europa;12154;53.8;46.2
+2017;Chennai;Switzerland;Europa;3770;53.8;46.2
+2017;Calicut;Switzerland;Europa;0;53.8;46.2
+2017;Benguluru;Switzerland;Europa;3175;53.8;46.2
+2017;Kolkata;Switzerland;Europa;843;53.8;46.2
+2017;Hyderabad;Switzerland;Europa;694;53.8;46.2
+2017;Cochin;Switzerland;Europa;1587;53.8;46.2
+2018;Delhi;Switzerland;Europa;19729;52.8;47.2
+2018;Mumbai;Switzerland;Europa;11887;52.8;47.2
+2018;Chennai;Switzerland;Europa;3847;52.8;47.2
+2018;Calicut;Switzerland;Europa;0;52.8;47.2
+2018;Benguluru;Switzerland;Europa;3255;52.8;47.2
+2018;Kolkata;Switzerland;Europa;937;52.8;47.2
+2018;Hyderabad;Switzerland;Europa;740;52.8;47.2
+2018;Cochin;Switzerland;Europa;3995;52.8;47.2
+2019;Delhi;Switzerland;Europa;16857;53.7;46.3
+2019;Mumbai;Switzerland;Europa;16576;53.7;46.3
+2019;Chennai;Switzerland;Europa;2201;53.7;46.3
+2019;Calicut;Switzerland;Europa;94;53.7;46.3
+2019;Benguluru;Switzerland;Europa;4495;53.7;46.3
+2019;Kolkata;Switzerland;Europa;1264;53.7;46.3
+2019;Hyderabad;Switzerland;Europa;1873;53.7;46.3
+2019;Cochin;Switzerland;Europa;1498;53.7;46.3
+2020;Delhi;Switzerland;Europa;5247;51.78;48.22
+2020;Mumbai;Switzerland;Europa;3600;51.78;48.22
+2020;Chennai;Switzerland;Europa;545;51.78;48.22
+2020;Calicut;Switzerland;Europa;25;51.78;48.22
+2020;Benguluru;Switzerland;Europa;1572;51.78;48.22
+2020;Kolkata;Switzerland;Europa;355;51.78;48.22
+2020;Hyderabad;Switzerland;Europa;596;51.78;48.22
+2020;Cochin;Switzerland;Europa;532;51.78;48.22
+2014;Delhi;U.K.;Europa;248303;56;44
+2014;Mumbai;U.K.;Europa;16777;56;44
+2014;Chennai;U.K.;Europa;45298;56;44
+2014;Calicut;U.K.;Europa;249980;56;44
+2014;Benguluru;U.K.;Europa;46976;56;44
+2014;Kolkata;U.K.;Europa;20972;56;44
+2014;Hyderabad;U.K.;Europa;210554;56;44
+2014;Cochin;U.K.;Europa;0;56;44
+2015;Delhi;U.K.;Europa;246399;56;44
+2015;Mumbai;U.K.;Europa;18220;56;44
+2015;Chennai;U.K.;Europa;46850;56;44
+2015;Calicut;U.K.;Europa;263751;56;44
+2015;Benguluru;U.K.;Europa;50321;56;44
+2015;Kolkata;U.K.;Europa;24293;56;44
+2015;Hyderabad;U.K.;Europa;217768;56;44
+2015;Cochin;U.K.;Europa;0;56;44
+2016;Delhi;U.K.;Europa;289158;55.6;44.4
+2016;Mumbai;U.K.;Europa;255250;55.6;44.4
+2016;Chennai;U.K.;Europa;53687;55.6;44.4
+2016;Calicut;U.K.;Europa;0;55.6;44.4
+2016;Benguluru;U.K.;Europa;53687;55.6;44.4
+2016;Kolkata;U.K.;Europa;18838;55.6;44.4
+2016;Hyderabad;U.K.;Europa;28256;55.6;44.4
+2016;Cochin;U.K.;Europa;48036;55.6;44.4
+2017;Delhi;U.K.;Europa;293916;55.3;44.7
+2017;Mumbai;U.K.;Europa;259396;55.3;44.7
+2017;Chennai;U.K.;Europa;55233;55.3;44.7
+2017;Calicut;U.K.;Europa;0;55.3;44.7
+2017;Benguluru;U.K.;Europa;56219;55.3;44.7
+2017;Kolkata;U.K.;Europa;19726;55.3;44.7
+2017;Hyderabad;U.K.;Europa;31561;55.3;44.7
+2017;Cochin;U.K.;Europa;41424;55.3;44.7
+2018;Delhi;U.K.;Europa;301719;55;45
+2018;Mumbai;U.K.;Europa;279064;55;45
+2018;Chennai;U.K.;Europa;57666;55;45
+2018;Calicut;U.K.;Europa;0;55;45
+2018;Benguluru;U.K.;Europa;60756;55;45
+2018;Kolkata;U.K.;Europa;18536;55;45
+2018;Hyderabad;U.K.;Europa;32952;55;45
+2018;Cochin;U.K.;Europa;59726;55;45
+2019;Delhi;U.K.;Europa;313091;55;45
+2019;Mumbai;U.K.;Europa;255074;55;45
+2019;Chennai;U.K.;Europa;76022;55;45
+2019;Calicut;U.K.;Europa;6002;55;45
+2019;Benguluru;U.K.;Europa;105031;55;45
+2019;Kolkata;U.K.;Europa;33010;55;45
+2019;Hyderabad;U.K.;Europa;58017;55;45
+2019;Cochin;U.K.;Europa;40012;55;45
+2020;Delhi;U.K.;Europa;98653;54.41;45.59
+2020;Mumbai;U.K.;Europa;60126;54.41;45.59
+2020;Chennai;U.K.;Europa;17221;54.41;45.59
+2020;Calicut;U.K.;Europa;1751;54.41;45.59
+2020;Benguluru;U.K.;Europa;25685;54.41;45.59
+2020;Kolkata;U.K.;Europa;7005;54.41;45.59
+2020;Hyderabad;U.K.;Europa;20723;54.41;45.59
+2020;Cochin;U.K.;Europa;19847;54.41;45.59
+2014;Delhi;Czech Rep.;Europa;2252;63.8;36.2
+2014;Mumbai;Czech Rep.;Europa;346;63.8;36.2
+2014;Chennai;Czech Rep.;Europa;652;63.8;36.2
+2014;Calicut;Czech Rep.;Europa;4771;63.8;36.2
+2014;Benguluru;Czech Rep.;Europa;622;63.8;36.2
+2014;Kolkata;Czech Rep.;Europa;138;63.8;36.2
+2014;Hyderabad;Czech Rep.;Europa;1096;63.8;36.2
+2014;Cochin;Czech Rep.;Europa;0;63.8;36.2
+2015;Delhi;Czech Rep.;Europa;2586;64;36
+2015;Mumbai;Czech Rep.;Europa;343;64;36
+2015;Chennai;Czech Rep.;Europa;801;64;36
+2015;Calicut;Czech Rep.;Europa;5423;64;36
+2015;Benguluru;Czech Rep.;Europa;709;64;36
+2015;Kolkata;Czech Rep.;Europa;183;64;36
+2015;Hyderabad;Czech Rep.;Europa;1396;64;36
+2015;Cochin;Czech Rep.;Europa;0;64;36
+2016;Delhi;Czech Rep.;Europa;5729;63.2;36.8
+2016;Mumbai;Czech Rep.;Europa;2392;63.2;36.8
+2016;Chennai;Czech Rep.;Europa;970;63.2;36.8
+2016;Calicut;Czech Rep.;Europa;0;63.2;36.8
+2016;Benguluru;Czech Rep.;Europa;763;63.2;36.8
+2016;Kolkata;Czech Rep.;Europa;440;63.2;36.8
+2016;Hyderabad;Czech Rep.;Europa;621;63.2;36.8
+2016;Cochin;Czech Rep.;Europa;323;63.2;36.8
+2017;Delhi;Czech Rep.;Europa;5381;59.9;40.1
+2017;Mumbai;Czech Rep.;Europa;2524;59.9;40.1
+2017;Chennai;Czech Rep.;Europa;889;59.9;40.1
+2017;Calicut;Czech Rep.;Europa;0;59.9;40.1
+2017;Benguluru;Czech Rep.;Europa;853;59.9;40.1
+2017;Kolkata;Czech Rep.;Europa;367;59.9;40.1
+2017;Hyderabad;Czech Rep.;Europa;237;59.9;40.1
+2017;Cochin;Czech Rep.;Europa;95;59.9;40.1
+2018;Delhi;Czech Rep.;Europa;6814;59.5;40.5
+2018;Mumbai;Czech Rep.;Europa;2495;59.5;40.5
+2018;Chennai;Czech Rep.;Europa;952;59.5;40.5
+2018;Calicut;Czech Rep.;Europa;13;59.5;40.5
+2018;Benguluru;Czech Rep.;Europa;939;59.5;40.5
+2018;Kolkata;Czech Rep.;Europa;335;59.5;40.5
+2018;Hyderabad;Czech Rep.;Europa;201;59.5;40.5
+2018;Cochin;Czech Rep.;Europa;443;59.5;40.5
+2019;Delhi;Czech Rep.;Europa;4040;58.4;41.6
+2019;Mumbai;Czech Rep.;Europa;3987;58.4;41.6
+2019;Chennai;Czech Rep.;Europa;678;58.4;41.6
+2019;Calicut;Czech Rep.;Europa;146;58.4;41.6
+2019;Benguluru;Czech Rep.;Europa;1010;58.4;41.6
+2019;Kolkata;Czech Rep.;Europa;146;58.4;41.6
+2019;Hyderabad;Czech Rep.;Europa;1342;58.4;41.6
+2019;Cochin;Czech Rep.;Europa;492;58.4;41.6
+2020;Delhi;Czech Rep.;Europa;1724;56.47;43.53
+2020;Mumbai;Czech Rep.;Europa;700;56.47;43.53
+2020;Chennai;Czech Rep.;Europa;162;56.47;43.53
+2020;Calicut;Czech Rep.;Europa;22;56.47;43.53
+2020;Benguluru;Czech Rep.;Europa;382;56.47;43.53
+2020;Kolkata;Czech Rep.;Europa;101;56.47;43.53
+2020;Hyderabad;Czech Rep.;Europa;170;56.47;43.53
+2020;Cochin;Czech Rep.;Europa;260;56.47;43.53
+2014;Delhi;Hungary;Europa;0;39.7;60.3
+2014;Mumbai;Hungary;Europa;0;39.7;60.3
+2014;Chennai;Hungary;Europa;0;39.7;60.3
+2014;Calicut;Hungary;Europa;0;39.7;60.3
+2014;Benguluru;Hungary;Europa;0;39.7;60.3
+2014;Kolkata;Hungary;Europa;0;39.7;60.3
+2014;Hyderabad;Hungary;Europa;0;39.7;60.3
+2014;Cochin;Hungary;Europa;0;39.7;60.3
+2015;Delhi;Hungary;Europa;0;58.7;41.2
+2015;Mumbai;Hungary;Europa;0;58.7;41.2
+2015;Chennai;Hungary;Europa;0;58.7;41.2
+2015;Calicut;Hungary;Europa;0;58.7;41.2
+2015;Benguluru;Hungary;Europa;0;58.7;41.2
+2015;Kolkata;Hungary;Europa;0;58.7;41.2
+2015;Hyderabad;Hungary;Europa;0;58.7;41.2
+2015;Cochin;Hungary;Europa;0;58.7;41.2
+2016;Delhi;Hungary;Europa;3567;52.9;47.1
+2016;Mumbai;Hungary;Europa;1608;52.9;47.1
+2016;Chennai;Hungary;Europa;709;52.9;47.1
+2016;Calicut;Hungary;Europa;0;52.9;47.1
+2016;Benguluru;Hungary;Europa;764;52.9;47.1
+2016;Kolkata;Hungary;Europa;159;52.9;47.1
+2016;Hyderabad;Hungary;Europa;207;52.9;47.1
+2016;Cochin;Hungary;Europa;255;52.9;47.1
+2017;Delhi;Hungary;Europa;4195;50.4;49.6
+2017;Mumbai;Hungary;Europa;1904;50.4;49.6
+2017;Chennai;Hungary;Europa;675;50.4;49.6
+2017;Calicut;Hungary;Europa;0;50.4;49.6
+2017;Benguluru;Hungary;Europa;850;50.4;49.6
+2017;Kolkata;Hungary;Europa;213;50.4;49.6
+2017;Hyderabad;Hungary;Europa;157;50.4;49.6
+2017;Cochin;Hungary;Europa;296;50.4;49.6
+2018;Delhi;Hungary;Europa;4472;51;49
+2018;Mumbai;Hungary;Europa;1693;51;49
+2018;Chennai;Hungary;Europa;607;51;49
+2018;Calicut;Hungary;Europa;0;51;49
+2018;Benguluru;Hungary;Europa;957;51;49
+2018;Kolkata;Hungary;Europa;202;51;49
+2018;Hyderabad;Hungary;Europa;193;51;49
+2018;Cochin;Hungary;Europa;285;51;49
+2019;Delhi;Hungary;Europa;4072;51.1;48.9
+2019;Mumbai;Hungary;Europa;2799;51.1;48.9
+2019;Chennai;Hungary;Europa;440;51.1;48.9
+2019;Calicut;Hungary;Europa;29;51.1;48.9
+2019;Benguluru;Hungary;Europa;1106;51.1;48.9
+2019;Kolkata;Hungary;Europa;196;51.1;48.9
+2019;Hyderabad;Hungary;Europa;421;51.1;48.9
+2019;Cochin;Hungary;Europa;206;51.1;48.9
+2020;Delhi;Hungary;Europa;1669;48.08;51.92
+2020;Mumbai;Hungary;Europa;548;48.08;51.92
+2020;Chennai;Hungary;Europa;145;48.08;51.92
+2020;Calicut;Hungary;Europa;27;48.08;51.92
+2020;Benguluru;Hungary;Europa;296;48.08;51.92
+2020;Kolkata;Hungary;Europa;33;48.08;51.92
+2020;Hyderabad;Hungary;Europa;71;48.08;51.92
+2020;Cochin;Hungary;Europa;148;48.08;51.92
+2014;Delhi;Kazakhstan;Asia;201;51.7;48.3
+2014;Mumbai;Kazakhstan;Asia;33;51.7;48.3
+2014;Chennai;Kazakhstan;Asia;218;51.7;48.3
+2014;Calicut;Kazakhstan;Asia;8301;51.7;48.3
+2014;Benguluru;Kazakhstan;Asia;117;51.7;48.3
+2014;Kolkata;Kazakhstan;Asia;33;51.7;48.3
+2014;Hyderabad;Kazakhstan;Asia;7832;51.7;48.3
+2014;Cochin;Kazakhstan;Asia;0;51.7;48.3
+2015;Delhi;Kazakhstan;Asia;4163;39.5;60.5
+2015;Mumbai;Kazakhstan;Asia;421;39.5;60.5
+2015;Chennai;Kazakhstan;Asia;899;39.5;60.5
+2015;Calicut;Kazakhstan;Asia;5773;39.5;60.5
+2015;Benguluru;Kazakhstan;Asia;1117;39.5;60.5
+2015;Kolkata;Kazakhstan;Asia;261;39.5;60.5
+2015;Hyderabad;Kazakhstan;Asia;1871;39.5;60.5
+2015;Cochin;Kazakhstan;Asia;0;39.5;60.5
+2016;Delhi;Kazakhstan;Asia;6373;38.1;61.9
+2016;Mumbai;Kazakhstan;Asia;260;38.1;61.9
+2016;Chennai;Kazakhstan;Asia;156;38.1;61.9
+2016;Calicut;Kazakhstan;Asia;0;38.1;61.9
+2016;Benguluru;Kazakhstan;Asia;130;38.1;61.9
+2016;Kolkata;Kazakhstan;Asia;26;38.1;61.9
+2016;Hyderabad;Kazakhstan;Asia;39;38.1;61.9
+2016;Cochin;Kazakhstan;Asia;182;38.1;61.9
+2017;Delhi;Kazakhstan;Asia;7973;39.2;60.8
+2017;Mumbai;Kazakhstan;Asia;231;39.2;60.8
+2017;Chennai;Kazakhstan;Asia;123;39.2;60.8
+2017;Calicut;Kazakhstan;Asia;0;39.2;60.8
+2017;Benguluru;Kazakhstan;Asia;170;39.2;60.8
+2017;Kolkata;Kazakhstan;Asia;31;39.2;60.8
+2017;Hyderabad;Kazakhstan;Asia;31;39.2;60.8
+2017;Cochin;Kazakhstan;Asia;123;39.2;60.8
+2018;Delhi;Kazakhstan;Asia;7323;39.8;60.2
+2018;Mumbai;Kazakhstan;Asia;226;39.8;60.2
+2018;Chennai;Kazakhstan;Asia;93;39.8;60.2
+2018;Calicut;Kazakhstan;Asia;0;39.8;60.2
+2018;Benguluru;Kazakhstan;Asia;146;39.8;60.2
+2018;Kolkata;Kazakhstan;Asia;53;39.8;60.2
+2018;Hyderabad;Kazakhstan;Asia;40;39.8;60.2
+2018;Cochin;Kazakhstan;Asia;107;39.8;60.2
+2019;Delhi;Kazakhstan;Asia;6645;38.5;61.5
+2019;Mumbai;Kazakhstan;Asia;5090;38.5;61.5
+2019;Chennai;Kazakhstan;Asia;833;38.5;61.5
+2019;Calicut;Kazakhstan;Asia;31;38.5;61.5
+2019;Benguluru;Kazakhstan;Asia;1367;38.5;61.5
+2019;Kolkata;Kazakhstan;Asia;424;38.5;61.5
+2019;Hyderabad;Kazakhstan;Asia;346;38.5;61.5
+2019;Cochin;Kazakhstan;Asia;220;38.5;61.5
+2020;Delhi;Kazakhstan;Asia;5557;40.99;59.01
+2020;Mumbai;Kazakhstan;Asia;83;40.99;59.01
+2020;Chennai;Kazakhstan;Asia;30;40.99;59.01
+2020;Calicut;Kazakhstan;Asia;18;40.99;59.01
+2020;Benguluru;Kazakhstan;Asia;24;40.99;59.01
+2020;Kolkata;Kazakhstan;Asia;12;40.99;59.01
+2020;Hyderabad;Kazakhstan;Asia;24;40.99;59.01
+2020;Cochin;Kazakhstan;Asia;112;40.99;59.01
+2014;Delhi;Poland;Europa;6604;42.8;57.2
+2014;Mumbai;Poland;Europa;681;42.8;57.2
+2014;Chennai;Poland;Europa;1361;42.8;57.2
+2014;Calicut;Poland;Europa;10964;42.8;57.2
+2014;Benguluru;Poland;Europa;1638;42.8;57.2
+2014;Kolkata;Poland;Europa;378;42.8;57.2
+2014;Hyderabad;Poland;Europa;3579;42.8;57.2
+2014;Cochin;Poland;Europa;0;42.8;57.2
+2015;Delhi;Poland;Europa;1086;52;48
+2015;Mumbai;Poland;Europa;212;52;48
+2015;Chennai;Poland;Europa;397;52;48
+2015;Calicut;Poland;Europa;7155;52;48
+2015;Benguluru;Poland;Europa;477;52;48
+2015;Kolkata;Poland;Europa;159;52;48
+2015;Hyderabad;Poland;Europa;17012;52;48
+2015;Cochin;Poland;Europa;0;52;48
+2016;Delhi;Poland;Europa;11388;50.5;49.5
+2016;Mumbai;Poland;Europa;6169;50.5;49.5
+2016;Chennai;Poland;Europa;1645;50.5;49.5
+2016;Calicut;Poland;Europa;0;50.5;49.5
+2016;Benguluru;Poland;Europa;2082;50.5;49.5
+2016;Kolkata;Poland;Europa;668;50.5;49.5
+2016;Hyderabad;Poland;Europa;591;50.5;49.5
+2016;Cochin;Poland;Europa;771;50.5;49.5
+2017;Delhi;Poland;Europa;13305;50.2;49.8
+2017;Mumbai;Poland;Europa;6251;50.2;49.8
+2017;Chennai;Poland;Europa;1749;50.2;49.8
+2017;Calicut;Poland;Europa;0;50.2;49.8
+2017;Benguluru;Poland;Europa;2151;50.2;49.8
+2017;Kolkata;Poland;Europa;631;50.2;49.8
+2017;Hyderabad;Poland;Europa;573;50.2;49.8
+2017;Cochin;Poland;Europa;1176;50.2;49.8
+2018;Delhi;Poland;Europa;16219;50.2;49.8
+2018;Mumbai;Poland;Europa;5806;50.2;49.8
+2018;Chennai;Poland;Europa;1862;50.2;49.8
+2018;Calicut;Poland;Europa;32;50.2;49.8
+2018;Benguluru;Poland;Europa;2588;50.2;49.8
+2018;Kolkata;Poland;Europa;663;50.2;49.8
+2018;Hyderabad;Poland;Europa;505;50.2;49.8
+2018;Cochin;Poland;Europa;947;50.2;49.8
+2019;Delhi;Poland;Europa;28230;49.6;50.4
+2019;Mumbai;Poland;Europa;1920;49.6;50.4
+2019;Chennai;Poland;Europa;640;49.6;50.4
+2019;Calicut;Poland;Europa;168;49.6;50.4
+2019;Benguluru;Poland;Europa;269;49.6;50.4
+2019;Kolkata;Poland;Europa;101;49.6;50.4
+2019;Hyderabad;Poland;Europa;303;49.6;50.4
+2019;Cochin;Poland;Europa;707;49.6;50.4
+2020;Delhi;Poland;Europa;7382;47.5;52.5
+2020;Mumbai;Poland;Europa;2274;47.5;52.5
+2020;Chennai;Poland;Europa;572;47.5;52.5
+2020;Calicut;Poland;Europa;24;47.5;52.5
+2020;Benguluru;Poland;Europa;1180;47.5;52.5
+2020;Kolkata;Poland;Europa;97;47.5;52.5
+2020;Hyderabad;Poland;Europa;195;47.5;52.5
+2020;Cochin;Poland;Europa;122;47.5;52.5
+2014;Delhi;Russian Fed;Europa;7555;49.9;50.1
+2014;Mumbai;Russian Fed;Europa;1349;49.9;50.1
+2014;Chennai;Russian Fed;Europa;4317;49.9;50.1
+2014;Calicut;Russian Fed;Europa;48570;49.9;50.1
+2014;Benguluru;Russian Fed;Europa;3508;49.9;50.1
+2014;Kolkata;Russian Fed;Europa;1079;49.9;50.1
+2014;Hyderabad;Russian Fed;Europa;203453;49.9;50.1
+2014;Cochin;Russian Fed;Europa;0;49.9;50.1
+2015;Delhi;Russian Fed;Europa;23966;44.3;55.7
+2015;Mumbai;Russian Fed;Europa;2414;44.3;55.7
+2015;Chennai;Russian Fed;Europa;5517;44.3;55.7
+2015;Calicut;Russian Fed;Europa;53795;44.3;55.7
+2015;Benguluru;Russian Fed;Europa;4828;44.3;55.7
+2015;Kolkata;Russian Fed;Europa;1897;44.3;55.7
+2015;Hyderabad;Russian Fed;Europa;80002;44.3;55.7
+2015;Cochin;Russian Fed;Europa;0;44.3;55.7
+2016;Delhi;Russian Fed;Europa;51927;43.6;56.4
+2016;Mumbai;Russian Fed;Europa;7060;43.6;56.4
+2016;Chennai;Russian Fed;Europa;161702;43.6;56.4
+2016;Calicut;Russian Fed;Europa;0;43.6;56.4
+2016;Benguluru;Russian Fed;Europa;2961;43.6;56.4
+2016;Kolkata;Russian Fed;Europa;1139;43.6;56.4
+2016;Hyderabad;Russian Fed;Europa;911;43.6;56.4
+2016;Cochin;Russian Fed;Europa;2050;43.6;56.4
+2017;Delhi;Russian Fed;Europa;61917;43;57
+2017;Mumbai;Russian Fed;Europa;6415;43;57
+2017;Chennai;Russian Fed;Europa;2510;43;57
+2017;Calicut;Russian Fed;Europa;0;43;57
+2017;Benguluru;Russian Fed;Europa;3068;43;57
+2017;Kolkata;Russian Fed;Europa;1116;43;57
+2017;Hyderabad;Russian Fed;Europa;837;43;57
+2017;Cochin;Russian Fed;Europa;30401;43;57
+2018;Delhi;Russian Fed;Europa;65577;43.6;56.4
+2018;Mumbai;Russian Fed;Europa;6820;43.6;56.4
+2018;Chennai;Russian Fed;Europa;2885;43.6;56.4
+2018;Calicut;Russian Fed;Europa;0;43.6;56.4
+2018;Benguluru;Russian Fed;Europa;3410;43.6;56.4
+2018;Kolkata;Russian Fed;Europa;1312;43.6;56.4
+2018;Hyderabad;Russian Fed;Europa;1049;43.6;56.4
+2018;Cochin;Russian Fed;Europa;2098;43.6;56.4
+2019;Delhi;Russian Fed;Europa;112088;43.2;56.8
+2019;Mumbai;Russian Fed;Europa;66851;43.2;56.8
+2019;Chennai;Russian Fed;Europa;17844;43.2;56.8
+2019;Calicut;Russian Fed;Europa;1005;43.2;56.8
+2019;Benguluru;Russian Fed;Europa;29656;43.2;56.8
+2019;Kolkata;Russian Fed;Europa;3267;43.2;56.8
+2019;Hyderabad;Russian Fed;Europa;7791;43.2;56.8
+2019;Cochin;Russian Fed;Europa;4524;43.2;56.8
+2020;Delhi;Russian Fed;Europa;81631;43.19;56.81
+2020;Mumbai;Russian Fed;Europa;7765;43.19;56.81
+2020;Chennai;Russian Fed;Europa;2656;43.19;56.81
+2020;Calicut;Russian Fed;Europa;204;43.19;56.81
+2020;Benguluru;Russian Fed;Europa;1635;43.19;56.81
+2020;Kolkata;Russian Fed;Europa;1328;43.19;56.81
+2020;Hyderabad;Russian Fed;Europa;1124;43.19;56.81
+2020;Cochin;Russian Fed;Europa;1328;43.19;56.81
+2014;Delhi;Ukraine;Europa;3016;70.5;29.5
+2014;Mumbai;Ukraine;Europa;322;70.5;29.5
+2014;Chennai;Ukraine;Europa;1083;70.5;29.5
+2014;Calicut;Ukraine;Europa;7320;70.5;29.5
+2014;Benguluru;Ukraine;Europa;761;70.5;29.5
+2014;Kolkata;Ukraine;Europa;234;70.5;29.5
+2014;Hyderabad;Ukraine;Europa;16544;70.5;29.5
+2014;Cochin;Ukraine;Europa;0;70.5;29.5
+2015;Delhi;Ukraine;Europa;462;51.8;48.2
+2015;Mumbai;Ukraine;Europa;46;51.8;48.2
+2015;Chennai;Ukraine;Europa;323;51.8;48.2
+2015;Calicut;Ukraine;Europa;11572;51.8;48.2
+2015;Benguluru;Ukraine;Europa;254;51.8;48.2
+2015;Kolkata;Ukraine;Europa;46;51.8;48.2
+2015;Hyderabad;Ukraine;Europa;10394;51.8;48.2
+2015;Cochin;Ukraine;Europa;0;51.8;48.2
+2016;Delhi;Ukraine;Europa;7384;49.9;50.1
+2016;Mumbai;Ukraine;Europa;3424;49.9;50.1
+2016;Chennai;Ukraine;Europa;829;49.9;50.1
+2016;Calicut;Ukraine;Europa;0;49.9;50.1
+2016;Benguluru;Ukraine;Europa;856;49.9;50.1
+2016;Kolkata;Ukraine;Europa;13162;49.9;50.1
+2016;Hyderabad;Ukraine;Europa;401;49.9;50.1
+2016;Cochin;Ukraine;Europa;696;49.9;50.1
+2017;Delhi;Ukraine;Europa;7718;47.1;52.9
+2017;Mumbai;Ukraine;Europa;3534;47.1;52.9
+2017;Chennai;Ukraine;Europa;1040;47.1;52.9
+2017;Calicut;Ukraine;Europa;0;47.1;52.9
+2017;Benguluru;Ukraine;Europa;832;47.1;52.9
+2017;Kolkata;Ukraine;Europa;338;47.1;52.9
+2017;Hyderabad;Ukraine;Europa;546;47.1;52.9
+2017;Cochin;Ukraine;Europa;260;47.1;52.9
+2018;Delhi;Ukraine;Europa;10451;45.3;54.7
+2018;Mumbai;Ukraine;Europa;3913;45.3;54.7
+2018;Chennai;Ukraine;Europa;1313;45.3;54.7
+2018;Calicut;Ukraine;Europa;0;45.3;54.7
+2018;Benguluru;Ukraine;Europa;1050;45.3;54.7
+2018;Kolkata;Ukraine;Europa;630;45.3;54.7
+2018;Hyderabad;Ukraine;Europa;394;45.3;54.7
+2018;Cochin;Ukraine;Europa;1129;45.3;54.7
+2019;Delhi;Ukraine;Europa;20628;44.2;55.8
+2019;Mumbai;Ukraine;Europa;4008;44.2;55.8
+2019;Chennai;Ukraine;Europa;1031;44.2;55.8
+2019;Calicut;Ukraine;Europa;118;44.2;55.8
+2019;Benguluru;Ukraine;Europa;1031;44.2;55.8
+2019;Kolkata;Ukraine;Europa;589;44.2;55.8
+2019;Hyderabad;Ukraine;Europa;560;44.2;55.8
+2019;Cochin;Ukraine;Europa;530;44.2;55.8
+2020;Delhi;Ukraine;Europa;7603;47.12;52.88
+2020;Mumbai;Ukraine;Europa;627;47.12;52.88
+2020;Chennai;Ukraine;Europa;499;47.12;52.88
+2020;Calicut;Ukraine;Europa;96;47.12;52.88
+2020;Benguluru;Ukraine;Europa;106;47.12;52.88
+2020;Kolkata;Ukraine;Europa;32;47.12;52.88
+2020;Hyderabad;Ukraine;Europa;170;47.12;52.88
+2020;Cochin;Ukraine;Europa;149;47.12;52.88
+2014;Delhi;Egypt;Africa;6352;55.9;44.1
+2014;Mumbai;Egypt;Africa;435;55.9;44.1
+2014;Chennai;Egypt;Africa;1120;55.9;44.1
+2014;Calicut;Egypt;Africa;3711;55.9;44.1
+2014;Benguluru;Egypt;Africa;836;55.9;44.1
+2014;Kolkata;Egypt;Africa;1020;55.9;44.1
+2014;Hyderabad;Egypt;Africa;3243;55.9;44.1
+2014;Cochin;Egypt;Africa;0;55.9;44.1
+2015;Delhi;Egypt;Africa;6690;66.9;33.1
+2015;Mumbai;Egypt;Africa;575;66.9;33.1
+2015;Chennai;Egypt;Africa;1514;66.9;33.1
+2015;Calicut;Egypt;Africa;3968;66.9;33.1
+2015;Benguluru;Egypt;Africa;1054;66.9;33.1
+2015;Kolkata;Egypt;Africa;1016;66.9;33.1
+2015;Hyderabad;Egypt;Africa;4351;66.9;33.1
+2015;Cochin;Egypt;Africa;0;66.9;33.1
+2016;Delhi;Egypt;Africa;4590;67.3;32.7
+2016;Mumbai;Egypt;Africa;6781;67.3;32.7
+2016;Chennai;Egypt;Africa;1544;67.3;32.7
+2016;Calicut;Egypt;Africa;0;67.3;32.7
+2016;Benguluru;Egypt;Africa;1273;67.3;32.7
+2016;Kolkata;Egypt;Africa;563;67.3;32.7
+2016;Hyderabad;Egypt;Africa;1294;67.3;32.7
+2016;Cochin;Egypt;Africa;2170;67.3;32.7
+2017;Delhi;Egypt;Africa;4331;68.8;31.2
+2017;Mumbai;Egypt;Africa;6384;68.8;31.2
+2017;Chennai;Egypt;Africa;1704;68.8;31.2
+2017;Calicut;Egypt;Africa;0;68.8;31.2
+2017;Benguluru;Egypt;Africa;1355;68.8;31.2
+2017;Kolkata;Egypt;Africa;534;68.8;31.2
+2017;Hyderabad;Egypt;Africa;1150;68.8;31.2
+2017;Cochin;Egypt;Africa;82;68.8;31.2
+2018;Delhi;Egypt;Africa;4282;67.7;32.3
+2018;Mumbai;Egypt;Africa;6617;67.7;32.3
+2018;Chennai;Egypt;Africa;1782;67.7;32.3
+2018;Calicut;Egypt;Africa;0;67.7;32.3
+2018;Benguluru;Egypt;Africa;1455;67.7;32.3
+2018;Kolkata;Egypt;Africa;512;67.7;32.3
+2018;Hyderabad;Egypt;Africa;1270;67.7;32.3
+2018;Cochin;Egypt;Africa;1823;67.7;32.3
+2019;Delhi;Egypt;Africa;14021;68.8;31.2
+2019;Mumbai;Egypt;Africa;2197;68.8;31.2
+2019;Chennai;Egypt;Africa;969;68.8;31.2
+2019;Calicut;Egypt;Africa;280;68.8;31.2
+2019;Benguluru;Egypt;Africa;452;68.8;31.2
+2019;Kolkata;Egypt;Africa;43;68.8;31.2
+2019;Hyderabad;Egypt;Africa;840;68.8;31.2
+2019;Cochin;Egypt;Africa;905;68.8;31.2
+2020;Delhi;Egypt;Africa;1104;69.34;30.66
+2020;Mumbai;Egypt;Africa;2692;69.34;30.66
+2020;Chennai;Egypt;Africa;303;69.34;30.66
+2020;Calicut;Egypt;Africa;20;69.34;30.66
+2020;Benguluru;Egypt;Africa;249;69.34;30.66
+2020;Kolkata;Egypt;Africa;78;69.34;30.66
+2020;Hyderabad;Egypt;Africa;156;69.34;30.66
+2020;Cochin;Egypt;Africa;88;69.34;30.66
+2014;Delhi;Kenya;Africa;26864;45.3;54.7
+2014;Mumbai;Kenya;Africa;277;45.3;54.7
+2014;Chennai;Kenya;Africa;1108;45.3;54.7
+2014;Calicut;Kenya;Africa;6924;45.3;54.7
+2014;Benguluru;Kenya;Africa;969;45.3;54.7
+2014;Kolkata;Kenya;Africa;739;45.3;54.7
+2014;Hyderabad;Kenya;Africa;9278;45.3;54.7
+2014;Cochin;Kenya;Africa;0;45.3;54.7
+2015;Delhi;Kenya;Africa;25515;55.7;44.3
+2015;Mumbai;Kenya;Africa;323;55.7;44.3
+2015;Chennai;Kenya;Africa;1246;55.7;44.3
+2015;Calicut;Kenya;Africa;6136;55.7;44.3
+2015;Benguluru;Kenya;Africa;1153;55.7;44.3
+2015;Kolkata;Kenya;Africa;1292;55.7;44.3
+2015;Hyderabad;Kenya;Africa;10474;55.7;44.3
+2015;Cochin;Kenya;Africa;0;55.7;44.3
+2016;Delhi;Kenya;Africa;6538;56.1;43.9
+2016;Mumbai;Kenya;Africa;23466;56.1;43.9
+2016;Chennai;Kenya;Africa;1254;56.1;43.9
+2016;Calicut;Kenya;Africa;0;56.1;43.9
+2016;Benguluru;Kenya;Africa;1299;56.1;43.9
+2016;Kolkata;Kenya;Africa;313;56.1;43.9
+2016;Hyderabad;Kenya;Africa;1523;56.1;43.9
+2016;Cochin;Kenya;Africa;403;56.1;43.9
+2017;Delhi;Kenya;Africa;6534;55.5;44.5
+2017;Mumbai;Kenya;Africa;25812;55.5;44.5
+2017;Chennai;Kenya;Africa;1104;55.5;44.5
+2017;Calicut;Kenya;Africa;0;55.5;44.5
+2017;Benguluru;Kenya;Africa;1288;55.5;44.5
+2017;Kolkata;Kenya;Africa;276;55.5;44.5
+2017;Hyderabad;Kenya;Africa;1380;55.5;44.5
+2017;Cochin;Kenya;Africa;322;55.5;44.5
+2018;Delhi;Kenya;Africa;6496;55;45
+2018;Mumbai;Kenya;Africa;29502;55;45
+2018;Chennai;Kenya;Africa;1172;55;45
+2018;Calicut;Kenya;Africa;0;55;45
+2018;Benguluru;Kenya;Africa;1270;55;45
+2018;Kolkata;Kenya;Africa;244;55;45
+2018;Hyderabad;Kenya;Africa;1465;55;45
+2018;Cochin;Kenya;Africa;488;55;45
+2019;Delhi;Kenya;Africa;7880;53.8;46.2
+2019;Mumbai;Kenya;Africa;25390;53.8;46.2
+2019;Chennai;Kenya;Africa;3988;53.8;46.2
+2019;Calicut;Kenya;Africa;340;53.8;46.2
+2019;Benguluru;Kenya;Africa;4086;53.8;46.2
+2019;Kolkata;Kenya;Africa;1556;53.8;46.2
+2019;Hyderabad;Kenya;Africa;2043;53.8;46.2
+2019;Cochin;Kenya;Africa;1362;53.8;46.2
+2020;Delhi;Kenya;Africa;1712;54.07;45.93
+2020;Mumbai;Kenya;Africa;7169;54.07;45.93
+2020;Chennai;Kenya;Africa;383;54.07;45.93
+2020;Calicut;Kenya;Africa;38;54.07;45.93
+2020;Benguluru;Kenya;Africa;345;54.07;45.93
+2020;Kolkata;Kenya;Africa;77;54.07;45.93
+2020;Hyderabad;Kenya;Africa;422;54.07;45.93
+2020;Cochin;Kenya;Africa;256;54.07;45.93
+2014;Delhi;Mauritius;Africa;13106;60.5;39.5
+2014;Mumbai;Mauritius;Africa;196;60.5;39.5
+2014;Chennai;Mauritius;Africa;2291;60.5;39.5
+2014;Calicut;Mauritius;Africa;9278;60.5;39.5
+2014;Benguluru;Mauritius;Africa;2375;60.5;39.5
+2014;Kolkata;Mauritius;Africa;140;60.5;39.5
+2014;Hyderabad;Mauritius;Africa;559;60.5;39.5
+2014;Cochin;Mauritius;Africa;0;60.5;39.5
+2015;Delhi;Mauritius;Africa;15909;44.5;55.5
+2015;Mumbai;Mauritius;Africa;163;44.5;55.5
+2015;Chennai;Mauritius;Africa;260;44.5;55.5
+2015;Calicut;Mauritius;Africa;10345;44.5;55.5
+2015;Benguluru;Mauritius;Africa;2895;44.5;55.5
+2015;Kolkata;Mauritius;Africa;98;44.5;55.5
+2015;Hyderabad;Mauritius;Africa;521;44.5;55.5
+2015;Cochin;Mauritius;Africa;0;44.5;55.5
+2016;Delhi;Mauritius;Africa;10695;44.9;55.1
+2016;Mumbai;Mauritius;Africa;16214;44.9;55.1
+2016;Chennai;Mauritius;Africa;3188;44.9;55.1
+2016;Calicut;Mauritius;Africa;0;44.9;55.1
+2016;Benguluru;Mauritius;Africa;3119;44.9;55.1
+2016;Kolkata;Mauritius;Africa;206;44.9;55.1
+2016;Hyderabad;Mauritius;Africa;137;44.9;55.1
+2016;Cochin;Mauritius;Africa;103;44.9;55.1
+2017;Delhi;Mauritius;Africa;11048;44.8;55.2
+2017;Mumbai;Mauritius;Africa;16892;44.8;55.2
+2017;Chennai;Mauritius;Africa;5543;44.8;55.2
+2017;Calicut;Mauritius;Africa;0;44.8;55.2
+2017;Benguluru;Mauritius;Africa;3130;44.8;55.2
+2017;Kolkata;Mauritius;Africa;151;44.8;55.2
+2017;Hyderabad;Mauritius;Africa;113;44.8;55.2
+2017;Cochin;Mauritius;Africa;1471;44.8;55.2
+2018;Delhi;Mauritius;Africa;12418;44.2;55.8
+2018;Mumbai;Mauritius;Africa;20080;44.2;55.8
+2018;Chennai;Mauritius;Africa;6020;44.2;55.8
+2018;Calicut;Mauritius;Africa;0;44.2;55.8
+2018;Benguluru;Mauritius;Africa;2652;44.2;55.8
+2018;Kolkata;Mauritius;Africa;168;44.2;55.8
+2018;Hyderabad;Mauritius;Africa;84;44.2;55.8
+2018;Cochin;Mauritius;Africa;126;44.2;55.8
+2019;Delhi;Mauritius;Africa;5711;44.3;55.7
+2019;Mumbai;Mauritius;Africa;28322;44.3;55.7
+2019;Chennai;Mauritius;Africa;1545;44.3;55.7
+2019;Calicut;Mauritius;Africa;187;44.3;55.7
+2019;Benguluru;Mauritius;Africa;1732;44.3;55.7
+2019;Kolkata;Mauritius;Africa;421;44.3;55.7
+2019;Hyderabad;Mauritius;Africa;1451;44.3;55.7
+2019;Cochin;Mauritius;Africa;889;44.3;55.7
+2020;Delhi;Mauritius;Africa;3617;44.43;55.57
+2020;Mumbai;Mauritius;Africa;5967;44.43;55.57
+2020;Chennai;Mauritius;Africa;970;44.43;55.57
+2020;Calicut;Mauritius;Africa;0;44.43;55.57
+2020;Benguluru;Mauritius;Africa;685;44.43;55.57
+2020;Kolkata;Mauritius;Africa;46;44.43;55.57
+2020;Hyderabad;Mauritius;Africa;57;44.43;55.57
+2020;Cochin;Mauritius;Africa;23;44.43;55.57
+2014;Delhi;Nigeria;Africa;9683;52.6;47.4
+2014;Mumbai;Nigeria;Africa;85;52.6;47.4
+2014;Chennai;Nigeria;Africa;2208;52.6;47.4
+2014;Calicut;Nigeria;Africa;12175;52.6;47.4
+2014;Benguluru;Nigeria;Africa;2690;52.6;47.4
+2014;Kolkata;Nigeria;Africa;764;52.6;47.4
+2014;Hyderabad;Nigeria;Africa;708;52.6;47.4
+2014;Cochin;Nigeria;Africa;0;52.6;47.4
+2015;Delhi;Nigeria;Africa;7506;60.9;39.1
+2015;Mumbai;Nigeria;Africa;121;60.9;39.1
+2015;Chennai;Nigeria;Africa;1506;60.9;39.1
+2015;Calicut;Nigeria;Africa;11296;60.9;39.1
+2015;Benguluru;Nigeria;Africa;2453;60.9;39.1
+2015;Kolkata;Nigeria;Africa;680;60.9;39.1
+2015;Hyderabad;Nigeria;Africa;729;60.9;39.1
+2015;Cochin;Nigeria;Africa;0;60.9;39.1
+2016;Delhi;Nigeria;Africa;9162;61.2;38.8
+2016;Mumbai;Nigeria;Africa;5299;61.2;38.8
+2016;Chennai;Nigeria;Africa;880;61.2;38.8
+2016;Calicut;Nigeria;Africa;0;61.2;38.8
+2016;Benguluru;Nigeria;Africa;1545;61.2;38.8
+2016;Kolkata;Nigeria;Africa;90;61.2;38.8
+2016;Hyderabad;Nigeria;Africa;467;61.2;38.8
+2016;Cochin;Nigeria;Africa;144;61.2;38.8
+2017;Delhi;Nigeria;Africa;6528;62.1;37.9
+2017;Mumbai;Nigeria;Africa;3618;62.1;37.9
+2017;Chennai;Nigeria;Africa;620;62.1;37.9
+2017;Calicut;Nigeria;Africa;0;62.1;37.9
+2017;Benguluru;Nigeria;Africa;961;62.1;37.9
+2017;Kolkata;Nigeria;Africa;114;62.1;37.9
+2017;Hyderabad;Nigeria;Africa;380;62.1;37.9
+2017;Cochin;Nigeria;Africa;380;62.1;37.9
+2018;Delhi;Nigeria;Africa;6685;61.6;38.4
+2018;Mumbai;Nigeria;Africa;3125;61.6;38.4
+2018;Chennai;Nigeria;Africa;555;61.6;38.4
+2018;Calicut;Nigeria;Africa;0;61.6;38.4
+2018;Benguluru;Nigeria;Africa;905;61.6;38.4
+2018;Kolkata;Nigeria;Africa;72;61.6;38.4
+2018;Hyderabad;Nigeria;Africa;290;61.6;38.4
+2018;Cochin;Nigeria;Africa;109;61.6;38.4
+2019;Delhi;Nigeria;Africa;3677;62.5;37.5
+2019;Mumbai;Nigeria;Africa;7367;62.5;37.5
+2019;Chennai;Nigeria;Africa;1684;62.5;37.5
+2019;Calicut;Nigeria;Africa;0;62.5;37.5
+2019;Benguluru;Nigeria;Africa;1109;62.5;37.5
+2019;Kolkata;Nigeria;Africa;98;62.5;37.5
+2019;Hyderabad;Nigeria;Africa;42;62.5;37.5
+2019;Cochin;Nigeria;Africa;28;62.5;37.5
+2020;Delhi;Nigeria;Africa;1699;62.01;37.99
+2020;Mumbai;Nigeria;Africa;1474;62.01;37.99
+2020;Chennai;Nigeria;Africa;122;62.01;37.99
+2020;Calicut;Nigeria;Africa;8;62.01;37.99
+2020;Benguluru;Nigeria;Africa;218;62.01;37.99
+2020;Kolkata;Nigeria;Africa;65;62.01;37.99
+2020;Hyderabad;Nigeria;Africa;80;62.01;37.99
+2020;Cochin;Nigeria;Africa;69;62.01;37.99
+2014;Delhi;South Africa;Africa;34366;82.2;17.8
+2014;Mumbai;South Africa;Africa;900;82.2;17.8
+2014;Chennai;South Africa;Africa;2644;82.2;17.8
+2014;Calicut;South Africa;Africa;11362;82.2;17.8
+2014;Benguluru;South Africa;Africa;2531;82.2;17.8
+2014;Kolkata;South Africa;Africa;1012;82.2;17.8
+2014;Hyderabad;South Africa;Africa;3431;82.2;17.8
+2014;Cochin;South Africa;Africa;0;82.2;17.8
+2015;Delhi;South Africa;Africa;26013;53.7;46.3
+2015;Mumbai;South Africa;Africa;935;53.7;46.3
+2015;Chennai;South Africa;Africa;2908;53.7;46.3
+2015;Calicut;South Africa;Africa;12254;53.7;46.3
+2015;Benguluru;South Africa;Africa;3531;53.7;46.3
+2015;Kolkata;South Africa;Africa;1350;53.7;46.3
+2015;Hyderabad;South Africa;Africa;4933;53.7;46.3
+2015;Cochin;South Africa;Africa;0;53.7;46.3
+2016;Delhi;South Africa;Africa;13001;54.1;45.9
+2016;Mumbai;South Africa;Africa;25844;54.1;45.9
+2016;Chennai;South Africa;Africa;2948;54.1;45.9
+2016;Calicut;South Africa;Africa;53;54.1;45.9
+2016;Benguluru;South Africa;Africa;3421;54.1;45.9
+2016;Kolkata;South Africa;Africa;1105;54.1;45.9
+2016;Hyderabad;South Africa;Africa;1105;54.1;45.9
+2016;Cochin;South Africa;Africa;1684;54.1;45.9
+2017;Delhi;South Africa;Africa;13866;52.2;47.8
+2017;Mumbai;South Africa;Africa;28074;52.2;47.8
+2017;Chennai;South Africa;Africa;3195;52.2;47.8
+2017;Calicut;South Africa;Africa;0;52.2;47.8
+2017;Benguluru;South Africa;Africa;3709;52.2;47.8
+2017;Kolkata;South Africa;Africa;1084;52.2;47.8
+2017;Hyderabad;South Africa;Africa;1369;52.2;47.8
+2017;Cochin;South Africa;Africa;399;52.2;47.8
+2018;Delhi;South Africa;Africa;16294;52.2;47.8
+2018;Mumbai;South Africa;Africa;26259;52.2;47.8
+2018;Chennai;South Africa;Africa;3634;52.2;47.8
+2018;Calicut;South Africa;Africa;0;52.2;47.8
+2018;Benguluru;South Africa;Africa;4748;52.2;47.8
+2018;Kolkata;South Africa;Africa;1055;52.2;47.8
+2018;Hyderabad;South Africa;Africa;1172;52.2;47.8
+2018;Cochin;South Africa;Africa;2403;52.2;47.8
+2019;Delhi;South Africa;Africa;18500;51.9;48.1
+2019;Mumbai;South Africa;Africa;25430;51.9;48.1
+2019;Chennai;South Africa;Africa;3150;51.9;48.1
+2019;Calicut;South Africa;Africa;172;51.9;48.1
+2019;Benguluru;South Africa;Africa;2520;51.9;48.1
+2019;Kolkata;South Africa;Africa;1546;51.9;48.1
+2019;Hyderabad;South Africa;Africa;2062;51.9;48.1
+2019;Cochin;South Africa;Africa;1489;51.9;48.1
+2020;Delhi;South Africa;Africa;2085;54;46
+2020;Mumbai;South Africa;Africa;7398;54;46
+2020;Chennai;South Africa;Africa;477;54;46
+2020;Calicut;South Africa;Africa;25;54;46
+2020;Benguluru;South Africa;Africa;641;54;46
+2020;Kolkata;South Africa;Africa;214;54;46
+2020;Hyderabad;South Africa;Africa;628;54;46
+2020;Cochin;South Africa;Africa;540;54;46
+2014;Delhi;Sudan;Africa;4080;53.5;46.5
+2014;Mumbai;Sudan;Africa;59;53.5;46.5
+2014;Chennai;Sudan;Africa;1606;53.5;46.5
+2014;Calicut;Sudan;Africa;1439;53.5;46.5
+2014;Benguluru;Sudan;Africa;1832;53.5;46.5
+2014;Kolkata;Sudan;Africa;1975;53.5;46.5
+2014;Hyderabad;Sudan;Africa;904;53.5;46.5
+2014;Cochin;Sudan;Africa;0;53.5;46.5
+2015;Delhi;Sudan;Africa;4522;82.5;17.5
+2015;Mumbai;Sudan;Africa;55;82.5;17.5
+2015;Chennai;Sudan;Africa;1946;82.5;17.5
+2015;Calicut;Sudan;Africa;1891;82.5;17.5
+2015;Benguluru;Sudan;Africa;1891;82.5;17.5
+2015;Kolkata;Sudan;Africa;2494;82.5;17.5
+2015;Hyderabad;Sudan;Africa;904;82.5;17.5
+2015;Cochin;Sudan;Africa;0;82.5;17.5
+2016;Delhi;Sudan;Africa;2359;76.8;23.2
+2016;Mumbai;Sudan;Africa;5880;76.8;23.2
+2016;Chennai;Sudan;Africa;2598;76.8;23.2
+2016;Calicut;Sudan;Africa;0;76.8;23.2
+2016;Benguluru;Sudan;Africa;1966;76.8;23.2
+2016;Kolkata;Sudan;Africa;51;76.8;23.2
+2016;Hyderabad;Sudan;Africa;3213;76.8;23.2
+2016;Cochin;Sudan;Africa;376;76.8;23.2
+2017;Delhi;Sudan;Africa;3483;69.7;30.3
+2017;Mumbai;Sudan;Africa;8399;69.7;30.3
+2017;Chennai;Sudan;Africa;2936;69.7;30.3
+2017;Calicut;Sudan;Africa;0;69.7;30.3
+2017;Benguluru;Sudan;Africa;2663;69.7;30.3
+2017;Kolkata;Sudan;Africa;46;69.7;30.3
+2017;Hyderabad;Sudan;Africa;3870;69.7;30.3
+2017;Cochin;Sudan;Africa;3141;69.7;30.3
+2018;Delhi;Sudan;Africa;4617;52.8;47.2
+2018;Mumbai;Sudan;Africa;19161;52.8;47.2
+2018;Chennai;Sudan;Africa;2812;52.8;47.2
+2018;Calicut;Sudan;Africa;0;52.8;47.2
+2018;Benguluru;Sudan;Africa;2777;52.8;47.2
+2018;Kolkata;Sudan;Africa;69;52.8;47.2
+2018;Hyderabad;Sudan;Africa;4165;52.8;47.2
+2018;Cochin;Sudan;Africa;451;52.8;47.2
+2019;Delhi;Sudan;Africa;4794;58.2;41.8
+2019;Mumbai;Sudan;Africa;22442;58.2;41.8
+2019;Chennai;Sudan;Africa;1156;58.2;41.8
+2019;Calicut;Sudan;Africa;34;58.2;41.8
+2019;Benguluru;Sudan;Africa;1462;58.2;41.8
+2019;Kolkata;Sudan;Africa;510;58.2;41.8
+2019;Hyderabad;Sudan;Africa;1190;58.2;41.8
+2019;Cochin;Sudan;Africa;1122;58.2;41.8
+2020;Delhi;Sudan;Africa;3892;57.79;42.21
+2020;Mumbai;Sudan;Africa;2525;57.79;42.21
+2020;Chennai;Sudan;Africa;538;57.79;42.21
+2020;Calicut;Sudan;Africa;100;57.79;42.21
+2020;Benguluru;Sudan;Africa;301;57.79;42.21
+2020;Kolkata;Sudan;Africa;128;57.79;42.21
+2020;Hyderabad;Sudan;Africa;547;57.79;42.21
+2020;Cochin;Sudan;Africa;255;57.79;42.21
+2014;Delhi;Tanzania;Africa;13089;57.9;42
+2014;Mumbai;Tanzania;Africa;79;57.9;42
+2014;Chennai;Tanzania;Africa;1866;57.9;42
+2014;Calicut;Tanzania;Africa;3706;57.9;42
+2014;Benguluru;Tanzania;Africa;2655;57.9;42
+2014;Kolkata;Tanzania;Africa;1367;57.9;42
+2014;Hyderabad;Tanzania;Africa;3522;57.9;42
+2014;Cochin;Tanzania;Africa;0;57.9;42
+2015;Delhi;Tanzania;Africa;12362;53.3;46.7
+2015;Mumbai;Tanzania;Africa;76;53.3;46.7
+2015;Chennai;Tanzania;Africa;1912;53.3;46.7
+2015;Calicut;Tanzania;Africa;3976;53.3;46.7
+2015;Benguluru;Tanzania;Africa;2625;53.3;46.7
+2015;Kolkata;Tanzania;Africa;1427;53.3;46.7
+2015;Hyderabad;Tanzania;Africa;3110;53.3;46.7
+2015;Cochin;Tanzania;Africa;0;53.3;46.7
+2016;Delhi;Tanzania;Africa;3339;52.3;47.7
+2016;Mumbai;Tanzania;Africa;11375;52.3;47.7
+2016;Chennai;Tanzania;Africa;1336;52.3;47.7
+2016;Calicut;Tanzania;Africa;0;52.3;47.7
+2016;Benguluru;Tanzania;Africa;2049;52.3;47.7
+2016;Kolkata;Tanzania;Africa;69;52.3;47.7
+2016;Hyderabad;Tanzania;Africa;1243;52.3;47.7
+2016;Cochin;Tanzania;Africa;138;52.3;47.7
+2017;Delhi;Tanzania;Africa;3784;53.6;46.4
+2017;Mumbai;Tanzania;Africa;11019;53.6;46.4
+2017;Chennai;Tanzania;Africa;1469;53.6;46.4
+2017;Calicut;Tanzania;Africa;22;53.6;46.4
+2017;Benguluru;Tanzania;Africa;1647;53.6;46.4
+2017;Kolkata;Tanzania;Africa;89;53.6;46.4
+2017;Hyderabad;Tanzania;Africa;1113;53.6;46.4
+2017;Cochin;Tanzania;Africa;67;53.6;46.4
+2018;Delhi;Tanzania;Africa;3751;53.2;46.8
+2018;Mumbai;Tanzania;Africa;12730;53.2;46.8
+2018;Chennai;Tanzania;Africa;1477;53.2;46.8
+2018;Calicut;Tanzania;Africa;0;53.2;46.8
+2018;Benguluru;Tanzania;Africa;1430;53.2;46.8
+2018;Kolkata;Tanzania;Africa;70;53.2;46.8
+2018;Hyderabad;Tanzania;Africa;867;53.2;46.8
+2018;Cochin;Tanzania;Africa;141;53.2;46.8
+2019;Delhi;Tanzania;Africa;6490;52.9;47.1
+2019;Mumbai;Tanzania;Africa;8915;52.9;47.1
+2019;Chennai;Tanzania;Africa;1617;52.9;47.1
+2019;Calicut;Tanzania;Africa;333;52.9;47.1
+2019;Benguluru;Tanzania;Africa;475;52.9;47.1
+2019;Kolkata;Tanzania;Africa;404;52.9;47.1
+2019;Hyderabad;Tanzania;Africa;2140;52.9;47.1
+2019;Cochin;Tanzania;Africa;927;52.9;47.1
+2020;Delhi;Tanzania;Africa;566;52.01;47.99
+2020;Mumbai;Tanzania;Africa;4999;52.01;47.99
+2020;Chennai;Tanzania;Africa;143;52.01;47.99
+2020;Calicut;Tanzania;Africa;13;52.01;47.99
+2020;Benguluru;Tanzania;Africa;143;52.01;47.99
+2020;Kolkata;Tanzania;Africa;33;52.01;47.99
+2020;Hyderabad;Tanzania;Africa;254;52.01;47.99
+2020;Cochin;Tanzania;Africa;117;52.01;47.99
+2014;Delhi;Bahrain;Asia;4387;65.5;34.5
+2014;Mumbai;Bahrain;Asia;92;65.5;34.5
+2014;Chennai;Bahrain;Asia;1156;65.5;34.5
+2014;Calicut;Bahrain;Asia;1471;65.5;34.5
+2014;Benguluru;Bahrain;Asia;788;65.5;34.5
+2014;Kolkata;Bahrain;Asia;1629;65.5;34.5
+2014;Hyderabad;Bahrain;Asia;3612;65.5;34.5
+2014;Cochin;Bahrain;Asia;0;65.5;34.5
+2015;Delhi;Bahrain;Asia;4386;65.9;34.1
+2015;Mumbai;Bahrain;Asia;42;65.9;34.1
+2015;Chennai;Bahrain;Asia;1205;65.9;34.1
+2015;Calicut;Bahrain;Asia;1205;65.9;34.1
+2015;Benguluru;Bahrain;Asia;1079;65.9;34.1
+2015;Kolkata;Bahrain;Asia;2326;65.9;34.1
+2015;Hyderabad;Bahrain;Asia;3769;65.9;34.1
+2015;Cochin;Bahrain;Asia;0;65.9;34.1
+2016;Delhi;Bahrain;Asia;1408;67.1;32.9
+2016;Mumbai;Bahrain;Asia;5128;67.1;32.9
+2016;Chennai;Bahrain;Asia;1877;67.1;32.9
+2016;Calicut;Bahrain;Asia;0;67.1;32.9
+2016;Benguluru;Bahrain;Asia;1130;67.1;32.9
+2016;Kolkata;Bahrain;Asia;52;67.1;32.9
+2016;Hyderabad;Bahrain;Asia;3077;67.1;32.9
+2016;Cochin;Bahrain;Asia;2503;67.1;32.9
+2017;Delhi;Bahrain;Asia;1207;67.6;32.4
+2017;Mumbai;Bahrain;Asia;4593;67.6;32.4
+2017;Chennai;Bahrain;Asia;1978;67.6;32.4
+2017;Calicut;Bahrain;Asia;0;67.6;32.4
+2017;Benguluru;Bahrain;Asia;1123;67.6;32.4
+2017;Kolkata;Bahrain;Asia;67;67.6;32.4
+2017;Hyderabad;Bahrain;Asia;3403;67.6;32.4
+2017;Cochin;Bahrain;Asia;117;67.6;32.4
+2018;Delhi;Bahrain;Asia;1211;66.5;33.5
+2018;Mumbai;Bahrain;Asia;3743;66.5;33.5
+2018;Chennai;Bahrain;Asia;1767;66.5;33.5
+2018;Calicut;Bahrain;Asia;0;66.5;33.5
+2018;Benguluru;Bahrain;Asia;932;66.5;33.5
+2018;Kolkata;Bahrain;Asia;70;66.5;33.5
+2018;Hyderabad;Bahrain;Asia;2477;66.5;33.5
+2018;Cochin;Bahrain;Asia;1767;66.5;33.5
+2019;Delhi;Bahrain;Asia;1997;71;29
+2019;Mumbai;Bahrain;Asia;8941;71;29
+2019;Chennai;Bahrain;Asia;711;71;29
+2019;Calicut;Bahrain;Asia;76;71;29
+2019;Benguluru;Bahrain;Asia;499;71;29
+2019;Kolkata;Bahrain;Asia;166;71;29
+2019;Hyderabad;Bahrain;Asia;983;71;29
+2019;Cochin;Bahrain;Asia;499;71;29
+2020;Delhi;Bahrain;Asia;542;72.56;27.44
+2020;Mumbai;Bahrain;Asia;398;72.56;27.44
+2020;Chennai;Bahrain;Asia;237;72.56;27.44
+2020;Calicut;Bahrain;Asia;521;72.56;27.44
+2020;Benguluru;Bahrain;Asia;103;72.56;27.44
+2020;Kolkata;Bahrain;Asia;31;72.56;27.44
+2020;Hyderabad;Bahrain;Asia;257;72.56;27.44
+2020;Cochin;Bahrain;Asia;658;72.56;27.44
+2014;Delhi;Iraq;Asia;6330;70.9;29.1
+2014;Mumbai;Iraq;Asia;48;70.9;29.1
+2014;Chennai;Iraq;Asia;1546;70.9;29.1
+2014;Calicut;Iraq;Asia;33052;70.9;29.1
+2014;Benguluru;Iraq;Asia;3624;70.9;29.1
+2014;Kolkata;Iraq;Asia;3189;70.9;29.1
+2014;Hyderabad;Iraq;Asia;532;70.9;29.1
+2014;Cochin;Iraq;Asia;0;70.9;29.1
+2015;Delhi;Iraq;Asia;5674;71;29
+2015;Mumbai;Iraq;Asia;43;71;29
+2015;Chennai;Iraq;Asia;1109;71;29
+2015;Calicut;Iraq;Asia;29606;71;29
+2015;Benguluru;Iraq;Asia;3455;71;29
+2015;Kolkata;Iraq;Asia;2261;71;29
+2015;Hyderabad;Iraq;Asia;512;71;29
+2015;Cochin;Iraq;Asia;0;71;29
+2016;Delhi;Iraq;Asia;35254;70.1;29.9
+2016;Mumbai;Iraq;Asia;5643;70.1;29.9
+2016;Chennai;Iraq;Asia;1061;70.1;29.9
+2016;Calicut;Iraq;Asia;0;70.1;29.9
+2016;Benguluru;Iraq;Asia;3906;70.1;29.9
+2016;Kolkata;Iraq;Asia;48;70.1;29.9
+2016;Hyderabad;Iraq;Asia;1688;70.1;29.9
+2016;Cochin;Iraq;Asia;145;70.1;29.9
+2017;Delhi;Iraq;Asia;41329;70.2;29.8
+2017;Mumbai;Iraq;Asia;5792;70.2;29.8
+2017;Chennai;Iraq;Asia;1068;70.2;29.8
+2017;Calicut;Iraq;Asia;0;70.2;29.8
+2017;Benguluru;Iraq;Asia;4780;70.2;29.8
+2017;Kolkata;Iraq;Asia;112;70.2;29.8
+2017;Hyderabad;Iraq;Asia;1406;70.2;29.8
+2017;Cochin;Iraq;Asia;0;70.2;29.8
+2018;Delhi;Iraq;Asia;54496;69.6;30.4
+2018;Mumbai;Iraq;Asia;6299;69.6;30.4
+2018;Chennai;Iraq;Asia;958;69.6;30.4
+2018;Calicut;Iraq;Asia;0;69.6;30.4
+2018;Benguluru;Iraq;Asia;4450;69.6;30.4
+2018;Kolkata;Iraq;Asia;68;69.6;30.4
+2018;Hyderabad;Iraq;Asia;1232;69.6;30.4
+2018;Cochin;Iraq;Asia;137;69.6;30.4
+2019;Delhi;Iraq;Asia;7367;69;31
+2019;Mumbai;Iraq;Asia;39620;69;31
+2019;Chennai;Iraq;Asia;1486;69;31
+2019;Calicut;Iraq;Asia;867;69;31
+2019;Benguluru;Iraq;Asia;1424;69;31
+2019;Kolkata;Iraq;Asia;310;69;31
+2019;Hyderabad;Iraq;Asia;3467;69;31
+2019;Cochin;Iraq;Asia;1052;69;31
+2020;Delhi;Iraq;Asia;6113;69.71;30.29
+2020;Mumbai;Iraq;Asia;4563;69.71;30.29
+2020;Chennai;Iraq;Asia;1444;69.71;30.29
+2020;Calicut;Iraq;Asia;232;69.71;30.29
+2020;Benguluru;Iraq;Asia;303;69.71;30.29
+2020;Kolkata;Iraq;Asia;285;69.71;30.29
+2020;Hyderabad;Iraq;Asia;1123;69.71;30.29
+2020;Cochin;Iraq;Asia;677;69.71;30.29
+2014;Delhi;Israel;Asia;28508;62.5;37.5
+2014;Mumbai;Israel;Asia;296;62.5;37.5
+2014;Chennai;Israel;Asia;690;62.5;37.5
+2014;Calicut;Israel;Asia;14648;62.5;37.5
+2014;Benguluru;Israel;Asia;1332;62.5;37.5
+2014;Kolkata;Israel;Asia;99;62.5;37.5
+2014;Hyderabad;Israel;Asia;3748;62.5;37.5
+2014;Cochin;Israel;Asia;0;62.5;37.5
+2015;Delhi;Israel;Asia;30030;62.7;37.3
+2015;Mumbai;Israel;Asia;551;62.7;37.3
+2015;Chennai;Israel;Asia;802;62.7;37.3
+2015;Calicut;Israel;Asia;14489;62.7;37.3
+2015;Benguluru;Israel;Asia;1805;62.7;37.3
+2015;Kolkata;Israel;Asia;150;62.7;37.3
+2015;Hyderabad;Israel;Asia;2757;62.7;37.3
+2015;Cochin;Israel;Asia;0;62.7;37.3
+2016;Delhi;Israel;Asia;20198;61.2;38.8
+2016;Mumbai;Israel;Asia;30859;61.2;38.8
+2016;Chennai;Israel;Asia;1422;61.2;38.8
+2016;Calicut;Israel;Asia;0;61.2;38.8
+2016;Benguluru;Israel;Asia;1955;61.2;38.8
+2016;Kolkata;Israel;Asia;711;61.2;38.8
+2016;Hyderabad;Israel;Asia;237;61.2;38.8
+2016;Cochin;Israel;Asia;296;61.2;38.8
+2017;Delhi;Israel;Asia;22148;61.6;38.4
+2017;Mumbai;Israel;Asia;28717;61.6;38.4
+2017;Chennai;Israel;Asia;930;61.6;38.4
+2017;Calicut;Israel;Asia;0;61.6;38.4
+2017;Benguluru;Israel;Asia;2267;61.6;38.4
+2017;Kolkata;Israel;Asia;523;61.6;38.4
+2017;Hyderabad;Israel;Asia;233;61.6;38.4
+2017;Cochin;Israel;Asia;0;61.6;38.4
+2018;Delhi;Israel;Asia;32605;59.6;40.4
+2018;Mumbai;Israel;Asia;27216;59.6;40.4
+2018;Chennai;Israel;Asia;1347;59.6;40.4
+2018;Calicut;Israel;Asia;0;59.6;40.4
+2018;Benguluru;Israel;Asia;2021;59.6;40.4
+2018;Kolkata;Israel;Asia;472;59.6;40.4
+2018;Hyderabad;Israel;Asia;202;59.6;40.4
+2018;Cochin;Israel;Asia;337;59.6;40.4
+2019;Delhi;Israel;Asia;10166;58.7;41.3
+2019;Mumbai;Israel;Asia;8776;58.7;41.3
+2019;Chennai;Israel;Asia;5120;58.7;41.3
+2019;Calicut;Israel;Asia;10459;58.7;41.3
+2019;Benguluru;Israel;Asia;2487;58.7;41.3
+2019;Kolkata;Israel;Asia;878;58.7;41.3
+2019;Hyderabad;Israel;Asia;5120;58.7;41.3
+2019;Cochin;Israel;Asia;13677;58.7;41.3
+2020;Delhi;Israel;Asia;11094;56.62;43.38
+2020;Mumbai;Israel;Asia;4187;56.62;43.38
+2020;Chennai;Israel;Asia;157;56.62;43.38
+2020;Calicut;Israel;Asia;174;56.62;43.38
+2020;Benguluru;Israel;Asia;140;56.62;43.38
+2020;Kolkata;Israel;Asia;192;56.62;43.38
+2020;Hyderabad;Israel;Asia;192;56.62;43.38
+2020;Cochin;Israel;Asia;977;56.62;43.38
+2014;Delhi;Oman;Asia;32484;63.4;36.6
+2014;Mumbai;Oman;Asia;0;63.4;36.6
+2014;Chennai;Oman;Asia;13808;63.4;36.6
+2014;Calicut;Oman;Asia;4072;63.4;36.6
+2014;Benguluru;Oman;Asia;266;63.4;36.6
+2014;Kolkata;Oman;Asia;10179;63.4;36.6
+2014;Hyderabad;Oman;Asia;27704;63.4;36.6
+2014;Cochin;Oman;Asia;0;63.4;36.6
+2015;Delhi;Oman;Asia;34027;62.6;37.4
+2015;Mumbai;Oman;Asia;104;62.6;37.4
+2015;Chennai;Oman;Asia;13175;62.6;37.4
+2015;Calicut;Oman;Asia;4876;62.6;37.4
+2015;Benguluru;Oman;Asia;5809;62.6;37.4
+2015;Kolkata;Oman;Asia;10374;62.6;37.4
+2015;Hyderabad;Oman;Asia;35375;62.6;37.4
+2015;Cochin;Oman;Asia;0;62.6;37.4
+2016;Delhi;Oman;Asia;5391;62.8;37.2
+2016;Mumbai;Oman;Asia;31606;62.8;37.2
+2016;Chennai;Oman;Asia;10676;62.8;37.2
+2016;Calicut;Oman;Asia;0;62.8;37.2
+2016;Benguluru;Oman;Asia;6765;62.8;37.2
+2016;Kolkata;Oman;Asia;106;62.8;37.2
+2016;Hyderabad;Oman;Asia;11522;62.8;37.2
+2016;Cochin;Oman;Asia;24946;62.8;37.2
+2017;Delhi;Oman;Asia;5254;62.4;37.6
+2017;Mumbai;Oman;Asia;27555;62.4;37.6
+2017;Chennai;Oman;Asia;9113;62.4;37.6
+2017;Calicut;Oman;Asia;0;62.4;37.6
+2017;Benguluru;Oman;Asia;6540;62.4;37.6
+2017;Kolkata;Oman;Asia;0;62.4;37.6
+2017;Hyderabad;Oman;Asia;9328;62.4;37.6
+2017;Cochin;Oman;Asia;1930;62.4;37.6
+2018;Delhi;Oman;Asia;4568;61.6;38.4
+2018;Mumbai;Oman;Asia;27596;61.6;38.4
+2018;Chennai;Oman;Asia;7613;61.6;38.4
+2018;Calicut;Oman;Asia;0;61.6;38.4
+2018;Benguluru;Oman;Asia;5995;61.6;38.4
+2018;Kolkata;Oman;Asia;95;61.6;38.4
+2018;Hyderabad;Oman;Asia;8374;61.6;38.4
+2018;Cochin;Oman;Asia;27882;61.6;38.4
+2019;Delhi;Oman;Asia;13198;62.3;37.7
+2019;Mumbai;Oman;Asia;24979;62.3;37.7
+2019;Chennai;Oman;Asia;4101;62.3;37.7
+2019;Calicut;Oman;Asia;820;62.3;37.7
+2019;Benguluru;Oman;Asia;2311;62.3;37.7
+2019;Kolkata;Oman;Asia;1268;62.3;37.7
+2019;Hyderabad;Oman;Asia;5369;62.3;37.7
+2019;Cochin;Oman;Asia;2162;62.3;37.7
+2020;Delhi;Oman;Asia;1528;62.51;37.49
+2020;Mumbai;Oman;Asia;2592;62.51;37.49
+2020;Chennai;Oman;Asia;1404;62.51;37.49
+2020;Calicut;Oman;Asia;1728;62.51;37.49
+2020;Benguluru;Oman;Asia;324;62.51;37.49
+2020;Kolkata;Oman;Asia;77;62.51;37.49
+2020;Hyderabad;Oman;Asia;1018;62.51;37.49
+2020;Cochin;Oman;Asia;1990;62.51;37.49
+2014;Delhi;Saudi Arabia;Asia;13372;79.8;20.2
+2014;Mumbai;Saudi Arabia;Asia;111;79.8;20.2
+2014;Chennai;Saudi Arabia;Asia;2109;79.8;20.2
+2014;Calicut;Saudi Arabia;Asia;7657;79.8;20.2
+2014;Benguluru;Saudi Arabia;Asia;5604;79.8;20.2
+2014;Kolkata;Saudi Arabia;Asia;3496;79.8;20.2
+2014;Hyderabad;Saudi Arabia;Asia;23138;79.8;20.2
+2014;Cochin;Saudi Arabia;Asia;0;79.8;20.2
+2015;Delhi;Saudi Arabia;Asia;14299;77.8;22.2
+2015;Mumbai;Saudi Arabia;Asia;128;77.8;22.2
+2015;Chennai;Saudi Arabia;Asia;2170;77.8;22.2
+2015;Calicut;Saudi Arabia;Asia;7405;77.8;22.2
+2015;Benguluru;Saudi Arabia;Asia;9894;77.8;22.2
+2015;Kolkata;Saudi Arabia;Asia;3383;77.8;22.2
+2015;Hyderabad;Saudi Arabia;Asia;26555;77.8;22.2
+2015;Cochin;Saudi Arabia;Asia;0;77.8;22.2
+2016;Delhi;Saudi Arabia;Asia;7208;75.3;24.7
+2016;Mumbai;Saudi Arabia;Asia;13553;75.3;24.7
+2016;Chennai;Saudi Arabia;Asia;1971;75.3;24.7
+2016;Calicut;Saudi Arabia;Asia;0;75.3;24.7
+2016;Benguluru;Saudi Arabia;Asia;7454;75.3;24.7
+2016;Kolkata;Saudi Arabia;Asia;123;75.3;24.7
+2016;Hyderabad;Saudi Arabia;Asia;3388;75.3;24.7
+2016;Cochin;Saudi Arabia;Asia;19898;75.3;24.7
+2017;Delhi;Saudi Arabia;Asia;6463;78;22
+2017;Mumbai;Saudi Arabia;Asia;11125;78;22
+2017;Chennai;Saudi Arabia;Asia;2225;78;22
+2017;Calicut;Saudi Arabia;Asia;0;78;22
+2017;Benguluru;Saudi Arabia;Asia;7258;78;22
+2017;Kolkata;Saudi Arabia;Asia;159;78;22
+2017;Hyderabad;Saudi Arabia;Asia;4026;78;22
+2017;Cochin;Saudi Arabia;Asia;0;78;22
+2018;Delhi;Saudi Arabia;Asia;7512;78.5;21.5
+2018;Mumbai;Saudi Arabia;Asia;9271;78.5;21.5
+2018;Chennai;Saudi Arabia;Asia;1617;78.5;21.5
+2018;Calicut;Saudi Arabia;Asia;0;78.5;21.5
+2018;Benguluru;Saudi Arabia;Asia;6799;78.5;21.5
+2018;Kolkata;Saudi Arabia;Asia;143;78.5;21.5
+2018;Hyderabad;Saudi Arabia;Asia;4374;78.5;21.5
+2018;Cochin;Saudi Arabia;Asia;10413;78.5;21.5
+2019;Delhi;Saudi Arabia;Asia;28388;79.4;20.6
+2019;Mumbai;Saudi Arabia;Asia;12908;79.4;20.6
+2019;Chennai;Saudi Arabia;Asia;1213;79.4;20.6
+2019;Calicut;Saudi Arabia;Asia;679;79.4;20.6
+2019;Benguluru;Saudi Arabia;Asia;825;79.4;20.6
+2019;Kolkata;Saudi Arabia;Asia;873;79.4;20.6
+2019;Hyderabad;Saudi Arabia;Asia;485;79.4;20.6
+2019;Cochin;Saudi Arabia;Asia;1844;79.4;20.6
+2020;Delhi;Saudi Arabia;Asia;2189;76.1;23.9
+2020;Mumbai;Saudi Arabia;Asia;2137;76.1;23.9
+2020;Chennai;Saudi Arabia;Asia;490;76.1;23.9
+2020;Calicut;Saudi Arabia;Asia;1345;76.1;23.9
+2020;Benguluru;Saudi Arabia;Asia;334;76.1;23.9
+2020;Kolkata;Saudi Arabia;Asia;177;76.1;23.9
+2020;Hyderabad;Saudi Arabia;Asia;1063;76.1;23.9
+2020;Cochin;Saudi Arabia;Asia;1751;76.1;23.9
+2014;Delhi;Turkey;Asia;8964;55.7;44.3
+2014;Mumbai;Turkey;Asia;146;55.7;44.3
+2014;Chennai;Turkey;Asia;777;55.7;44.3
+2014;Calicut;Turkey;Asia;11467;55.7;44.3
+2014;Benguluru;Turkey;Asia;534;55.7;44.3
+2014;Kolkata;Turkey;Asia;389;55.7;44.3
+2014;Hyderabad;Turkey;Asia;2016;55.7;44.3
+2014;Cochin;Turkey;Asia;0;55.7;44.3
+2015;Delhi;Turkey;Asia;10114;60.5;39.5
+2015;Mumbai;Turkey;Asia;282;60.5;39.5
+2015;Chennai;Turkey;Asia;693;60.5;39.5
+2015;Calicut;Turkey;Asia;11654;60.5;39.5
+2015;Benguluru;Turkey;Asia;744;60.5;39.5
+2015;Kolkata;Turkey;Asia;282;60.5;39.5
+2015;Hyderabad;Turkey;Asia;1900;60.5;39.5
+2015;Cochin;Turkey;Asia;0;60.5;39.5
+2016;Delhi;Turkey;Asia;13827;59.5;40.5
+2016;Mumbai;Turkey;Asia;10607;59.5;40.5
+2016;Chennai;Turkey;Asia;739;59.5;40.5
+2016;Calicut;Turkey;Asia;0;59.5;40.5
+2016;Benguluru;Turkey;Asia;916;59.5;40.5
+2016;Kolkata;Turkey;Asia;266;59.5;40.5
+2016;Hyderabad;Turkey;Asia;591;59.5;40.5
+2016;Cochin;Turkey;Asia;2600;59.5;40.5
+2017;Delhi;Turkey;Asia;14364;60.3;39.7
+2017;Mumbai;Turkey;Asia;10707;60.3;39.7
+2017;Chennai;Turkey;Asia;898;60.3;39.7
+2017;Calicut;Turkey;Asia;0;60.3;39.7
+2017;Benguluru;Turkey;Asia;964;60.3;39.7
+2017;Kolkata;Turkey;Asia;266;60.3;39.7
+2017;Hyderabad;Turkey;Asia;698;60.3;39.7
+2017;Cochin;Turkey;Asia;0;60.3;39.7
+2018;Delhi;Turkey;Asia;14511;59.5;40.5
+2018;Mumbai;Turkey;Asia;10689;59.5;40.5
+2018;Chennai;Turkey;Asia;778;59.5;40.5
+2018;Calicut;Turkey;Asia;0;59.5;40.5
+2018;Benguluru;Turkey;Asia;1184;59.5;40.5
+2018;Kolkata;Turkey;Asia;271;59.5;40.5
+2018;Hyderabad;Turkey;Asia;1049;59.5;40.5
+2018;Cochin;Turkey;Asia;338;59.5;40.5
+2019;Delhi;Turkey;Asia;6812;61;39
+2019;Mumbai;Turkey;Asia;8954;61;39
+2019;Chennai;Turkey;Asia;2949;61;39
+2019;Calicut;Turkey;Asia;808;61;39
+2019;Benguluru;Turkey;Asia;2247;61;39
+2019;Kolkata;Turkey;Asia;421;61;39
+2019;Hyderabad;Turkey;Asia;1615;61;39
+2019;Cochin;Turkey;Asia;8076;61;39
+2020;Delhi;Turkey;Asia;5806;62.63;37.37
+2020;Mumbai;Turkey;Asia;4081;62.63;37.37
+2020;Chennai;Turkey;Asia;185;62.63;37.37
+2020;Calicut;Turkey;Asia;11;62.63;37.37
+2020;Benguluru;Turkey;Asia;347;62.63;37.37
+2020;Kolkata;Turkey;Asia;98;62.63;37.37
+2020;Hyderabad;Turkey;Asia;109;62.63;37.37
+2020;Cochin;Turkey;Asia;1541;62.63;37.37
+2014;Delhi;U.A.E.;Asia;24623;49.2;50.8
+2014;Mumbai;U.A.E.;Asia;178;49.2;50.8
+2014;Chennai;U.A.E.;Asia;1009;49.2;50.8
+2014;Calicut;U.A.E.;Asia;2314;49.2;50.8
+2014;Benguluru;U.A.E.;Asia;7239;49.2;50.8
+2014;Kolkata;U.A.E.;Asia;14714;49.2;50.8
+2014;Hyderabad;U.A.E.;Asia;9256;49.2;50.8
+2014;Cochin;U.A.E.;Asia;0;49.2;50.8
+2015;Delhi;U.A.E.;Asia;21769;48.6;51.4
+2015;Mumbai;U.A.E.;Asia;223;48.6;51.4
+2015;Chennai;U.A.E.;Asia;893;48.6;51.4
+2015;Calicut;U.A.E.;Asia;2177;48.6;51.4
+2015;Benguluru;U.A.E.;Asia;6866;48.6;51.4
+2015;Kolkata;U.A.E.;Asia;14848;48.6;51.4
+2015;Hyderabad;U.A.E.;Asia;9043;48.6;51.4
+2015;Cochin;U.A.E.;Asia;0;48.6;51.4
+2016;Delhi;U.A.E.;Asia;2619;48.6;51.4
+2016;Mumbai;U.A.E.;Asia;27336;48.6;51.4
+2016;Chennai;U.A.E.;Asia;1007;48.6;51.4
+2016;Calicut;U.A.E.;Asia;0;48.6;51.4
+2016;Benguluru;U.A.E.;Asia;9336;48.6;51.4
+2016;Kolkata;U.A.E.;Asia;134;48.6;51.4
+2016;Hyderabad;U.A.E.;Asia;15784;48.6;51.4
+2016;Cochin;U.A.E.;Asia;5575;48.6;51.4
+2017;Delhi;U.A.E.;Asia;3026;49.5;50.5
+2017;Mumbai;U.A.E.;Asia;26761;49.5;50.5
+2017;Chennai;U.A.E.;Asia;1278;49.5;50.5
+2017;Calicut;U.A.E.;Asia;0;49.5;50.5
+2017;Benguluru;U.A.E.;Asia;7665;49.5;50.5
+2017;Kolkata;U.A.E.;Asia;202;49.5;50.5
+2017;Hyderabad;U.A.E.;Asia;16406;49.5;50.5
+2017;Cochin;U.A.E.;Asia;0;49.5;50.5
+2018;Delhi;U.A.E.;Asia;2639;48.3;51.7
+2018;Mumbai;U.A.E.;Asia;25728;48.3;51.7
+2018;Chennai;U.A.E.;Asia;1199;48.3;51.7
+2018;Calicut;U.A.E.;Asia;0;48.3;51.7
+2018;Benguluru;U.A.E.;Asia;5757;48.3;51.7
+2018;Kolkata;U.A.E.;Asia;240;48.3;51.7
+2018;Hyderabad;U.A.E.;Asia;15712;48.3;51.7
+2018;Cochin;U.A.E.;Asia;3478;48.3;51.7
+2019;Delhi;U.A.E.;Asia;5874;47.5;52.5
+2019;Mumbai;U.A.E.;Asia;7979;47.5;52.5
+2019;Chennai;U.A.E.;Asia;10030;47.5;52.5
+2019;Calicut;U.A.E.;Asia;2494;47.5;52.5
+2019;Benguluru;U.A.E.;Asia;1552;47.5;52.5
+2019;Kolkata;U.A.E.;Asia;554;47.5;52.5
+2019;Hyderabad;U.A.E.;Asia;3768;47.5;52.5
+2019;Cochin;U.A.E.;Asia;9642;47.5;52.5
+2020;Delhi;U.A.E.;Asia;1101;51.17;48.83
+2020;Mumbai;U.A.E.;Asia;1115;51.17;48.83
+2020;Chennai;U.A.E.;Asia;451;51.17;48.83
+2020;Calicut;U.A.E.;Asia;835;51.17;48.83
+2020;Benguluru;U.A.E.;Asia;244;51.17;48.83
+2020;Kolkata;U.A.E.;Asia;96;51.17;48.83
+2020;Hyderabad;U.A.E.;Asia;465;51.17;48.83
+2020;Cochin;U.A.E.;Asia;835;51.17;48.83
+2014;Delhi;Yemen Arab Rep.;Asia;21585;70.3;29.7
+2014;Mumbai;Yemen Arab Rep.;Asia;137;70.3;29.7
+2014;Chennai;Yemen Arab Rep.;Asia;547;70.3;29.7
+2014;Calicut;Yemen Arab Rep.;Asia;2600;70.3;29.7
+2014;Benguluru;Yemen Arab Rep.;Asia;4618;70.3;29.7
+2014;Kolkata;Yemen Arab Rep.;Asia;3352;70.3;29.7
+2014;Hyderabad;Yemen Arab Rep.;Asia;1368;70.3;29.7
+2014;Cochin;Yemen Arab Rep.;Asia;0;70.3;29.7
+2015;Delhi;Yemen Arab Rep.;Asia;10346;73.7;26.3
+2015;Mumbai;Yemen Arab Rep.;Asia;105;73.7;26.3
+2015;Chennai;Yemen Arab Rep.;Asia;397;73.7;26.3
+2015;Calicut;Yemen Arab Rep.;Asia;1693;73.7;26.3
+2015;Benguluru;Yemen Arab Rep.;Asia;3950;73.7;26.3
+2015;Kolkata;Yemen Arab Rep.;Asia;2843;73.7;26.3
+2015;Hyderabad;Yemen Arab Rep.;Asia;1568;73.7;26.3
+2015;Cochin;Yemen Arab Rep.;Asia;0;73.7;26.3
+2016;Delhi;Yemen Arab Rep.;Asia;1473;76.5;23.5
+2016;Mumbai;Yemen Arab Rep.;Asia;9866;76.5;23.5
+2016;Chennai;Yemen Arab Rep.;Asia;368;76.5;23.5
+2016;Calicut;Yemen Arab Rep.;Asia;0;76.5;23.5
+2016;Benguluru;Yemen Arab Rep.;Asia;3256;76.5;23.5
+2016;Kolkata;Yemen Arab Rep.;Asia;58;76.5;23.5
+2016;Hyderabad;Yemen Arab Rep.;Asia;2946;76.5;23.5
+2016;Cochin;Yemen Arab Rep.;Asia;504;76.5;23.5
+2017;Delhi;Yemen Arab Rep.;Asia;1866;72.6;27.4
+2017;Mumbai;Yemen Arab Rep.;Asia;12279;72.6;27.4
+2017;Chennai;Yemen Arab Rep.;Asia;456;72.6;27.4
+2017;Calicut;Yemen Arab Rep.;Asia;0;72.6;27.4
+2017;Benguluru;Yemen Arab Rep.;Asia;3211;72.6;27.4
+2017;Kolkata;Yemen Arab Rep.;Asia;43;72.6;27.4
+2017;Hyderabad;Yemen Arab Rep.;Asia;2517;72.6;27.4
+2017;Cochin;Yemen Arab Rep.;Asia;0;72.6;27.4
+2018;Delhi;Yemen Arab Rep.;Asia;1712;70.9;29.1
+2018;Mumbai;Yemen Arab Rep.;Asia;12809;70.9;29.1
+2018;Chennai;Yemen Arab Rep.;Asia;368;70.9;29.1
+2018;Calicut;Yemen Arab Rep.;Asia;0;70.9;29.1
+2018;Benguluru;Yemen Arab Rep.;Asia;2774;70.9;29.1
+2018;Kolkata;Yemen Arab Rep.;Asia;43;70.9;29.1
+2018;Hyderabad;Yemen Arab Rep.;Asia;2709;70.9;29.1
+2018;Cochin;Yemen Arab Rep.;Asia;477;70.9;29.1
+2019;Delhi;Yemen Arab Rep.;Asia;2137;70.2;29.8
+2019;Mumbai;Yemen Arab Rep.;Asia;4796;70.2;29.8
+2019;Chennai;Yemen Arab Rep.;Asia;2398;70.2;29.8
+2019;Calicut;Yemen Arab Rep.;Asia;2867;70.2;29.8
+2019;Benguluru;Yemen Arab Rep.;Asia;756;70.2;29.8
+2019;Kolkata;Yemen Arab Rep.;Asia;209;70.2;29.8
+2019;Hyderabad;Yemen Arab Rep.;Asia;1460;70.2;29.8
+2019;Cochin;Yemen Arab Rep.;Asia;3519;70.2;29.8
+2020;Delhi;Yemen Arab Rep.;Asia;1682;70.45;29.55
+2020;Mumbai;Yemen Arab Rep.;Asia;1347;70.45;29.55
+2020;Chennai;Yemen Arab Rep.;Asia;435;70.45;29.55
+2020;Calicut;Yemen Arab Rep.;Asia;371;70.45;29.55
+2020;Benguluru;Yemen Arab Rep.;Asia;306;70.45;29.55
+2020;Kolkata;Yemen Arab Rep.;Asia;53;70.45;29.55
+2020;Hyderabad;Yemen Arab Rep.;Asia;447;70.45;29.55
+2020;Cochin;Yemen Arab Rep.;Asia;759;70.45;29.55
+2014;Delhi;Afghanistan;Asia;462;73.9;26.1
+2014;Mumbai;Afghanistan;Asia;116;73.9;26.1
+2014;Chennai;Afghanistan;Asia;0;73.9;26.1
+2014;Calicut;Afghanistan;Asia;114413;73.9;26.1
+2014;Benguluru;Afghanistan;Asia;116;73.9;26.1
+2014;Kolkata;Afghanistan;Asia;116;73.9;26.1
+2014;Hyderabad;Afghanistan;Asia;347;73.9;26.1
+2014;Cochin;Afghanistan;Asia;0;73.9;26.1
+2015;Delhi;Afghanistan;Asia;0;73.6;26.4
+2015;Mumbai;Afghanistan;Asia;229;73.6;26.4
+2015;Chennai;Afghanistan;Asia;229;73.6;26.4
+2015;Calicut;Afghanistan;Asia;112919;73.6;26.4
+2015;Benguluru;Afghanistan;Asia;458;73.6;26.4
+2015;Kolkata;Afghanistan;Asia;114;73.6;26.4
+2015;Hyderabad;Afghanistan;Asia;458;73.6;26.4
+2015;Cochin;Afghanistan;Asia;0;73.6;26.4
+2016;Delhi;Afghanistan;Asia;121973;70.9;29.1
+2016;Mumbai;Afghanistan;Asia;493;70.9;29.1
+2016;Chennai;Afghanistan;Asia;0;70.9;29.1
+2016;Calicut;Afghanistan;Asia;0;70.9;29.1
+2016;Benguluru;Afghanistan;Asia;247;70.9;29.1
+2016;Kolkata;Afghanistan;Asia;123;70.9;29.1
+2016;Hyderabad;Afghanistan;Asia;123;70.9;29.1
+2016;Cochin;Afghanistan;Asia;0;70.9;29.1
+2017;Delhi;Afghanistan;Asia;147684;69.2;30.8
+2017;Mumbai;Afghanistan;Asia;597;69.2;30.8
+2017;Chennai;Afghanistan;Asia;0;69.2;30.8
+2017;Calicut;Afghanistan;Asia;0;69.2;30.8
+2017;Benguluru;Afghanistan;Asia;149;69.2;30.8
+2017;Kolkata;Afghanistan;Asia;149;69.2;30.8
+2017;Hyderabad;Afghanistan;Asia;149;69.2;30.8
+2017;Cochin;Afghanistan;Asia;0;69.2;30.8
+2018;Delhi;Afghanistan;Asia;151750;68.9;31.1
+2018;Mumbai;Afghanistan;Asia;923;68.9;31.1
+2018;Chennai;Afghanistan;Asia;154;68.9;31.1
+2018;Calicut;Afghanistan;Asia;154;68.9;31.1
+2018;Benguluru;Afghanistan;Asia;154;68.9;31.1
+2018;Kolkata;Afghanistan;Asia;308;68.9;31.1
+2018;Hyderabad;Afghanistan;Asia;0;68.9;31.1
+2018;Cochin;Afghanistan;Asia;0;68.9;31.1
+2019;Delhi;Afghanistan;Asia;90483;67.7;32.3
+2019;Mumbai;Afghanistan;Asia;6702;67.7;32.3
+2019;Chennai;Afghanistan;Asia;3724;67.7;32.3
+2019;Calicut;Afghanistan;Asia;1489;67.7;32.3
+2019;Benguluru;Afghanistan;Asia;1241;67.7;32.3
+2019;Kolkata;Afghanistan;Asia;3848;67.7;32.3
+2019;Hyderabad;Afghanistan;Asia;2731;67.7;32.3
+2019;Cochin;Afghanistan;Asia;2855;67.7;32.3
+2020;Delhi;Afghanistan;Asia;40807;65.94;34
+2020;Mumbai;Afghanistan;Asia;856;65.94;34
+2020;Chennai;Afghanistan;Asia;666;65.94;34
+2020;Calicut;Afghanistan;Asia;333;65.94;34
+2020;Benguluru;Afghanistan;Asia;190;65.94;34
+2020;Kolkata;Afghanistan;Asia;951;65.94;34
+2020;Hyderabad;Afghanistan;Asia;428;65.94;34
+2020;Cochin;Afghanistan;Asia;476;65.94;34
+2014;Delhi;Bangladesh;Asia;328012;53.3;46.7
+2014;Mumbai;Bangladesh;Asia;5655;53.3;46.7
+2014;Chennai;Bangladesh;Asia;13196;53.3;46.7
+2014;Calicut;Bangladesh;Asia;361001;53.3;46.7
+2014;Benguluru;Bangladesh;Asia;127246;53.3;46.7
+2014;Kolkata;Bangladesh;Asia;23564;53.3;46.7
+2014;Hyderabad;Bangladesh;Asia;83888;53.3;46.7
+2014;Cochin;Bangladesh;Asia;0;53.3;46.7
+2015;Delhi;Bangladesh;Asia;368511;53.1;46.9
+2015;Mumbai;Bangladesh;Asia;9071;53.1;46.9
+2015;Chennai;Bangladesh;Asia;13607;53.1;46.9
+2015;Calicut;Bangladesh;Asia;390054;53.1;46.9
+2015;Benguluru;Bangladesh;Asia;182555;53.1;46.9
+2015;Kolkata;Bangladesh;Asia;26079;53.1;46.9
+2015;Hyderabad;Bangladesh;Asia;144003;53.1;46.9
+2015;Cochin;Bangladesh;Asia;0;53.1;46.9
+2016;Delhi;Bangladesh;Asia;16565;71.9;28.1
+2016;Mumbai;Bangladesh;Asia;8282;71.9;28.1
+2016;Chennai;Bangladesh;Asia;8282;71.9;28.1
+2016;Calicut;Bangladesh;Asia;755084;71.9;28.1
+2016;Benguluru;Bangladesh;Asia;0;71.9;28.1
+2016;Kolkata;Bangladesh;Asia;164269;71.9;28.1
+2016;Hyderabad;Bangladesh;Asia;0;71.9;28.1
+2016;Cochin;Bangladesh;Asia;0;71.9;28.1
+2017;Delhi;Bangladesh;Asia;21566;70.5;29.5
+2017;Mumbai;Bangladesh;Asia;8626;70.5;29.5
+2017;Chennai;Bangladesh;Asia;8626;70.5;29.5
+2017;Calicut;Bangladesh;Asia;1171010;70.5;29.5
+2017;Benguluru;Bangladesh;Asia;0;70.5;29.5
+2017;Kolkata;Bangladesh;Asia;267413;70.5;29.5
+2017;Hyderabad;Bangladesh;Asia;0;70.5;29.5
+2017;Cochin;Bangladesh;Asia;25879;70.5;29.5
+2018;Delhi;Bangladesh;Asia;18053;69.7;30.3
+2018;Mumbai;Bangladesh;Asia;6770;69.7;30.3
+2018;Chennai;Bangladesh;Asia;9027;69.7;30.3
+2018;Calicut;Bangladesh;Asia;1035814;69.7;30.3
+2018;Benguluru;Bangladesh;Asia;2257;69.7;30.3
+2018;Kolkata;Bangladesh;Asia;347528;69.7;30.3
+2018;Hyderabad;Bangladesh;Asia;0;69.7;30.3
+2018;Cochin;Bangladesh;Asia;0;69.7;30.3
+2019;Delhi;Bangladesh;Asia;126309;69.5;30.4
+2019;Mumbai;Bangladesh;Asia;43821;69.5;30.4
+2019;Chennai;Bangladesh;Asia;12889;69.5;30.4
+2019;Calicut;Bangladesh;Asia;0;69.5;30.4
+2019;Benguluru;Bangladesh;Asia;2578;69.5;30.4
+2019;Kolkata;Bangladesh;Asia;574833;69.5;30.4
+2019;Hyderabad;Bangladesh;Asia;0;69.5;30.4
+2019;Cochin;Bangladesh;Asia;0;69.5;30.4
+2020;Delhi;Bangladesh;Asia;47787;69.58;30.4
+2020;Mumbai;Bangladesh;Asia;13183;69.58;30.4
+2020;Chennai;Bangladesh;Asia;4394;69.58;30.4
+2020;Calicut;Bangladesh;Asia;0;69.58;30.4
+2020;Benguluru;Bangladesh;Asia;0;69.58;30.4
+2020;Kolkata;Bangladesh;Asia;95574;69.58;30.4
+2020;Hyderabad;Bangladesh;Asia;549;69.58;30.4
+2020;Cochin;Bangladesh;Asia;0;69.58;30.4
+2014;Delhi;Bhutan;Asia;224;52.1;47.9
+2014;Mumbai;Bhutan;Asia;0;52.1;47.9
+2014;Chennai;Bhutan;Asia;784;52.1;47.9
+2014;Calicut;Bhutan;Asia;224;52.1;47.9
+2014;Benguluru;Bhutan;Asia;2448;52.1;47.9
+2014;Kolkata;Bhutan;Asia;0;52.1;47.9
+2014;Hyderabad;Bhutan;Asia;12321;52.1;47.9
+2014;Cochin;Bhutan;Asia;0;52.1;47.9
+2015;Delhi;Bhutan;Asia;134;52.3;47.7
+2015;Mumbai;Bhutan;Asia;19;52.3;47.7
+2015;Chennai;Bhutan;Asia;840;52.3;47.7
+2015;Calicut;Bhutan;Asia;267;52.3;47.7
+2015;Benguluru;Bhutan;Asia;3416;52.3;47.7
+2015;Kolkata;Bhutan;Asia;0;52.3;47.7
+2015;Hyderabad;Bhutan;Asia;14408;52.3;47.7
+2015;Cochin;Bhutan;Asia;0;52.3;47.7
+2016;Delhi;Bhutan;Asia;11978;58.9;41.1
+2016;Mumbai;Bhutan;Asia;126;58.9;41.1
+2016;Chennai;Bhutan;Asia;126;58.9;41.1
+2016;Calicut;Bhutan;Asia;0;58.9;41.1
+2016;Benguluru;Bhutan;Asia;63;58.9;41.1
+2016;Kolkata;Bhutan;Asia;4963;58.9;41.1
+2016;Hyderabad;Bhutan;Asia;21;58.9;41.1
+2016;Cochin;Bhutan;Asia;21;58.9;41.1
+2017;Delhi;Bhutan;Asia;13543;56.7;43.3
+2017;Mumbai;Bhutan;Asia;253;56.7;43.3
+2017;Chennai;Bhutan;Asia;253;56.7;43.3
+2017;Calicut;Bhutan;Asia;0;56.7;43.3
+2017;Benguluru;Bhutan;Asia;101;56.7;43.3
+2017;Kolkata;Bhutan;Asia;5458;56.7;43.3
+2017;Hyderabad;Bhutan;Asia;0;56.7;43.3
+2017;Cochin;Bhutan;Asia;3335;56.7;43.3
+2018;Delhi;Bhutan;Asia;14347;56.6;43.4
+2018;Mumbai;Bhutan;Asia;344;56.6;43.4
+2018;Chennai;Bhutan;Asia;159;56.6;43.4
+2018;Calicut;Bhutan;Asia;0;56.6;43.4
+2018;Benguluru;Bhutan;Asia;106;56.6;43.4
+2018;Kolkata;Bhutan;Asia;5559;56.6;43.4
+2018;Hyderabad;Bhutan;Asia;26;56.6;43.4
+2018;Cochin;Bhutan;Asia;26;56.6;43.4
+2019;Delhi;Bhutan;Asia;13018;55.3;44.7
+2019;Mumbai;Bhutan;Asia;1719;55.3;44.7
+2019;Chennai;Bhutan;Asia;0;55.3;44.7
+2019;Calicut;Bhutan;Asia;0;55.3;44.7
+2019;Benguluru;Bhutan;Asia;0;55.3;44.7
+2019;Kolkata;Bhutan;Asia;10933;55.3;44.7
+2019;Hyderabad;Bhutan;Asia;0;55.3;44.7
+2019;Cochin;Bhutan;Asia;0;55.3;44.7
+2020;Delhi;Bhutan;Asia;3658;51.79;48.21
+2020;Mumbai;Bhutan;Asia;16;51.79;48.21
+2020;Chennai;Bhutan;Asia;0;51.79;48.21
+2020;Calicut;Bhutan;Asia;8;51.79;48.21
+2020;Benguluru;Bhutan;Asia;8;51.79;48.21
+2020;Kolkata;Bhutan;Asia;3010;51.79;48.21
+2020;Hyderabad;Bhutan;Asia;0;51.79;48.21
+2020;Cochin;Bhutan;Asia;0;51.79;48.21
+2014;Delhi;Iran;Asia;2748;68.1;31.9
+2014;Mumbai;Iran;Asia;1343;68.1;31.9
+2014;Chennai;Iran;Asia;281;68.1;31.9
+2014;Calicut;Iran;Asia;23323;68.1;31.9
+2014;Benguluru;Iran;Asia;187;68.1;31.9
+2014;Kolkata;Iran;Asia;62;68.1;31.9
+2014;Hyderabad;Iran;Asia;3278;68.1;31.9
+2014;Cochin;Iran;Asia;0;68.1;31.9
+2015;Delhi;Iran;Asia;2893;68.1;31.9
+2015;Mumbai;Iran;Asia;1385;68.1;31.9
+2015;Chennai;Iran;Asia;277;68.1;31.9
+2015;Calicut;Iran;Asia;22988;68.1;31.9
+2015;Benguluru;Iran;Asia;1139;68.1;31.9
+2015;Kolkata;Iran;Asia;92;68.1;31.9
+2015;Hyderabad;Iran;Asia;2000;68.1;31.9
+2015;Cochin;Iran;Asia;0;68.1;31.9
+2016;Delhi;Iran;Asia;17163;51.6;48.4
+2016;Mumbai;Iran;Asia;9953;51.6;48.4
+2016;Chennai;Iran;Asia;627;51.6;48.4
+2016;Calicut;Iran;Asia;0;51.6;48.4
+2016;Benguluru;Iran;Asia;5211;51.6;48.4
+2016;Kolkata;Iran;Asia;196;51.6;48.4
+2016;Hyderabad;Iran;Asia;862;51.6;48.4
+2016;Cochin;Iran;Asia;353;51.6;48.4
+2017;Delhi;Iran;Asia;18890;50.2;49.8
+2017;Mumbai;Iran;Asia;9210;50.2;49.8
+2017;Chennai;Iran;Asia;554;50.2;49.8
+2017;Calicut;Iran;Asia;0;50.2;49.8
+2017;Benguluru;Iran;Asia;4605;50.2;49.8
+2017;Kolkata;Iran;Asia;256;50.2;49.8
+2017;Hyderabad;Iran;Asia;1023;50.2;49.8
+2017;Cochin;Iran;Asia;128;50.2;49.8
+2018;Delhi;Iran;Asia;15947;52.9;47.1
+2018;Mumbai;Iran;Asia;11747;52.9;47.1
+2018;Chennai;Iran;Asia;605;52.9;47.1
+2018;Calicut;Iran;Asia;0;52.9;47.1
+2018;Benguluru;Iran;Asia;3560;52.9;47.1
+2018;Kolkata;Iran;Asia;178;52.9;47.1
+2018;Hyderabad;Iran;Asia;925;52.9;47.1
+2018;Cochin;Iran;Asia;320;52.9;47.1
+2019;Delhi;Iran;Asia;12583;55.3;44.7
+2019;Mumbai;Iran;Asia;14380;55.3;44.7
+2019;Chennai;Iran;Asia;333;55.3;44.7
+2019;Calicut;Iran;Asia;33;55.3;44.7
+2019;Benguluru;Iran;Asia;1032;55.3;44.7
+2019;Kolkata;Iran;Asia;266;55.3;44.7
+2019;Hyderabad;Iran;Asia;899;55.3;44.7
+2019;Cochin;Iran;Asia;200;55.3;44.7
+2020;Delhi;Iran;Asia;3744;55.23;44.77
+2020;Mumbai;Iran;Asia;2779;55.23;44.77
+2020;Chennai;Iran;Asia;43;55.23;44.77
+2020;Calicut;Iran;Asia;14;55.23;44.77
+2020;Benguluru;Iran;Asia;106;55.23;44.77
+2020;Kolkata;Iran;Asia;28;55.23;44.77
+2020;Hyderabad;Iran;Asia;135;55.23;44.77
+2020;Cochin;Iran;Asia;43;55.23;44.77
+2014;Delhi;Maldives;Asia;5594;56;44
+2014;Mumbai;Maldives;Asia;0;56;44
+2014;Chennai;Maldives;Asia;325;56;44
+2014;Calicut;Maldives;Asia;3773;56;44
+2014;Benguluru;Maldives;Asia;0;56;44
+2014;Kolkata;Maldives;Asia;0;56;44
+2014;Hyderabad;Maldives;Asia;55359;56;44
+2014;Cochin;Maldives;Asia;0;56;44
+2015;Delhi;Maldives;Asia;3997;70.4;29.6
+2015;Mumbai;Maldives;Asia;69;70.4;29.6
+2015;Chennai;Maldives;Asia;207;70.4;29.6
+2015;Calicut;Maldives;Asia;2618;70.4;29.6
+2015;Benguluru;Maldives;Asia;0;70.4;29.6
+2015;Kolkata;Maldives;Asia;0;70.4;29.6
+2015;Hyderabad;Maldives;Asia;62016;70.4;29.6
+2015;Cochin;Maldives;Asia;0;70.4;29.6
+2016;Delhi;Maldives;Asia;1417;52.4;47.6
+2016;Mumbai;Maldives;Asia;540;52.4;47.6
+2016;Chennai;Maldives;Asia;3440;52.4;47.6
+2016;Calicut;Maldives;Asia;0;52.4;47.6
+2016;Benguluru;Maldives;Asia;11805;52.4;47.6
+2016;Kolkata;Maldives;Asia;67;52.4;47.6
+2016;Hyderabad;Maldives;Asia;0;52.4;47.6
+2016;Cochin;Maldives;Asia;50188;52.4;47.6
+2017;Delhi;Maldives;Asia;1654;52.1;47.9
+2017;Mumbai;Maldives;Asia;529;52.1;47.9
+2017;Chennai;Maldives;Asia;2977;52.1;47.9
+2017;Calicut;Maldives;Asia;0;52.1;47.9
+2017;Benguluru;Maldives;Asia;11047;52.1;47.9
+2017;Kolkata;Maldives;Asia;66;52.1;47.9
+2017;Hyderabad;Maldives;Asia;66;52.1;47.9
+2017;Cochin;Maldives;Asia;0;52.1;47.9
+2018;Delhi;Maldives;Asia;1621;51.9;48.1
+2018;Mumbai;Maldives;Asia;748;51.9;48.1
+2018;Chennai;Maldives;Asia;2743;51.9;48.1
+2018;Calicut;Maldives;Asia;0;51.9;48.1
+2018;Benguluru;Maldives;Asia;9787;51.9;48.1
+2018;Kolkata;Maldives;Asia;62;51.9;48.1
+2018;Hyderabad;Maldives;Asia;125;51.9;48.1
+2018;Cochin;Maldives;Asia;10784;51.9;48.1
+2019;Delhi;Maldives;Asia;9666;51.8;48.2
+2019;Mumbai;Maldives;Asia;17446;51.8;48.2
+2019;Chennai;Maldives;Asia;4322;51.8;48.2
+2019;Calicut;Maldives;Asia;0;51.8;48.2
+2019;Benguluru;Maldives;Asia;15953;51.8;48.2
+2019;Kolkata;Maldives;Asia;236;51.8;48.2
+2019;Hyderabad;Maldives;Asia;472;51.8;48.2
+2019;Cochin;Maldives;Asia;19961;51.8;48.2
+2020;Delhi;Maldives;Asia;2195;53.8;46.14
+2020;Mumbai;Maldives;Asia;4114;53.8;46.14
+2020;Chennai;Maldives;Asia;625;53.8;46.14
+2020;Calicut;Maldives;Asia;0;53.8;46.14
+2020;Benguluru;Maldives;Asia;2558;53.8;46.14
+2020;Kolkata;Maldives;Asia;145;53.8;46.14
+2020;Hyderabad;Maldives;Asia;102;53.8;46.14
+2020;Cochin;Maldives;Asia;2500;53.8;46.14
+2014;Delhi;Nepal;Asia;885;73;27
+2014;Mumbai;Nepal;Asia;13653;73;27
+2014;Chennai;Nepal;Asia;1011;73;27
+2014;Calicut;Nepal;Asia;2402;73;27
+2014;Benguluru;Nepal;Asia;0;73;27
+2014;Kolkata;Nepal;Asia;0;73;27
+2014;Hyderabad;Nepal;Asia;108465;73;27
+2014;Cochin;Nepal;Asia;0;73;27
+2015;Delhi;Nepal;Asia;928;73;27
+2015;Mumbai;Nepal;Asia;18102;73;27
+2015;Chennai;Nepal;Asia;1392;73;27
+2015;Calicut;Nepal;Asia;2166;73;27
+2015;Benguluru;Nepal;Asia;0;73;27
+2015;Kolkata;Nepal;Asia;0;73;27
+2015;Hyderabad;Nepal;Asia;132131;73;27
+2015;Cochin;Nepal;Asia;0;73;27
+2016;Delhi;Nepal;Asia;110190;67.3;32.7
+2016;Mumbai;Nepal;Asia;16915;67.3;32.7
+2016;Chennai;Nepal;Asia;1289;67.3;32.7
+2016;Calicut;Nepal;Asia;322;67.3;32.7
+2016;Benguluru;Nepal;Asia;14660;67.3;32.7
+2016;Kolkata;Nepal;Asia;7249;67.3;32.7
+2016;Hyderabad;Nepal;Asia;483;67.3;32.7
+2016;Cochin;Nepal;Asia;644;67.3;32.7
+2017;Delhi;Nepal;Asia;114977;67.4;32.6
+2017;Mumbai;Nepal;Asia;19518;67.4;32.6
+2017;Chennai;Nepal;Asia;1148;67.4;32.6
+2017;Calicut;Nepal;Asia;164;67.4;32.6
+2017;Benguluru;Nepal;Asia;12629;67.4;32.6
+2017;Kolkata;Nepal;Asia;6725;67.4;32.6
+2017;Hyderabad;Nepal;Asia;656;67.4;32.6
+2017;Cochin;Nepal;Asia;3280;67.4;32.6
+2018;Delhi;Nepal;Asia;119256;66.5;33.5
+2018;Mumbai;Nepal;Asia;20195;66.5;33.5
+2018;Chennai;Nepal;Asia;1045;66.5;33.5
+2018;Calicut;Nepal;Asia;174;66.5;33.5
+2018;Benguluru;Nepal;Asia;13231;66.5;33.5
+2018;Kolkata;Nepal;Asia;6093;66.5;33.5
+2018;Hyderabad;Nepal;Asia;696;66.5;33.5
+2018;Cochin;Nepal;Asia;522;66.5;33.5
+2019;Delhi;Nepal;Asia;130740;65.4;34.6
+2019;Mumbai;Nepal;Asia;11155;65.4;34.6
+2019;Chennai;Nepal;Asia;656;65.4;34.6
+2019;Calicut;Nepal;Asia;0;65.4;34.6
+2019;Benguluru;Nepal;Asia;6890;65.4;34.6
+2019;Kolkata;Nepal;Asia;12139;65.4;34.6
+2019;Hyderabad;Nepal;Asia;0;65.4;34.6
+2019;Cochin;Nepal;Asia;164;65.4;34.6
+2020;Delhi;Nepal;Asia;34903;64.3;35.7
+2020;Mumbai;Nepal;Asia;1878;64.3;35.7
+2020;Chennai;Nepal;Asia;122;64.3;35.7
+2020;Calicut;Nepal;Asia;0;64.3;35.7
+2020;Benguluru;Nepal;Asia;1143;64.3;35.7
+2020;Kolkata;Nepal;Asia;2327;64.3;35.7
+2020;Hyderabad;Nepal;Asia;0;64.3;35.7
+2020;Cochin;Nepal;Asia;41;64.3;35.7
+2014;Delhi;Pakistan;Asia;8968;57.1;42.9
+2014;Mumbai;Pakistan;Asia;96;57.1;42.9
+2014;Chennai;Pakistan;Asia;42238;57.1;42.9
+2014;Calicut;Pakistan;Asia;5882;57.1;42.9
+2014;Benguluru;Pakistan;Asia;10222;57.1;42.9
+2014;Kolkata;Pakistan;Asia;96;57.1;42.9
+2014;Hyderabad;Pakistan;Asia;28930;57.1;42.9
+2014;Cochin;Pakistan;Asia;0;57.1;42.9
+2015;Delhi;Pakistan;Asia;13117;55.8;44.2
+2015;Mumbai;Pakistan;Asia;874;55.8;44.2
+2015;Chennai;Pakistan;Asia;59089;55.8;44.2
+2015;Calicut;Pakistan;Asia;9619;55.8;44.2
+2015;Benguluru;Pakistan;Asia;6496;55.8;44.2
+2015;Kolkata;Pakistan;Asia;125;55.8;44.2
+2015;Hyderabad;Pakistan;Asia;35603;55.8;44.2
+2015;Cochin;Pakistan;Asia;0;55.8;44.2
+2016;Delhi;Pakistan;Asia;4294;76.8;23.2
+2016;Mumbai;Pakistan;Asia;4817;76.8;23.2
+2016;Chennai;Pakistan;Asia;314;76.8;23.2
+2016;Calicut;Pakistan;Asia;0;76.8;23.2
+2016;Benguluru;Pakistan;Asia;0;76.8;23.2
+2016;Kolkata;Pakistan;Asia;314;76.8;23.2
+2016;Hyderabad;Pakistan;Asia;0;76.8;23.2
+2016;Cochin;Pakistan;Asia;105;76.8;23.2
+2017;Delhi;Pakistan;Asia;2213;54.6;45.4
+2017;Mumbai;Pakistan;Asia;2789;54.6;45.4
+2017;Chennai;Pakistan;Asia;177;54.6;45.4
+2017;Calicut;Pakistan;Asia;0;54.6;45.4
+2017;Benguluru;Pakistan;Asia;0;54.6;45.4
+2017;Kolkata;Pakistan;Asia;0;54.6;45.4
+2017;Hyderabad;Pakistan;Asia;0;54.6;45.4
+2017;Cochin;Pakistan;Asia;930;54.6;45.4
+2018;Delhi;Pakistan;Asia;1583;54.9;45.1
+2018;Mumbai;Pakistan;Asia;3541;54.9;45.1
+2018;Chennai;Pakistan;Asia;167;54.9;45.1
+2018;Calicut;Pakistan;Asia;0;54.9;45.1
+2018;Benguluru;Pakistan;Asia;0;54.9;45.1
+2018;Kolkata;Pakistan;Asia;0;54.9;45.1
+2018;Hyderabad;Pakistan;Asia;0;54.9;45.1
+2018;Cochin;Pakistan;Asia;0;54.9;45.1
+2019;Delhi;Pakistan;Asia;741;68.1;31.9
+2019;Mumbai;Pakistan;Asia;1327;68.1;31.9
+2019;Chennai;Pakistan;Asia;78;68.1;31.9
+2019;Calicut;Pakistan;Asia;39;68.1;31.9
+2019;Benguluru;Pakistan;Asia;78;68.1;31.9
+2019;Kolkata;Pakistan;Asia;39;68.1;31.9
+2019;Hyderabad;Pakistan;Asia;78;68.1;31.9
+2019;Cochin;Pakistan;Asia;0;68.1;31.9
+2020;Delhi;Pakistan;Asia;370;72.11;27.89
+2020;Mumbai;Pakistan;Asia;683;72.11;27.89
+2020;Chennai;Pakistan;Asia;57;72.11;27.89
+2020;Calicut;Pakistan;Asia;14;72.11;27.89
+2020;Benguluru;Pakistan;Asia;14;72.11;27.89
+2020;Kolkata;Pakistan;Asia;0;72.11;27.89
+2020;Hyderabad;Pakistan;Asia;14;72.11;27.89
+2020;Cochin;Pakistan;Asia;14;72.11;27.89
+2014;Delhi;Sri Lanka;Asia;9048;59.9;40.1
+2014;Mumbai;Sri Lanka;Asia;79321;59.9;40.1
+2014;Chennai;Sri Lanka;Asia;2714;59.9;40.1
+2014;Calicut;Sri Lanka;Asia;141752;59.9;40.1
+2014;Benguluru;Sri Lanka;Asia;603;59.9;40.1
+2014;Kolkata;Sri Lanka;Asia;0;59.9;40.1
+2014;Hyderabad;Sri Lanka;Asia;68162;59.9;40.1
+2014;Cochin;Sri Lanka;Asia;0;59.9;40.1
+2015;Delhi;Sri Lanka;Asia;4493;58.3;41.7
+2015;Mumbai;Sri Lanka;Asia;83265;58.3;41.7
+2015;Chennai;Sri Lanka;Asia;1198;58.3;41.7
+2015;Calicut;Sri Lanka;Asia;153051;58.3;41.7
+2015;Benguluru;Sri Lanka;Asia;899;58.3;41.7
+2015;Kolkata;Sri Lanka;Asia;0;58.3;41.7
+2015;Hyderabad;Sri Lanka;Asia;56608;58.3;41.7
+2015;Cochin;Sri Lanka;Asia;0;58.3;41.7
+2016;Delhi;Sri Lanka;Asia;35988;56.4;43.6
+2016;Mumbai;Sri Lanka;Asia;30634;56.4;43.6
+2016;Chennai;Sri Lanka;Asia;151088;56.4;43.6
+2016;Calicut;Sri Lanka;Asia;297;56.4;43.6
+2016;Benguluru;Sri Lanka;Asia;14276;56.4;43.6
+2016;Kolkata;Sri Lanka;Asia;4759;56.4;43.6
+2016;Hyderabad;Sri Lanka;Asia;297;56.4;43.6
+2016;Cochin;Sri Lanka;Asia;5948;56.4;43.6
+2017;Delhi;Sri Lanka;Asia;35520;54.5;45.5
+2017;Mumbai;Sri Lanka;Asia;27323;54.5;45.5
+2017;Chennai;Sri Lanka;Asia;131151;54.5;45.5
+2017;Calicut;Sri Lanka;Asia;0;54.5;45.5
+2017;Benguluru;Sri Lanka;Asia;20644;54.5;45.5
+2017;Kolkata;Sri Lanka;Asia;3036;54.5;45.5
+2017;Hyderabad;Sri Lanka;Asia;1214;54.5;45.5
+2017;Cochin;Sri Lanka;Asia;25198;54.5;45.5
+2018;Delhi;Sri Lanka;Asia;41381;52.5;47.5
+2018;Mumbai;Sri Lanka;Asia;26526;52.5;47.5
+2018;Chennai;Sri Lanka;Asia;163048;52.5;47.5
+2018;Calicut;Sri Lanka;Asia;0;52.5;47.5
+2018;Benguluru;Sri Lanka;Asia;18745;52.5;47.5
+2018;Kolkata;Sri Lanka;Asia;1768;52.5;47.5
+2018;Hyderabad;Sri Lanka;Asia;2122;52.5;47.5
+2018;Cochin;Sri Lanka;Asia;4598;52.5;47.5
+2019;Delhi;Sri Lanka;Asia;45328;52.6;47.4
+2019;Mumbai;Sri Lanka;Asia;39372;52.6;47.4
+2019;Chennai;Sri Lanka;Asia;142601;52.6;47.4
+2019;Calicut;Sri Lanka;Asia;0;52.6;47.4
+2019;Benguluru;Sri Lanka;Asia;55585;52.6;47.4
+2019;Kolkata;Sri Lanka;Asia;3970;52.6;47.4
+2019;Hyderabad;Sri Lanka;Asia;11580;52.6;47.4
+2019;Cochin;Sri Lanka;Asia;4632;52.6;47.4
+2020;Delhi;Sri Lanka;Asia;12150;57;43
+2020;Mumbai;Sri Lanka;Asia;10228;57;43
+2020;Chennai;Sri Lanka;Asia;26017;57;43
+2020;Calicut;Sri Lanka;Asia;0;57;43
+2020;Benguluru;Sri Lanka;Asia;10915;57;43
+2020;Kolkata;Sri Lanka;Asia;824;57;43
+2020;Hyderabad;Sri Lanka;Asia;2471;57;43
+2020;Cochin;Sri Lanka;Asia;892;57;43
+2014;Delhi;Indonesia;Asia;8279;59;41
+2014;Mumbai;Indonesia;Asia;1675;59;41
+2014;Chennai;Indonesia;Asia;2770;59;41
+2014;Calicut;Indonesia;Asia;11050;59;41
+2014;Benguluru;Indonesia;Asia;2899;59;41
+2014;Kolkata;Indonesia;Asia;1289;59;41
+2014;Hyderabad;Indonesia;Asia;4252;59;41
+2014;Cochin;Indonesia;Asia;0;59;41
+2015;Delhi;Indonesia;Asia;9956;64.3;35.7
+2015;Mumbai;Indonesia;Asia;2201;64.3;35.7
+2015;Chennai;Indonesia;Asia;2620;64.3;35.7
+2015;Calicut;Indonesia;Asia;11703;64.3;35.7
+2015;Benguluru;Indonesia;Asia;3074;64.3;35.7
+2015;Kolkata;Indonesia;Asia;1502;64.3;35.7
+2015;Hyderabad;Indonesia;Asia;3878;64.3;35.7
+2015;Cochin;Indonesia;Asia;0;64.3;35.7
+2016;Delhi;Indonesia;Asia;12455;60.9;39.1
+2016;Mumbai;Indonesia;Asia;9367;60.9;39.1
+2016;Chennai;Indonesia;Asia;2772;60.9;39.1
+2016;Calicut;Indonesia;Asia;35;60.9;39.1
+2016;Benguluru;Indonesia;Asia;2877;60.9;39.1
+2016;Kolkata;Indonesia;Asia;1053;60.9;39.1
+2016;Hyderabad;Indonesia;Asia;1474;60.9;39.1
+2016;Cochin;Indonesia;Asia;1123;60.9;39.1
+2017;Delhi;Indonesia;Asia;17457;57.7;42.3
+2017;Mumbai;Indonesia;Asia;11301;57.7;42.3
+2017;Chennai;Indonesia;Asia;2990;57.7;42.3
+2017;Calicut;Indonesia;Asia;44;57.7;42.3
+2017;Benguluru;Indonesia;Asia;3650;57.7;42.3
+2017;Kolkata;Indonesia;Asia;1671;57.7;42.3
+2017;Hyderabad;Indonesia;Asia;1495;57.7;42.3
+2017;Cochin;Indonesia;Asia;132;57.7;42.3
+2018;Delhi;Indonesia;Asia;18466;53;47
+2018;Mumbai;Indonesia;Asia;10311;53;47
+2018;Chennai;Indonesia;Asia;3187;53;47
+2018;Calicut;Indonesia;Asia;0;53;47
+2018;Benguluru;Indonesia;Asia;4405;53;47
+2018;Kolkata;Indonesia;Asia;1734;53;47
+2018;Hyderabad;Indonesia;Asia;1359;53;47
+2018;Cochin;Indonesia;Asia;937;53;47
+2019;Delhi;Indonesia;Asia;10286;54;46
+2019;Mumbai;Indonesia;Asia;8932;54;46
+2019;Chennai;Indonesia;Asia;7175;54;46
+2019;Calicut;Indonesia;Asia;0;54;46
+2019;Benguluru;Indonesia;Asia;7276;54;46
+2019;Kolkata;Indonesia;Asia;6021;54;46
+2019;Hyderabad;Indonesia;Asia;2509;54;46
+2019;Cochin;Indonesia;Asia;3211;54;46
+2020;Delhi;Indonesia;Asia;3326;57.28;42.72
+2020;Mumbai;Indonesia;Asia;2335;57.28;42.72
+2020;Chennai;Indonesia;Asia;1097;57.28;42.72
+2020;Calicut;Indonesia;Asia;12;57.28;42.72
+2020;Benguluru;Indonesia;Asia;1215;57.28;42.72
+2020;Kolkata;Indonesia;Asia;955;57.28;42.72
+2020;Hyderabad;Indonesia;Asia;790;57.28;42.72
+2020;Cochin;Indonesia;Asia;531;57.28;42.72
+2014;Delhi;Malaysia;Asia;26465;53.2;46.8
+2014;Mumbai;Malaysia;Asia;5241;53.2;46.8
+2014;Chennai;Malaysia;Asia;66293;53.2;46.8
+2014;Calicut;Malaysia;Asia;39566;53.2;46.8
+2014;Benguluru;Malaysia;Asia;17032;53.2;46.8
+2014;Kolkata;Malaysia;Asia;6027;53.2;46.8
+2014;Hyderabad;Malaysia;Asia;101404;53.2;46.8
+2014;Cochin;Malaysia;Asia;0;53.2;46.8
+2015;Delhi;Malaysia;Asia;28386;53.8;46.2
+2015;Mumbai;Malaysia;Asia;5186;53.8;46.2
+2015;Chennai;Malaysia;Asia;61139;53.8;46.2
+2015;Calicut;Malaysia;Asia;39304;53.8;46.2
+2015;Benguluru;Malaysia;Asia;16922;53.8;46.2
+2015;Kolkata;Malaysia;Asia;8188;53.8;46.2
+2015;Hyderabad;Malaysia;Asia;113816;53.8;46.2
+2015;Cochin;Malaysia;Asia;0;53.8;46.2
+2016;Delhi;Malaysia;Asia;43784;52.6;47.4
+2016;Mumbai;Malaysia;Asia;28384;52.6;47.4
+2016;Chennai;Malaysia;Asia;64318;52.6;47.4
+2016;Calicut;Malaysia;Asia;0;52.6;47.4
+2016;Benguluru;Malaysia;Asia;17816;52.6;47.4
+2016;Kolkata;Malaysia;Asia;5133;52.6;47.4
+2016;Hyderabad;Malaysia;Asia;8455;52.6;47.4
+2016;Cochin;Malaysia;Asia;27780;52.6;47.4
+2017;Delhi;Malaysia;Asia;48963;52.1;47.9
+2017;Mumbai;Malaysia;Asia;27381;52.1;47.9
+2017;Chennai;Malaysia;Asia;69257;52.1;47.9
+2017;Calicut;Malaysia;Asia;0;52.1;47.9
+2017;Benguluru;Malaysia;Asia;19005;52.1;47.9
+2017;Kolkata;Malaysia;Asia;5476;52.1;47.9
+2017;Hyderabad;Malaysia;Asia;7409;52.1;47.9
+2017;Cochin;Malaysia;Asia;28669;52.1;47.9
+2018;Delhi;Malaysia;Asia;54898;50.5;49.5
+2018;Mumbai;Malaysia;Asia;26810;50.5;49.5
+2018;Chennai;Malaysia;Asia;79155;50.5;49.5
+2018;Calicut;Malaysia;Asia;0;50.5;49.5
+2018;Benguluru;Malaysia;Asia;18193;50.5;49.5
+2018;Kolkata;Malaysia;Asia;5107;50.5;49.5
+2018;Hyderabad;Malaysia;Asia;7341;50.5;49.5
+2018;Cochin;Malaysia;Asia;19150;50.5;49.5
+2019;Delhi;Malaysia;Asia;82976;51.2;48.8
+2019;Mumbai;Malaysia;Asia;74611;51.2;48.8
+2019;Chennai;Malaysia;Asia;31785;51.2;48.8
+2019;Calicut;Malaysia;Asia;0;51.2;48.8
+2019;Benguluru;Malaysia;Asia;39146;51.2;48.8
+2019;Kolkata;Malaysia;Asia;26432;51.2;48.8
+2019;Hyderabad;Malaysia;Asia;22751;51.2;48.8
+2019;Cochin;Malaysia;Asia;17398;51.2;48.8
+2020;Delhi;Malaysia;Asia;8737;53.95;46.05
+2020;Mumbai;Malaysia;Asia;4194;53.95;46.05
+2020;Chennai;Malaysia;Asia;15727;53.95;46.05
+2020;Calicut;Malaysia;Asia;0;53.95;46.05
+2020;Benguluru;Malaysia;Asia;6710;53.95;46.05
+2020;Kolkata;Malaysia;Asia;4543;53.95;46.05
+2020;Hyderabad;Malaysia;Asia;3006;53.95;46.05
+2020;Cochin;Malaysia;Asia;5801;53.95;46.05
+2014;Delhi;Myanmar;Asia;1311;45.3;54.7
+2014;Mumbai;Myanmar;Asia;4043;45.3;54.7
+2014;Chennai;Myanmar;Asia;2513;45.3;54.7
+2014;Calicut;Myanmar;Asia;2841;45.3;54.7
+2014;Benguluru;Myanmar;Asia;273;45.3;54.7
+2014;Kolkata;Myanmar;Asia;219;45.3;54.7
+2014;Hyderabad;Myanmar;Asia;43432;45.3;54.7
+2014;Cochin;Myanmar;Asia;0;45.3;54.7
+2015;Delhi;Myanmar;Asia;1550;44.7;55.3
+2015;Mumbai;Myanmar;Asia;2767;44.7;55.3
+2015;Chennai;Myanmar;Asia;2822;44.7;55.3
+2015;Calicut;Myanmar;Asia;3044;44.7;55.3
+2015;Benguluru;Myanmar;Asia;332;44.7;55.3
+2015;Kolkata;Myanmar;Asia;277;44.7;55.3
+2015;Hyderabad;Myanmar;Asia;44550;44.7;55.3
+2015;Cochin;Myanmar;Asia;0;44.7;55.3
+2016;Delhi;Myanmar;Asia;3802;46.5;53.5
+2016;Mumbai;Myanmar;Asia;1747;46.5;53.5
+2016;Chennai;Myanmar;Asia;2877;46.5;53.5
+2016;Calicut;Myanmar;Asia;0;46.5;53.5
+2016;Benguluru;Myanmar;Asia;411;46.5;53.5
+2016;Kolkata;Myanmar;Asia;3031;46.5;53.5
+2016;Hyderabad;Myanmar;Asia;360;46.5;53.5
+2016;Cochin;Myanmar;Asia;154;46.5;53.5
+2017;Delhi;Myanmar;Asia;3816;44.9;55.1
+2017;Mumbai;Myanmar;Asia;1595;44.9;55.1
+2017;Chennai;Myanmar;Asia;3360;44.9;55.1
+2017;Calicut;Myanmar;Asia;0;44.9;55.1
+2017;Benguluru;Myanmar;Asia;342;44.9;55.1
+2017;Kolkata;Myanmar;Asia;3531;44.9;55.1
+2017;Hyderabad;Myanmar;Asia;513;44.9;55.1
+2017;Cochin;Myanmar;Asia;1879;44.9;55.1
+2018;Delhi;Myanmar;Asia;4925;42.5;57.5
+2018;Mumbai;Myanmar;Asia;1894;42.5;57.5
+2018;Chennai;Myanmar;Asia;3713;42.5;57.5
+2018;Calicut;Myanmar;Asia;0;42.5;57.5
+2018;Benguluru;Myanmar;Asia;379;42.5;57.5
+2018;Kolkata;Myanmar;Asia;5153;42.5;57.5
+2018;Hyderabad;Myanmar;Asia;455;42.5;57.5
+2018;Cochin;Myanmar;Asia;227;42.5;57.5
+2019;Delhi;Myanmar;Asia;11463;42.3;57.7
+2019;Mumbai;Myanmar;Asia;6253;42.3;57.7
+2019;Chennai;Myanmar;Asia;15197;42.3;57.7
+2019;Calicut;Myanmar;Asia;0;42.3;57.7
+2019;Benguluru;Myanmar;Asia;9118;42.3;57.7
+2019;Kolkata;Myanmar;Asia;5211;42.3;57.7
+2019;Hyderabad;Myanmar;Asia;4255;42.3;57.7
+2019;Cochin;Myanmar;Asia;9553;42.3;57.7
+2020;Delhi;Myanmar;Asia;3211;40.14;59.86
+2020;Mumbai;Myanmar;Asia;776;40.14;59.86
+2020;Chennai;Myanmar;Asia;847;40.14;59.86
+2020;Calicut;Myanmar;Asia;0;40.14;59.86
+2020;Benguluru;Myanmar;Asia;459;40.14;59.86
+2020;Kolkata;Myanmar;Asia;25198;40.14;59.86
+2020;Hyderabad;Myanmar;Asia;388;40.14;59.86
+2020;Cochin;Myanmar;Asia;247;40.14;59.86
+2014;Delhi;Philippines;Asia;9513;53.2;46.8
+2014;Mumbai;Philippines;Asia;1384;53.2;46.8
+2014;Chennai;Philippines;Asia;4627;53.2;46.8
+2014;Calicut;Philippines;Asia;8345;53.2;46.8
+2014;Benguluru;Philippines;Asia;2940;53.2;46.8
+2014;Kolkata;Philippines;Asia;2162;53.2;46.8
+2014;Hyderabad;Philippines;Asia;14269;53.2;46.8
+2014;Cochin;Philippines;Asia;0;53.2;46.8
+2015;Delhi;Philippines;Asia;10541;56;44
+2015;Mumbai;Philippines;Asia;1581;56;44
+2015;Chennai;Philippines;Asia;4360;56;44
+2015;Calicut;Philippines;Asia;7666;56;44
+2015;Benguluru;Philippines;Asia;3354;56;44
+2015;Kolkata;Philippines;Asia;2683;56;44
+2015;Hyderabad;Philippines;Asia;17727;56;44
+2015;Cochin;Philippines;Asia;0;56;44
+2016;Delhi;Philippines;Asia;9168;53.5;46.5
+2016;Mumbai;Philippines;Asia;10644;53.5;46.5
+2016;Chennai;Philippines;Asia;4215;53.5;46.5
+2016;Calicut;Philippines;Asia;0;53.5;46.5
+2016;Benguluru;Philippines;Asia;3267;53.5;46.5
+2016;Kolkata;Philippines;Asia;1633;53.5;46.5
+2016;Hyderabad;Philippines;Asia;3056;53.5;46.5
+2016;Cochin;Philippines;Asia;4479;53.5;46.5
+2017;Delhi;Philippines;Asia;9444;51;49
+2017;Mumbai;Philippines;Asia;9983;51;49
+2017;Chennai;Philippines;Asia;4317;51;49
+2017;Calicut;Philippines;Asia;0;51;49
+2017;Benguluru;Philippines;Asia;3831;51;49
+2017;Kolkata;Philippines;Asia;1835;51;49
+2017;Hyderabad;Philippines;Asia;3022;51;49
+2017;Cochin;Philippines;Asia;540;51;49
+2018;Delhi;Philippines;Asia;11069;45.2;54.8
+2018;Mumbai;Philippines;Asia;10588;45.2;54.8
+2018;Chennai;Philippines;Asia;4866;45.2;54.8
+2018;Calicut;Philippines;Asia;0;45.2;54.8
+2018;Benguluru;Philippines;Asia;4920;45.2;54.8
+2018;Kolkata;Philippines;Asia;4652;45.2;54.8
+2018;Hyderabad;Philippines;Asia;3208;45.2;54.8
+2018;Cochin;Philippines;Asia;4759;45.2;54.8
+2019;Delhi;Philippines;Asia;8121;45;55
+2019;Mumbai;Philippines;Asia;5301;45;55
+2019;Chennai;Philippines;Asia;5188;45;55
+2019;Calicut;Philippines;Asia;0;45;55
+2019;Benguluru;Philippines;Asia;2820;45;55
+2019;Kolkata;Philippines;Asia;27915;45;55
+2019;Hyderabad;Philippines;Asia;1015;45;55
+2019;Cochin;Philippines;Asia;902;45;55
+2020;Delhi;Philippines;Asia;5121;59.72;40.28
+2020;Mumbai;Philippines;Asia;2504;59.72;40.28
+2020;Chennai;Philippines;Asia;2119;59.72;40.28
+2020;Calicut;Philippines;Asia;0;59.72;40.28
+2020;Benguluru;Philippines;Asia;1059;59.72;40.28
+2020;Kolkata;Philippines;Asia;642;59.72;40.28
+2020;Hyderabad;Philippines;Asia;1204;59.72;40.28
+2020;Cochin;Philippines;Asia;401;59.72;40.28
+2014;Delhi;Singapore;Asia;30749;59.4;40.6
+2014;Mumbai;Singapore;Asia;3316;59.4;40.6
+2014;Chennai;Singapore;Asia;42205;59.4;40.6
+2014;Calicut;Singapore;Asia;33010;59.4;40.6
+2014;Benguluru;Singapore;Asia;11003;59.4;40.6
+2014;Kolkata;Singapore;Asia;3316;59.4;40.6
+2014;Hyderabad;Singapore;Asia;27132;59.4;40.6
+2014;Cochin;Singapore;Asia;0;59.4;40.6
+2015;Delhi;Singapore;Asia;31818;59.1;40.9
+2015;Mumbai;Singapore;Asia;3958;59.1;40.9
+2015;Chennai;Singapore;Asia;38364;59.1;40.9
+2015;Calicut;Singapore;Asia;31513;59.1;40.9
+2015;Benguluru;Singapore;Asia;11875;59.1;40.9
+2015;Kolkata;Singapore;Asia;3806;59.1;40.9
+2015;Hyderabad;Singapore;Asia;30904;59.1;40.9
+2015;Cochin;Singapore;Asia;0;59.1;40.9
+2016;Delhi;Singapore;Asia;31592;58;42
+2016;Mumbai;Singapore;Asia;33556;58;42
+2016;Chennai;Singapore;Asia;39776;58;42
+2016;Calicut;Singapore;Asia;0;58;42
+2016;Benguluru;Singapore;Asia;12440;58;42
+2016;Kolkata;Singapore;Asia;3929;58;42
+2016;Hyderabad;Singapore;Asia;3929;58;42
+2016;Cochin;Singapore;Asia;5402;58;42
+2017;Delhi;Singapore;Asia;32357;57.2;42.8
+2017;Mumbai;Singapore;Asia;35170;57.2;42.8
+2017;Chennai;Singapore;Asia;43435;57.2;42.8
+2017;Calicut;Singapore;Asia;0;57.2;42.8
+2017;Benguluru;Singapore;Asia;13716;57.2;42.8
+2017;Kolkata;Singapore;Asia;3693;57.2;42.8
+2017;Hyderabad;Singapore;Asia;4396;57.2;42.8
+2017;Cochin;Singapore;Asia;43084;57.2;42.8
+2018;Delhi;Singapore;Asia;36165;57.3;42.7
+2018;Mumbai;Singapore;Asia;35431;57.3;42.7
+2018;Chennai;Singapore;Asia;43325;57.3;42.7
+2018;Calicut;Singapore;Asia;0;57.3;42.7
+2018;Benguluru;Singapore;Asia;16522;57.3;42.7
+2018;Kolkata;Singapore;Asia;4222;57.3;42.7
+2018;Hyderabad;Singapore;Asia;4406;57.3;42.7
+2018;Cochin;Singapore;Asia;4773;57.3;42.7
+2019;Delhi;Singapore;Asia;52845;57;43
+2019;Mumbai;Singapore;Asia;32315;57;43
+2019;Chennai;Singapore;Asia;23381;57;43
+2019;Calicut;Singapore;Asia;0;57;43
+2019;Benguluru;Singapore;Asia;16918;57;43
+2019;Kolkata;Singapore;Asia;8364;57;43
+2019;Hyderabad;Singapore;Asia;13686;57;43
+2019;Cochin;Singapore;Asia;6083;57;43
+2020;Delhi;Singapore;Asia;4893;58.66;41.34
+2020;Mumbai;Singapore;Asia;4488;58.66;41.34
+2020;Chennai;Singapore;Asia;7087;58.66;41.34
+2020;Calicut;Singapore;Asia;0;58.66;41.34
+2020;Benguluru;Singapore;Asia;3105;58.66;41.34
+2020;Kolkata;Singapore;Asia;1822;58.66;41.34
+2020;Hyderabad;Singapore;Asia;1249;58.66;41.34
+2020;Cochin;Singapore;Asia;877;58.66;41.34
+2014;Delhi;Thailand;Asia;12258;44.1;55.9
+2014;Mumbai;Thailand;Asia;25243;44.1;55.9
+2014;Chennai;Thailand;Asia;4369;44.1;55.9
+2014;Calicut;Thailand;Asia;33739;44.1;55.9
+2014;Benguluru;Thailand;Asia;5583;44.1;55.9
+2014;Kolkata;Thailand;Asia;971;44.1;55.9
+2014;Hyderabad;Thailand;Asia;39200;44.1;55.9
+2014;Cochin;Thailand;Asia;0;44.1;55.9
+2015;Delhi;Thailand;Asia;13903;46.4;53.6
+2015;Mumbai;Thailand;Asia;25026;46.4;53.6
+2015;Chennai;Thailand;Asia;4403;46.4;53.6
+2015;Calicut;Thailand;Asia;27691;46.4;53.6
+2015;Benguluru;Thailand;Asia;6025;46.4;53.6
+2015;Kolkata;Thailand;Asia;1274;46.4;53.6
+2015;Hyderabad;Thailand;Asia;37539;46.4;53.6
+2015;Cochin;Thailand;Asia;0;46.4;53.6
+2016;Delhi;Thailand;Asia;33865;43.4;56.6
+2016;Mumbai;Thailand;Asia;15556;43.4;56.6
+2016;Chennai;Thailand;Asia;5385;43.4;56.6
+2016;Calicut;Thailand;Asia;0;43.4;56.6
+2016;Benguluru;Thailand;Asia;6342;43.4;56.6
+2016;Kolkata;Thailand;Asia;28719;43.4;56.6
+2016;Hyderabad;Thailand;Asia;1556;43.4;56.6
+2016;Cochin;Thailand;Asia;838;43.4;56.6
+2017;Delhi;Thailand;Asia;37403;56.9;43
+2017;Mumbai;Thailand;Asia;15269;56.9;43
+2017;Chennai;Thailand;Asia;5183;56.9;43
+2017;Calicut;Thailand;Asia;0;56.9;43
+2017;Benguluru;Thailand;Asia;6584;56.9;43
+2017;Kolkata;Thailand;Asia;28438;56.9;43
+2017;Hyderabad;Thailand;Asia;1681;56.9;43
+2017;Cochin;Thailand;Asia;981;56.9;43
+2018;Delhi;Thailand;Asia;41740;40.2;59.8
+2018;Mumbai;Thailand;Asia;15964;40.2;59.8
+2018;Chennai;Thailand;Asia;5321;40.2;59.8
+2018;Calicut;Thailand;Asia;0;40.2;59.8
+2018;Benguluru;Thailand;Asia;6652;40.2;59.8
+2018;Kolkata;Thailand;Asia;25277;40.2;59.8
+2018;Hyderabad;Thailand;Asia;1996;40.2;59.8
+2018;Cochin;Thailand;Asia;1330;40.2;59.8
+2019;Delhi;Thailand;Asia;25153;40.4;59.6
+2019;Mumbai;Thailand;Asia;24984;40.4;59.6
+2019;Chennai;Thailand;Asia;34331;40.4;59.6
+2019;Calicut;Thailand;Asia;0;40.4;59.6
+2019;Benguluru;Thailand;Asia;18185;40.4;59.6
+2019;Kolkata;Thailand;Asia;9687;40.4;59.6
+2019;Hyderabad;Thailand;Asia;7648;40.4;59.6
+2019;Cochin;Thailand;Asia;5779;40.4;59.6
+2020;Delhi;Thailand;Asia;15051;41.92;58.08
+2020;Mumbai;Thailand;Asia;11104;41.92;58.08
+2020;Chennai;Thailand;Asia;4421;41.92;58.08
+2020;Calicut;Thailand;Asia;0;41.92;58.08
+2020;Benguluru;Thailand;Asia;5789;41.92;58.08
+2020;Kolkata;Thailand;Asia;8473;41.92;58.08
+2020;Hyderabad;Thailand;Asia;1421;41.92;58.08
+2020;Cochin;Thailand;Asia;947;41.92;58.08
+2014;Delhi;Vietnam;Asia;1710;48.4;51.6
+2014;Mumbai;Vietnam;Asia;2013;48.4;51.6
+2014;Chennai;Vietnam;Asia;620;48.4;51.6
+2014;Calicut;Vietnam;Asia;3662;48.4;51.6
+2014;Benguluru;Vietnam;Asia;908;48.4;51.6
+2014;Kolkata;Vietnam;Asia;333;48.4;51.6
+2014;Hyderabad;Vietnam;Asia;5886;48.4;51.6
+2014;Cochin;Vietnam;Asia;0;48.4;51.6
+2015;Delhi;Vietnam;Asia;2102;51.3;48.7
+2015;Mumbai;Vietnam;Asia;1197;51.3;48.7
+2015;Chennai;Vietnam;Asia;675;51.3;48.7
+2015;Calicut;Vietnam;Asia;4894;51.3;48.7
+2015;Benguluru;Vietnam;Asia;1089;51.3;48.7
+2015;Kolkata;Vietnam;Asia;353;51.3;48.7
+2015;Hyderabad;Vietnam;Asia;5032;51.3;48.7
+2015;Cochin;Vietnam;Asia;0;51.3;48.7
+2016;Delhi;Vietnam;Asia;6842;51.5;48.5
+2016;Mumbai;Vietnam;Asia;2041;51.5;48.5
+2016;Chennai;Vietnam;Asia;652;51.5;48.5
+2016;Calicut;Vietnam;Asia;0;51.5;48.5
+2016;Benguluru;Vietnam;Asia;1121;51.5;48.5
+2016;Kolkata;Vietnam;Asia;1154;51.5;48.5
+2016;Hyderabad;Vietnam;Asia;401;51.5;48.5
+2016;Cochin;Vietnam;Asia;201;51.5;48.5
+2017;Delhi;Vietnam;Asia;8225;45.8;54.2
+2017;Mumbai;Vietnam;Asia;11315;45.8;54.2
+2017;Chennai;Vietnam;Asia;713;45.8;54.2
+2017;Calicut;Vietnam;Asia;0;45.8;54.2
+2017;Benguluru;Vietnam;Asia;1355;45.8;54.2
+2017;Kolkata;Vietnam;Asia;1450;45.8;54.2
+2017;Hyderabad;Vietnam;Asia;499;45.8;54.2
+2017;Cochin;Vietnam;Asia;214;45.8;54.2
+2018;Delhi;Vietnam;Asia;9837;42.4;57.6
+2018;Mumbai;Vietnam;Asia;2766;42.4;57.6
+2018;Chennai;Vietnam;Asia;1037;42.4;57.6
+2018;Calicut;Vietnam;Asia;0;42.4;57.6
+2018;Benguluru;Vietnam;Asia;1666;42.4;57.6
+2018;Kolkata;Vietnam;Asia;2357;42.4;57.6
+2018;Hyderabad;Vietnam;Asia;534;42.4;57.6
+2018;Cochin;Vietnam;Asia;314;42.4;57.6
+2019;Delhi;Vietnam;Asia;9149;41.8;58.2
+2019;Mumbai;Vietnam;Asia;6492;41.8;58.2
+2019;Chennai;Vietnam;Asia;2624;41.8;58.2
+2019;Calicut;Vietnam;Asia;0;41.8;58.2
+2019;Benguluru;Vietnam;Asia;4272;41.8;58.2
+2019;Kolkata;Vietnam;Asia;5550;41.8;58.2
+2019;Hyderabad;Vietnam;Asia;1110;41.8;58.2
+2019;Cochin;Vietnam;Asia;807;41.8;58.2
+2020;Delhi;Vietnam;Asia;2693;44.87;55.13
+2020;Mumbai;Vietnam;Asia;750;44.87;55.13
+2020;Chennai;Vietnam;Asia;441;44.87;55.13
+2020;Calicut;Vietnam;Asia;0;44.87;55.13
+2020;Benguluru;Vietnam;Asia;494;44.87;55.13
+2020;Kolkata;Vietnam;Asia;3708;44.87;55.13
+2020;Hyderabad;Vietnam;Asia;177;44.87;55.13
+2020;Cochin;Vietnam;Asia;159;44.87;55.13
+2014;Delhi;China;Asia;32222;63.4;36.6
+2014;Mumbai;China;Asia;12128;63.4;36.6
+2014;Chennai;China;Asia;13939;63.4;36.6
+2014;Calicut;China;Asia;93225;63.4;36.6
+2014;Benguluru;China;Asia;15206;63.4;36.6
+2014;Kolkata;China;Asia;4888;63.4;36.6
+2014;Hyderabad;China;Asia;9413;63.4;36.6
+2014;Cochin;China;Asia;0;63.4;36.6
+2015;Delhi;China;Asia;38789;63.8;36.2
+2015;Mumbai;China;Asia;13205;63.8;36.2
+2015;Chennai;China;Asia;15887;63.8;36.2
+2015;Calicut;China;Asia;107494;63.8;36.2
+2015;Benguluru;China;Asia;16093;63.8;36.2
+2015;Kolkata;China;Asia;4952;63.8;36.2
+2015;Hyderabad;China;Asia;9903;63.8;36.2
+2015;Cochin;China;Asia;0;63.8;36.2
+2016;Delhi;China;Asia;137971;62.9;37.1
+2016;Mumbai;China;Asia;46242;62.9;37.1
+2016;Chennai;China;Asia;16587;62.9;37.1
+2016;Calicut;China;Asia;0;62.9;37.1
+2016;Benguluru;China;Asia;18346;62.9;37.1
+2016;Kolkata;China;Asia;16335;62.9;37.1
+2016;Hyderabad;China;Asia;6032;62.9;37.1
+2016;Cochin;China;Asia;1257;62.9;37.1
+2017;Delhi;China;Asia;131282;63.7;36.3
+2017;Mumbai;China;Asia;46727;63.7;36.3
+2017;Chennai;China;Asia;16812;63.7;36.3
+2017;Calicut;China;Asia;0;63.7;36.3
+2017;Benguluru;China;Asia;19284;63.7;36.3
+2017;Kolkata;China;Asia;15576;63.7;36.3
+2017;Hyderabad;China;Asia;6675;63.7;36.3
+2017;Cochin;China;Asia;2225;63.7;36.3
+2018;Delhi;China;Asia;151591;63.1;36.9
+2018;Mumbai;China;Asia;52691;63.1;36.9
+2018;Chennai;China;Asia;19442;63.1;36.9
+2018;Calicut;China;Asia;0;63.1;36.9
+2018;Benguluru;China;Asia;22823;63.1;36.9
+2018;Kolkata;China;Asia;15779;63.1;36.9
+2018;Hyderabad;China;Asia;7326;63.1;36.9
+2018;Cochin;China;Asia;1691;63.1;36.9
+2019;Delhi;China;Asia;66870;63.3;36.7
+2019;Mumbai;China;Asia;65512;63.3;36.7
+2019;Chennai;China;Asia;30550;63.3;36.7
+2019;Calicut;China;Asia;0;63.3;36.7
+2019;Benguluru;China;Asia;45825;63.3;36.7
+2019;Kolkata;China;Asia;78072;63.3;36.7
+2019;Hyderabad;China;Asia;16293;63.3;36.7
+2019;Cochin;China;Asia;14257;63.3;36.7
+2020;Delhi;China;Asia;17259;55.4;44.6
+2020;Mumbai;China;Asia;7798;55.4;44.6
+2020;Chennai;China;Asia;2613;55.4;44.6
+2020;Calicut;China;Asia;0;55.4;44.6
+2020;Benguluru;China;Asia;2811;55.4;44.6
+2020;Kolkata;China;Asia;5621;55.4;44.6
+2020;Hyderabad;China;Asia;1386;55.4;44.6
+2020;Cochin;China;Asia;673;55.4;44.6
+2014;Delhi;Japan;Asia;26781;50.3;49.7
+2014;Mumbai;Japan;Asia;7025;50.3;49.7
+2014;Chennai;Japan;Asia;18878;50.3;49.7
+2014;Calicut;Japan;Asia;114368;50.3;49.7
+2014;Benguluru;Japan;Asia;20195;50.3;49.7
+2014;Kolkata;Japan;Asia;3951;50.3;49.7
+2014;Hyderabad;Japan;Asia;28318;50.3;49.7
+2014;Cochin;Japan;Asia;0;50.3;49.7
+2015;Delhi;Japan;Asia;30905;54.2;45.8
+2015;Mumbai;Japan;Asia;7467;54.2;45.8
+2015;Chennai;Japan;Asia;17838;54.2;45.8
+2015;Calicut;Japan;Asia;109723;54.2;45.8
+2015;Benguluru;Japan;Asia;20742;54.2;45.8
+2015;Kolkata;Japan;Asia;3733;54.2;45.8
+2015;Hyderabad;Japan;Asia;17008;54.2;45.8
+2015;Cochin;Japan;Asia;0;54.2;45.8
+2016;Delhi;Japan;Asia;119878;73.6;26.4
+2016;Mumbai;Japan;Asia;33416;73.6;26.4
+2016;Chennai;Japan;Asia;19632;73.6;26.4
+2016;Calicut;Japan;Asia;0;73.6;26.4
+2016;Benguluru;Japan;Asia;20049;73.6;26.4
+2016;Kolkata;Japan;Asia;5430;73.6;26.4
+2016;Hyderabad;Japan;Asia;2715;73.6;26.4
+2016;Cochin;Japan;Asia;1462;73.6;26.4
+2017;Delhi;Japan;Asia;129288;73.1;26.9
+2017;Mumbai;Japan;Asia;38497;73.1;26.9
+2017;Chennai;Japan;Asia;18692;73.1;26.9
+2017;Calicut;Japan;Asia;0;73.1;26.9
+2017;Benguluru;Japan;Asia;19360;73.1;26.9
+2017;Kolkata;Japan;Asia;5341;73.1;26.9
+2017;Hyderabad;Japan;Asia;2670;73.1;26.9
+2017;Cochin;Japan;Asia;2003;73.1;26.9
+2018;Delhi;Japan;Asia;136544;73.2;26.8
+2018;Mumbai;Japan;Asia;41578;73.2;26.8
+2018;Chennai;Japan;Asia;19371;73.2;26.8
+2018;Calicut;Japan;Asia;0;73.2;26.8
+2018;Benguluru;Japan;Asia;19608;73.2;26.8
+2018;Kolkata;Japan;Asia;5670;73.2;26.8
+2018;Hyderabad;Japan;Asia;3544;73.2;26.8
+2018;Cochin;Japan;Asia;1890;73.2;26.8
+2019;Delhi;Japan;Asia;90066;72.4;27.6
+2019;Mumbai;Japan;Asia;54709;72.4;27.6
+2019;Chennai;Japan;Asia;18396;72.4;27.6
+2019;Calicut;Japan;Asia;0;72.4;27.6
+2019;Benguluru;Japan;Asia;18634;72.4;27.6
+2019;Kolkata;Japan;Asia;27713;72.4;27.6
+2019;Hyderabad;Japan;Asia;9317;72.4;27.6
+2019;Cochin;Japan;Asia;8362;72.4;27.6
+2020;Delhi;Japan;Asia;23373;68.3;31.7
+2020;Mumbai;Japan;Asia;12867;68.3;31.7
+2020;Chennai;Japan;Asia;4241;68.3;31.7
+2020;Calicut;Japan;Asia;0;68.3;31.7
+2020;Benguluru;Japan;Asia;3277;68.3;31.7
+2020;Kolkata;Japan;Asia;1398;68.3;31.7
+2020;Hyderabad;Japan;Asia;916;68.3;31.7
+2020;Cochin;Japan;Asia;723;68.3;31.7
+2014;Delhi;Rep. of Korea;Asia;13786;71.2;28.8
+2014;Mumbai;Rep. of Korea;Asia;3206;71.2;28.8
+2014;Chennai;Rep. of Korea;Asia;9618;71.2;28.8
+2014;Calicut;Rep. of Korea;Asia;66046;71.2;28.8
+2014;Benguluru;Rep. of Korea;Asia;9191;71.2;28.8
+2014;Kolkata;Rep. of Korea;Asia;1282;71.2;28.8
+2014;Hyderabad;Rep. of Korea;Asia;3740;71.2;28.8
+2014;Cochin;Rep. of Korea;Asia;0;71.2;28.8
+2015;Delhi;Rep. of Korea;Asia;13698;74;26
+2015;Mumbai;Rep. of Korea;Asia;2781;74;26
+2015;Chennai;Rep. of Korea;Asia;9887;74;26
+2015;Calicut;Rep. of Korea;Asia;60457;74;26
+2015;Benguluru;Rep. of Korea;Asia;9990;74;26
+2015;Kolkata;Rep. of Korea;Asia;1648;74;26
+2015;Hyderabad;Rep. of Korea;Asia;4532;74;26
+2015;Cochin;Rep. of Korea;Asia;0;74;26
+2016;Delhi;Rep. of Korea;Asia;53094;64.3;35.7
+2016;Mumbai;Rep. of Korea;Asia;21993;64.3;35.7
+2016;Chennai;Rep. of Korea;Asia;17772;64.3;35.7
+2016;Calicut;Rep. of Korea;Asia;0;64.3;35.7
+2016;Benguluru;Rep. of Korea;Asia;6665;64.3;35.7
+2016;Kolkata;Rep. of Korea;Asia;4110;64.3;35.7
+2016;Hyderabad;Rep. of Korea;Asia;1888;64.3;35.7
+2016;Cochin;Rep. of Korea;Asia;5554;64.3;35.7
+2017;Delhi;Rep. of Korea;Asia;83579;60.7;39.3
+2017;Mumbai;Rep. of Korea;Asia;20503;60.7;39.3
+2017;Chennai;Rep. of Korea;Asia;18937;60.7;39.3
+2017;Calicut;Rep. of Korea;Asia;0;60.7;39.3
+2017;Benguluru;Rep. of Korea;Asia;6834;60.7;39.3
+2017;Kolkata;Rep. of Korea;Asia;3560;60.7;39.3
+2017;Hyderabad;Rep. of Korea;Asia;1993;60.7;39.3
+2017;Cochin;Rep. of Korea;Asia;11391;60.7;39.3
+2018;Delhi;Rep. of Korea;Asia;82494;62.7;37.3
+2018;Mumbai;Rep. of Korea;Asia;20623;62.7;37.3
+2018;Chennai;Rep. of Korea;Asia;20925;62.7;37.3
+2018;Calicut;Rep. of Korea;Asia;0;62.7;37.3
+2018;Benguluru;Rep. of Korea;Asia;11591;62.7;37.3
+2018;Kolkata;Rep. of Korea;Asia;2860;62.7;37.3
+2018;Hyderabad;Rep. of Korea;Asia;2559;62.7;37.3
+2018;Cochin;Rep. of Korea;Asia;1054;62.7;37.3
+2019;Delhi;Rep. of Korea;Asia;58881;64.6;35.4
+2019;Mumbai;Rep. of Korea;Asia;41097;64.6;35.4
+2019;Chennai;Rep. of Korea;Asia;14646;64.6;35.4
+2019;Calicut;Rep. of Korea;Asia;0;64.6;35.4
+2019;Benguluru;Rep. of Korea;Asia;17485;64.6;35.4
+2019;Kolkata;Rep. of Korea;Asia;5679;64.6;35.4
+2019;Hyderabad;Rep. of Korea;Asia;4633;64.6;35.4
+2019;Cochin;Rep. of Korea;Asia;2391;64.6;35.4
+2020;Delhi;Rep. of Korea;Asia;17249;61.48;38.52
+2020;Mumbai;Rep. of Korea;Asia;7042;61.48;38.52
+2020;Chennai;Rep. of Korea;Asia;1938;61.48;38.52
+2020;Calicut;Rep. of Korea;Asia;32;61.48;38.52
+2020;Benguluru;Rep. of Korea;Asia;2423;61.48;38.52
+2020;Kolkata;Rep. of Korea;Asia;1131;61.48;38.52
+2020;Hyderabad;Rep. of Korea;Asia;646;61.48;38.52
+2020;Cochin;Rep. of Korea;Asia;452;61.48;38.52
+2014;Delhi;Taiwan;Asia;6526;64.6;35.4
+2014;Mumbai;Taiwan;Asia;1398;64.6;35.4
+2014;Chennai;Taiwan;Asia;6490;64.6;35.4
+2014;Calicut;Taiwan;Asia;15454;64.6;35.4
+2014;Benguluru;Taiwan;Asia;2223;64.6;35.4
+2014;Kolkata;Taiwan;Asia;681;64.6;35.4
+2014;Hyderabad;Taiwan;Asia;3084;64.6;35.4
+2014;Cochin;Taiwan;Asia;0;64.6;35.4
+2015;Delhi;Taiwan;Asia;7342;65.8;34.2
+2015;Mumbai;Taiwan;Asia;1527;65.8;34.2
+2015;Chennai;Taiwan;Asia;6361;65.8;34.2
+2015;Calicut;Taiwan;Asia;15848;65.8;34.2
+2015;Benguluru;Taiwan;Asia;2363;65.8;34.2
+2015;Kolkata;Taiwan;Asia;654;65.8;34.2
+2015;Hyderabad;Taiwan;Asia;2254;65.8;34.2
+2015;Cochin;Taiwan;Asia;0;65.8;34.2
+2016;Delhi;Taiwan;Asia;24888;51.4;48.6
+2016;Mumbai;Taiwan;Asia;5503;51.4;48.6
+2016;Chennai;Taiwan;Asia;3471;51.4;48.6
+2016;Calicut;Taiwan;Asia;0;51.4;48.6
+2016;Benguluru;Taiwan;Asia;3302;51.4;48.6
+2016;Kolkata;Taiwan;Asia;1270;51.4;48.6
+2016;Hyderabad;Taiwan;Asia;635;51.4;48.6
+2016;Cochin;Taiwan;Asia;339;51.4;48.6
+2017;Delhi;Taiwan;Asia;27614;50.9;49.1
+2017;Mumbai;Taiwan;Asia;5598;50.9;49.1
+2017;Chennai;Taiwan;Asia;3716;50.9;49.1
+2017;Calicut;Taiwan;Asia;0;50.9;49.1
+2017;Benguluru;Taiwan;Asia;3763;50.9;49.1
+2017;Kolkata;Taiwan;Asia;1223;50.9;49.1
+2017;Hyderabad;Taiwan;Asia;659;50.9;49.1
+2017;Cochin;Taiwan;Asia;3152;50.9;49.1
+2018;Delhi;Taiwan;Asia;28339;51.3;48.7
+2018;Mumbai;Taiwan;Asia;5836;51.3;48.7
+2018;Chennai;Taiwan;Asia;3957;51.3;48.7
+2018;Calicut;Taiwan;Asia;0;51.3;48.7
+2018;Benguluru;Taiwan;Asia;4352;51.3;48.7
+2018;Kolkata;Taiwan;Asia;1187;51.3;48.7
+2018;Hyderabad;Taiwan;Asia;890;51.3;48.7
+2018;Cochin;Taiwan;Asia;396;51.3;48.7
+2019;Delhi;Taiwan;Asia;21013;51.6;48.4
+2019;Mumbai;Taiwan;Asia;9735;51.6;48.4
+2019;Chennai;Taiwan;Asia;4627;51.6;48.4
+2019;Calicut;Taiwan;Asia;48;51.6;48.4
+2019;Benguluru;Taiwan;Asia;6410;51.6;48.4
+2019;Kolkata;Taiwan;Asia;2024;51.6;48.4
+2019;Hyderabad;Taiwan;Asia;1831;51.6;48.4
+2019;Cochin;Taiwan;Asia;723;51.6;48.4
+2020;Delhi;Taiwan;Asia;2969;47.47;52.53
+2020;Mumbai;Taiwan;Asia;1839;47.47;52.53
+2020;Chennai;Taiwan;Asia;1139;47.47;52.53
+2020;Calicut;Taiwan;Asia;9;47.47;52.53
+2020;Benguluru;Taiwan;Asia;915;47.47;52.53
+2020;Kolkata;Taiwan;Asia;691;47.47;52.53
+2020;Hyderabad;Taiwan;Asia;386;47.47;52.53
+2020;Cochin;Taiwan;Asia;144;47.47;52.53
+2014;Delhi;Australia;Oceania;42917;57.9;42.1
+2014;Mumbai;Australia;Oceania;9351;57.9;42.1
+2014;Chennai;Australia;Oceania;23976;57.9;42.1
+2014;Calicut;Australia;Oceania;89671;57.9;42.1
+2014;Benguluru;Australia;Oceania;20620;57.9;42.1
+2014;Kolkata;Australia;Oceania;13906;57.9;42.1
+2014;Hyderabad;Australia;Oceania;39321;57.9;42.1
+2014;Cochin;Australia;Oceania;0;57.9;42.1
+2015;Delhi;Australia;Oceania;9738;57.8;42.2
+2015;Mumbai;Australia;Oceania;23425;57.8;42.2
+2015;Chennai;Australia;Oceania;98174;57.8;42.2
+2015;Calicut;Australia;Oceania;23162;57.8;42.2
+2015;Benguluru;Australia;Oceania;0;57.8;42.2
+2015;Kolkata;Australia;Oceania;16845;57.8;42.2
+2015;Hyderabad;Australia;Oceania;44744;57.8;42.2
+2015;Cochin;Australia;Oceania;0;57.8;42.2
+2016;Delhi;Australia;Oceania;110697;57.2;42.8
+2016;Mumbai;Australia;Oceania;49329;57.2;42.8
+2016;Chennai;Australia;Oceania;25839;57.2;42.8
+2016;Calicut;Australia;Oceania;0;57.2;42.8
+2016;Benguluru;Australia;Oceania;24077;57.2;42.8
+2016;Kolkata;Australia;Oceania;10277;57.2;42.8
+2016;Hyderabad;Australia;Oceania;18498;57.2;42.8
+2016;Cochin;Australia;Oceania;21435;57.2;42.8
+2017;Delhi;Australia;Oceania;122564;56.8;43.2
+2017;Mumbai;Australia;Oceania;53176;56.8;43.2
+2017;Chennai;Australia;Oceania;27561;56.8;43.2
+2017;Calicut;Australia;Oceania;0;56.8;43.2
+2017;Benguluru;Australia;Oceania;26264;56.8;43.2
+2017;Kolkata;Australia;Oceania;10376;56.8;43.2
+2017;Hyderabad;Australia;Oceania;20752;56.8;43.2
+2017;Cochin;Australia;Oceania;0;56.8;43.2
+2018;Delhi;Australia;Oceania;132358;56.5;43.5
+2018;Mumbai;Australia;Oceania;54398;56.5;43.5
+2018;Chennai;Australia;Oceania;29798;56.5;43.5
+2018;Calicut;Australia;Oceania;0;56.5;43.5
+2018;Benguluru;Australia;Oceania;29451;56.5;43.5
+2018;Kolkata;Australia;Oceania;10395;56.5;43.5
+2018;Hyderabad;Australia;Oceania;22175;56.5;43.5
+2018;Cochin;Australia;Oceania;29798;56.5;43.5
+2019;Delhi;Australia;Oceania;146529;56.1;43.9
+2019;Mumbai;Australia;Oceania;47007;56.1;43.9
+2019;Chennai;Australia;Oceania;24238;56.1;43.9
+2019;Calicut;Australia;Oceania;367;56.1;43.9
+2019;Benguluru;Australia;Oceania;9181;56.1;43.9
+2019;Kolkata;Australia;Oceania;34888;56.1;43.9
+2019;Hyderabad;Australia;Oceania;22034;56.1;43.9
+2019;Cochin;Australia;Oceania;52515;56.1;43.9
+2020;Delhi;Australia;Oceania;33836;56.37;43.63
+2020;Mumbai;Australia;Oceania;11279;56.37;43.63
+2020;Chennai;Australia;Oceania;6247;56.37;43.63
+2020;Calicut;Australia;Oceania;87;56.37;43.63
+2020;Benguluru;Australia;Oceania;6247;56.37;43.63
+2020;Kolkata;Australia;Oceania;1909;56.37;43.63
+2020;Hyderabad;Australia;Oceania;7721;56.37;43.63
+2020;Cochin;Australia;Oceania;1909;56.37;43.63
+2014;Delhi;New Zealand;Oceania;11788;55.8;44.2
+2014;Mumbai;New Zealand;Oceania;1543;55.8;44.2
+2014;Chennai;New Zealand;Oceania;3301;55.8;44.2
+2014;Calicut;New Zealand;Oceania;15817;55.8;44.2
+2014;Benguluru;New Zealand;Oceania;2658;55.8;44.2
+2014;Kolkata;New Zealand;Oceania;2486;55.8;44.2
+2014;Hyderabad;New Zealand;Oceania;5272;55.8;44.2
+2014;Cochin;New Zealand;Oceania;0;55.8;44.2
+2015;Delhi;New Zealand;Oceania;1491;55.3;44.7
+2015;Mumbai;New Zealand;Oceania;2891;55.3;44.7
+2015;Chennai;New Zealand;Oceania;17933;55.3;44.7
+2015;Calicut;New Zealand;Oceania;2755;55.3;44.7
+2015;Benguluru;New Zealand;Oceania;0;55.3;44.7
+2015;Kolkata;New Zealand;Oceania;2665;55.3;44.7
+2015;Hyderabad;New Zealand;Oceania;5737;55.3;44.7
+2015;Cochin;New Zealand;Oceania;0;55.3;44.7
+2016;Delhi;New Zealand;Oceania;20418;55.2;44.8
+2016;Mumbai;New Zealand;Oceania;13035;55.2;44.8
+2016;Chennai;New Zealand;Oceania;3310;55.2;44.8
+2016;Calicut;New Zealand;Oceania;0;55.2;44.8
+2016;Benguluru;New Zealand;Oceania;3004;55.2;44.8
+2016;Kolkata;New Zealand;Oceania;1731;55.2;44.8
+2016;Hyderabad;New Zealand;Oceania;2902;55.2;44.8
+2016;Cochin;New Zealand;Oceania;2800;55.2;44.8
+2017;Delhi;New Zealand;Oceania;21790;54.3;45.7
+2017;Mumbai;New Zealand;Oceania;14715;54.3;45.7
+2017;Chennai;New Zealand;Oceania;3679;54.3;45.7
+2017;Calicut;New Zealand;Oceania;0;54.3;45.7
+2017;Benguluru;New Zealand;Oceania;3396;54.3;45.7
+2017;Kolkata;New Zealand;Oceania;1811;54.3;45.7
+2017;Hyderabad;New Zealand;Oceania;3339;54.3;45.7
+2017;Cochin;New Zealand;Oceania;0;54.3;45.7
+2018;Delhi;New Zealand;Oceania;24205;54.6;45.4
+2018;Mumbai;New Zealand;Oceania;15166;54.6;45.4
+2018;Chennai;New Zealand;Oceania;3882;54.6;45.4
+2018;Calicut;New Zealand;Oceania;0;54.6;45.4
+2018;Benguluru;New Zealand;Oceania;4004;54.6;45.4
+2018;Kolkata;New Zealand;Oceania;1577;54.6;45.4
+2018;Hyderabad;New Zealand;Oceania;3458;54.6;45.4
+2018;Cochin;New Zealand;Oceania;4004;54.6;45.4
+2019;Delhi;New Zealand;Oceania;32513;54.5;45.5
+2019;Mumbai;New Zealand;Oceania;11996;54.5;45.5
+2019;Chennai;New Zealand;Oceania;3474;54.5;45.5
+2019;Calicut;New Zealand;Oceania;0;54.5;45.5
+2019;Benguluru;New Zealand;Oceania;1377;54.5;45.5
+2019;Kolkata;New Zealand;Oceania;2950;54.5;45.5
+2019;Hyderabad;New Zealand;Oceania;5441;54.5;45.5
+2019;Cochin;New Zealand;Oceania;3671;54.5;45.5
+2020;Delhi;New Zealand;Oceania;8110;54.9;45.1
+2020;Mumbai;New Zealand;Oceania;3247;54.9;45.1
+2020;Chennai;New Zealand;Oceania;866;54.9;45.1
+2020;Calicut;New Zealand;Oceania;0;54.9;45.1
+2020;Benguluru;New Zealand;Oceania;983;54.9;45.1
+2020;Kolkata;New Zealand;Oceania;250;54.9;45.1
+2020;Hyderabad;New Zealand;Oceania;649;54.9;45.1
+2020;Cochin;New Zealand;Oceania;1499;54.9;45.1
