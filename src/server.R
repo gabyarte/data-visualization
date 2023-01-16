@@ -157,16 +157,16 @@ shinyServer(function(input, output) {
         colour = "country")) +
       geom_line() +
       geom_point(size = 3) +
-      scale_y_continuous(name = "visitors", labels = comma) +
+      scale_y_continuous(labels = comma) +
       scale_color_discrete(name = "country") +
       ggtitle(plot_title) +
+      labs(x = "Years", y = "Number of Visitors") +
       theme(plot.title = element_text(size = 20, hjust = 0.5),
-            axis.title.y = element_text(size = 13, vjust=0.5, angle = 0),
-            axis.title.x = element_text(size = 13, angle = 0),
+            axis.title.y = element_text(size = 13, vjust = 0.5),
+            axis.title.x = element_text(size = 13),
             axis.text.y = element_text(size = 12),
-            axis.text.x = element_text(size =12)
+            axis.text.x = element_text(size = 12)
       )
-    
   })
 
   output$lineScatter <- renderPlot({
