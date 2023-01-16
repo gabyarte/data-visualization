@@ -8,12 +8,12 @@ library(scales)
 
 # Define server logic required to draw graphs
 shinyServer(function(input, output) {
-  ## First Tab- First Graph
+  ## First Tab - First Graph
   output$generalR <- renderPlot({
     annual_visitors_3 <- read.csv(
       "./../data/input/annual_visitors.csv", sep = ";")
 
-    plot_title <- paste("Annual Visitors and Income per Year")
+    plot_title <- paste("Annual Visitors per Year")
 
     agg_tbl <- annual_visitors_3 %>%
       group_by(year) %>%
@@ -64,7 +64,7 @@ shinyServer(function(input, output) {
             axis.text.x = element_text(size = 12),
       )
   })
-  
+
   ## First Tab - Third Graph
   output$thirdGraph <- renderPlot({
     df_income <- read.csv("./../data/input/countryWise.csv")
@@ -92,14 +92,12 @@ shinyServer(function(input, output) {
     df_age_group <- read.csv("./../data/input/yearly_categories.csv")
     plot_title <- paste("Amount of people per variable in", input$siyear)
     choice <- input$categorical_choice
-    
-    tbl1 <- df9 %>%
-      group_by(variable) %>%
-      summarise(sum_values = sum(value),
-                .groups = "drop")
-    df11<- tbl1 %>% as.data.frame()
-    df11
-    
+
+    df_age_group <- df_age_group %>%
+      group_by(category, year) %>%
+      mutate(sum_values = sum(value)) %>%
+      as.data.frame()
+
     ggplot(
       data = df_age_group %>%
         filter(category == choice, year == input$siyear),
@@ -107,10 +105,9 @@ shinyServer(function(input, output) {
     geom_bar(stat = "identity", width = 1, color = "white") +
     coord_polar("y", start = 0) +
     theme_void() +
-    ## Text of geometry
-    ## (value/df11$sum_values) * 100
-    geom_text(aes(label = value),
-              position = position_stack(vjust = 0.5)) +
+    geom_text(
+      aes(label = percent(value / sum_values, accuracy = 1)),
+      position = position_stack(vjust = 0.5)) +
     ggtitle(plot_title) +
     labs(fill = choice) +
     theme(plot.title = element_text(size = 20, hjust = 0.5))
@@ -148,13 +145,17 @@ shinyServer(function(input, output) {
     country_of_choice <- c(input$country1, input$country2)
     df_visitors <- df_annual_visitors %>%
       filter(country == country_of_choice)
-    
+
     plot_title <- paste("Annual Visitors per Year and Country")
-    # select crime type based on input$crime from ui.R
-    ggplot(df_visitors, aes_string(x= "year", y= "annual_visitors", colour= "country")) +
+    ggplot(
+      df_visitors,
+      aes_string(
+        x = "year",
+        y = "annual_visitors",
+        colour = "country")) +
       geom_line() +
-      geom_point(size= 3) +
-      scale_y_continuous(name="visitors", labels = comma) +
+      geom_point(size = 3) +
+      scale_y_continuous(name = "visitors", labels = comma) +
       scale_color_discrete(name = "country") +
       ggtitle(plot_title) +
       theme(plot.title = element_text(size = 20, hjust = 0.5),

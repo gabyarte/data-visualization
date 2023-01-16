@@ -10,8 +10,8 @@ ui_sidebar <- dashboardSidebar(
     id = "sidebar_menu",
     menuItem("General View", tabName = "First", icon = icon("star")),
     menuItem("Detail View", tabName = "Second", icon = icon("dashboard")),
-    menuItem("Comparisons View", tabName = "Thrid", icon = icon("cloud")),
-    menuItem("Fourth", tabName = "Fourth", icon = icon("users"))
+    menuItem("Comparisons View", tabName = "Thrid", icon = icon("cloud"))
+    # menuItem("Fourth", tabName = "Fourth", icon = icon("users"))
 ))
 
 ui_body <- dashboardBody(
