@@ -5,13 +5,15 @@ library(viridis)
 library(tidyr)
 library(readr)
 library(scales)
+library(rsconnect)
+
 
 # Define server logic required to draw graphs
 shinyServer(function(input, output) {
   ## First Tab - First Graph
   output$generalR <- renderPlot({
     annual_visitors_3 <- read.csv(
-      "./../data/input/annual_visitors.csv", sep = ";")
+      "./data/input/annual_visitors.csv", sep = ";")
 
     plot_title <- paste("Annual Visitors per Year")
 
@@ -43,7 +45,7 @@ shinyServer(function(input, output) {
 
   ## First Tab - Second Graph
   output$scatterGeneral <- renderPlot({
-    df_income <- read.csv("./../data/input/income.csv")
+    df_income <- read.csv("./data/input/income.csv")
     plot_title <- paste("Incomes per year related with the number of visitors")
     ggplot(
         data = df_income,
@@ -67,7 +69,7 @@ shinyServer(function(input, output) {
 
   ## First Tab - Third Graph
   output$thirdGraph <- renderPlot({
-    df_income <- read.csv("./../data/input/countryWise.csv")
+    df_income <- read.csv("./data/input/countryWise.csv")
     plot_title <- paste("Correlation between visitors and incomes quarterly")
     ggplot(
       data = df_income,
@@ -89,7 +91,7 @@ shinyServer(function(input, output) {
 
   ## PIE CHART
   output$lineAge <- renderPlot({
-    df_age_group <- read.csv("./../data/input/yearly_categories.csv")
+    df_age_group <- read.csv("./data/input/yearly_categories.csv")
     plot_title <- paste("Percentage of people per variable in", input$siyear)
     choice <- input$categorical_choice
 
@@ -116,7 +118,7 @@ shinyServer(function(input, output) {
   ## STACKER BAR CHART
   output$stackedAir <- renderPlot({
     df_air_continent <- read.csv(
-      "./../data/input/annual_visitors_air.csv", sep = ";")
+      "./data/input/annual_visitors_air.csv", sep = ";")
     plot_title <- paste("Amount of people per airport in", input$siyear)
 
     ggplot(
@@ -141,7 +143,7 @@ shinyServer(function(input, output) {
    ## nationality
   output$linePlot <- renderPlot({
     
-    df_annual_visitors <- read.csv("./../data/input/annual_visitors.csv", sep=";")
+    df_annual_visitors <- read.csv("./data/input/annual_visitors.csv", sep=";")
     
     # select a city
     country_of_choice <- c(input$country1, input$country2)
@@ -170,7 +172,7 @@ shinyServer(function(input, output) {
   })
 
   output$lineScatter <- renderPlot({
-    df_income <- read.csv("./../data/input/income.csv")
+    df_income <- read.csv("./data/input/income.csv")
     ggplot(
       data = df_income,
       aes_string(x = "visitantes", y = "ingresos")) + geom_point()

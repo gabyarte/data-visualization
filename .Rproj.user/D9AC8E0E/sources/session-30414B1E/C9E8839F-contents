@@ -1,0 +1,6 @@
+install.packages('rsconnect')
+
+rsconnect::setAccountInfo(name='andreisaavedra', token='033A00912D3E579CAF076DF984342007', secret='Eghno+OUG+SA8SNiDqTpQ7qq/T7f8Bo3TTLIWamM')
+
+library(rsconnect)
+rsconnect::deployApp('/Users/saavedraandrei/documents/UPM/data_vis/shinyapp')
