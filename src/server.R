@@ -8,7 +8,7 @@ library(scales)
 
 # Define server logic required to draw graphs
 shinyServer(function(input, output) {
-  #general
+  ## First Tab- First Graph
   output$generalR <- renderPlot({
     annual_visitors_3 <- read.csv(
       "./../data/input/annual_visitors.csv", sep = ";")
@@ -18,7 +18,7 @@ shinyServer(function(input, output) {
     agg_tbl <- annual_visitors_3 %>%
       group_by(year) %>%
       summarise(sum_visitors = sum(annual_visitors),
-                avg_income = max(income) * 100,
+                avg_income = max(income),
                 .groups = "drop")
     df2 <- agg_tbl %>% as.data.frame()
 
@@ -28,14 +28,11 @@ shinyServer(function(input, output) {
         x = "year",
         y = "sum_visitors",
         group = 1)) +
-    geom_line() +
+    geom_line(color = "#228f22") +
     ggtitle(plot_title) +
-    geom_point(size = 3) +
-    geom_line(
-      aes_string(y = "avg_income"),
-      color = "#228f22") +
+    geom_point(size = 3, color = "#228f22") +
     scale_y_continuous(labels = comma) +
-    labs(x = "Years", y = "Visitors / Income") +
+    labs(x = "Years", y = "Visitors") +
     theme(plot.title = element_text(size = 20, hjust = 0.5),
           axis.title.y = element_text(size = 13),
           axis.title.x = element_text(size = 13),
@@ -44,7 +41,7 @@ shinyServer(function(input, output) {
     )
   })
 
-  ##general
+  ## First Tab - Second Graph
   output$scatterGeneral <- renderPlot({
     df_income <- read.csv("./../data/input/income.csv")
     plot_title <- paste("Incomes per year related with the number of visitors")
@@ -58,7 +55,7 @@ shinyServer(function(input, output) {
       geom_point(color = "#228f22", show.legend = FALSE) +
       geom_text(hjust = -0.4, vjust = 0, size = 5) +
       ggtitle(plot_title) +
-      labs(x = "Year", y = "Incomes (US$ billions)") +
+      labs(x = "Years", y = "Incomes (US$ billions)") +
       scale_y_continuous(labels = comma) +
       theme(plot.title = element_text(size = 20, hjust = 0.5),
             axis.title.y = element_text(size = 13),
@@ -67,13 +64,42 @@ shinyServer(function(input, output) {
             axis.text.x = element_text(size = 12),
       )
   })
+  
+  ## First Tab - Third Graph
+  output$thirdGraph <- renderPlot({
+    df_income <- read.csv("./../data/input/countryWise.csv")
+    plot_title <- paste("Correlation between visitors and incomes quarterly")
+    ggplot(
+      data = df_income,
+      aes_string(
+        x = "visitors",
+        y = "incomes")) +
+      geom_point(color = "#228f22", show.legend = FALSE) +
+      ggtitle(plot_title) +
+      labs(x = "Visitors", y = "Incomes (US$ billions)") +
+      scale_y_continuous(labels = comma) +
+      scale_x_continuous(labels = comma) +
+      theme(plot.title = element_text(size = 20, hjust = 0.5),
+            axis.title.y = element_text(size = 13),
+            axis.title.x = element_text(size = 13),
+            axis.text.y = element_text(size = 12),
+            axis.text.x = element_text(size = 12),
+      )
+  })
 
-  ## Detailed view
+  ## PIE CHART
   output$lineAge <- renderPlot({
     df_age_group <- read.csv("./../data/input/yearly_categories.csv")
     plot_title <- paste("Amount of people per variable in", input$siyear)
     choice <- input$categorical_choice
-
+    
+    tbl1 <- df9 %>%
+      group_by(variable) %>%
+      summarise(sum_values = sum(value),
+                .groups = "drop")
+    df11<- tbl1 %>% as.data.frame()
+    df11
+    
     ggplot(
       data = df_age_group %>%
         filter(category == choice, year == input$siyear),
@@ -81,16 +107,16 @@ shinyServer(function(input, output) {
     geom_bar(stat = "identity", width = 1, color = "white") +
     coord_polar("y", start = 0) +
     theme_void() +
-    geom_text(
-      aes(y = cumsum(value) - min(value) / 2,
-          label = value),
-      size = 4) +
-    scale_fill_brewer(palette = "Greens") +
+    ## Text of geometry
+    ## (value/df11$sum_values) * 100
+    geom_text(aes(label = value),
+              position = position_stack(vjust = 0.5)) +
     ggtitle(plot_title) +
     labs(fill = choice) +
     theme(plot.title = element_text(size = 20, hjust = 0.5))
   })
 
+  ## STACKER BAR CHART
   output$stackedAir <- renderPlot({
     df_air_continent <- read.csv(
       "./../data/input/annual_visitors_air.csv", sep = ";")
@@ -122,22 +148,20 @@ shinyServer(function(input, output) {
     country_of_choice <- c(input$country1, input$country2)
     df_visitors <- df_annual_visitors %>%
       filter(country == country_of_choice)
-
+    
     plot_title <- paste("Annual Visitors per Year and Country")
-
-    ggplot(
-      df_visitors,
-      aes_string(x = "year", y = "annual_visitors", colour = "country")) +
+    # select crime type based on input$crime from ui.R
+    ggplot(df_visitors, aes_string(x= "year", y= "annual_visitors", colour= "country")) +
       geom_line() +
-      geom_point(size = 3) +
-      scale_y_continuous(name = "visitors", labels = comma) +
+      geom_point(size= 3) +
+      scale_y_continuous(name="visitors", labels = comma) +
       scale_color_discrete(name = "country") +
       ggtitle(plot_title) +
       theme(plot.title = element_text(size = 20, hjust = 0.5),
-            axis.title.y = element_text(size = 13, vjust = 0.5, angle = 0),
+            axis.title.y = element_text(size = 13, vjust=0.5, angle = 0),
             axis.title.x = element_text(size = 13, angle = 0),
             axis.text.y = element_text(size = 12),
-            axis.text.x = element_text(size = 12)
+            axis.text.x = element_text(size =12)
       )
   })
 

@@ -3,6 +3,14 @@ library(readr)
 library(ggplot2)
 library(dplyr)
 
+df9$value
+
+tbl1 <- df9 %>%
+  group_by(variable) %>%
+  summarise(sum_values = sum(value),
+            .groups = "drop")
+df11<- tbl1 %>% as.data.frame()
+df11
 
 
 df <- read_csv("./input/annual_visitors.csv")

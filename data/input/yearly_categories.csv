@@ -4,124 +4,124 @@
 2,2016,Air way,7111654.142,Transport mean
 3,2017,Air way,7667794.071,Transport mean
 4,2018,Air way,8064517.823,Transport mean
-5,2019,Air way,8115242.0125,Transport mean
-6,2020,Air way,2084615.2280000001,Transport mean
-7,2014,Sea way,27758.941000000003,Transport mean
+5,2019,Air way,8115242.013,Transport mean
+6,2020,Air way,2084615.228,Transport mean
+7,2014,Sea way,27758.941,Transport mean
 8,2015,Sea way,52628.105,Transport mean
 9,2016,Sea way,71154.631,Transport mean
 10,2017,Sea way,66354.728,Transport mean
 11,2018,Sea way,80295.839,Transport mean
 12,2019,Sea way,97754.2261,Transport mean
 13,2020,Sea way,39374.86,Transport mean
-14,2014,Rail way,0.0,Transport mean
-15,2015,Rail way,0.0,Transport mean
+14,2014,Rail way,0,Transport mean
+15,2015,Rail way,0,Transport mean
 16,2016,Rail way,189334.849,Transport mean
 17,2017,Rail way,291456.341,Transport mean
-18,2018,Rail way,343055.38399999996,Transport mean
+18,2018,Rail way,343055.384,Transport mean
 19,2019,Rail way,94887.6983,Transport mean
 20,2020,Rail way,15932.524,Transport mean
 21,2014,Land way,297335.206,Transport mean
 22,2015,Land way,307159.935,Transport mean
 23,2016,Land way,1133747.54,Transport mean
-24,2017,Land way,1681013.5130000003,Transport mean
+24,2017,Land way,1681013.513,Transport mean
 25,2018,Land way,1721308.954,Transport mean
-26,2019,Land way,2269258.1675,Transport mean
+26,2019,Land way,2269258.168,Transport mean
 27,2020,Land way,511433.539,Transport mean
 28,2014,Male visitors,4227738.505,Sex
 29,2015,Male visitors,4421645.824,Sex
-30,2016,Male visitors,5070770.663000001,Sex
+30,2016,Male visitors,5070770.663,Sex
 31,2017,Male visitors,5791153.197,Sex
 32,2018,Male visitors,6007331.391,Sex
 33,2019,Male visitors,6253127.074,Sex
-34,2020,Male visitors,1538936.3948,Sex
+34,2020,Male visitors,1538936.395,Sex
 35,2014,Female visitors,3198077.211,Sex
 36,2015,Female visitors,3338028.14,Sex
-37,2016,Female visitors,3435655.3370000003,Sex
+37,2016,Female visitors,3435655.337,Sex
 38,2017,Female visitors,3916665.716,Sex
 39,2018,Female visitors,4201846.609,Sex
 40,2019,Female visitors,4321702.199,Sex
-41,2020,Female visitors,1112452.4924,Sex
-0,2014,Africa,213558.0,Continent
-1,2014,America,1430740.0,Continent
-2,2014,Asia,3106394.0,Continent
-3,2014,Europa,2192115.0,Continent
-4,2014,Oceania,282626.0,Continent
-5,2015,Africa,213246.0,Continent
-6,2015,America,1538940.0,Continent
-7,2015,Asia,3585129.0,Continent
-8,2015,Europa,2113994.0,Continent
-9,2015,Oceania,308372.0,Continent
-10,2016,Africa,210646.0,Continent
-11,2016,America,1663464.0,Continent
-12,2016,Asia,3970532.0,Continent
-13,2016,Europa,2317242.0,Continent
-14,2016,Oceania,344542.0,Continent
-15,2017,Africa,218979.0,Continent
-16,2017,America,1769800.0,Continent
-17,2017,Asia,4856500.0,Continent
-18,2017,Europa,2481840.0,Continent
-19,2017,Oceania,380840.0,Continent
-20,2018,Africa,240262.0,Continent
-21,2018,America,1870551.0,Continent
-22,2018,Asia,5120238.0,Continent
-23,2018,Europa,2570977.0,Continent
-24,2018,Oceania,407150.0,Continent
-25,2019,Africa,246075.0,Continent
-26,2019,America,1922923.0,Continent
-27,2019,Asia,5479038.0,Continent
-28,2019,Europa,2496579.0,Continent
-29,2019,Oceania,432792.0,Continent
-30,2020,Africa,61070.0,Continent
-31,2020,America,533926.0,Continent
-32,2020,Asia,1201934.0,Continent
-33,2020,Europa,751195.0,Continent
-34,2020,Oceania,103411.0,Continent
-0,2014,0-14,402.5,Age Groups
-1,2014,15-24,570.0,Age Groups
-2,2014,25-34,1364.8,Age Groups
-3,2014,35-44,1346.6,Age Groups
-4,2014,45-54,1219.9,Age Groups
-5,2014,55-64,859.6,Age Groups
-6,2014,65-above,436.6,Age Groups
-7,2015,0-14,411.4,Age Groups
-8,2015,15-24,615.3,Age Groups
-9,2015,25-34,1570.0,Age Groups
-10,2015,35-44,1345.3,Age Groups
-11,2015,45-54,1205.0,Age Groups
-12,2015,55-64,826.7,Age Groups
-13,2015,65-above,411.1,Age Groups
-14,2016,0-14,409.3,Age Groups
-15,2016,15-24,606.0,Age Groups
-16,2016,25-34,1421.3,Age Groups
-17,2016,35-44,1364.3,Age Groups
-18,2016,45-54,1184.3,Age Groups
-19,2016,55-64,840.7,Age Groups
-20,2016,65-above,428.9,Age Groups
-21,2017,0-14,290.9,Age Groups
-22,2017,15-24,456.0,Age Groups
-23,2017,25-34,1176.5,Age Groups
-24,2017,35-44,1127.3,Age Groups
-25,2017,45-54,1018.4,Age Groups
-26,2017,55-64,712.7,Age Groups
-27,2017,65-above,388.3,Age Groups
-28,2018,0-14,418.5,Age Groups
-29,2018,15-24,549.2,Age Groups
-30,2018,25-34,1378.9,Age Groups
-31,2018,35-44,1348.0,Age Groups
-32,2018,45-54,1213.6,Age Groups
-33,2018,55-64,896.6,Age Groups
-34,2018,65-above,495.2,Age Groups
-35,2019,0-14,406.0,Age Groups
-36,2019,15-24,524.0,Age Groups
-37,2019,25-34,1374.5,Age Groups
-38,2019,35-44,1358.8,Age Groups
-39,2019,45-54,1222.3,Age Groups
-40,2019,55-64,909.5,Age Groups
-41,2019,65-above,503.9,Age Groups
-42,2020,0-14,358.9,Age Groups
-43,2020,15-24,505.6,Age Groups
-44,2020,25-34,1344.5,Age Groups
-45,2020,35-44,1330.3,Age Groups
-46,2020,45-54,1230.9,Age Groups
-47,2020,55-64,959.4,Age Groups
-48,2020,65-above,568.5,Age Groups
+41,2020,Female visitors,1112452.492,Sex
+0,2014,Africa,213558,Continent
+1,2014,America,1430740,Continent
+2,2014,Asia,3106394,Continent
+3,2014,Europa,2192115,Continent
+4,2014,Oceania,282626,Continent
+5,2015,Africa,213246,Continent
+6,2015,America,1538940,Continent
+7,2015,Asia,3585129,Continent
+8,2015,Europa,2113994,Continent
+9,2015,Oceania,308372,Continent
+10,2016,Africa,210646,Continent
+11,2016,America,1663464,Continent
+12,2016,Asia,3970532,Continent
+13,2016,Europa,2317242,Continent
+14,2016,Oceania,344542,Continent
+15,2017,Africa,218979,Continent
+16,2017,America,1769800,Continent
+17,2017,Asia,4856500,Continent
+18,2017,Europa,2481840,Continent
+19,2017,Oceania,380840,Continent
+20,2018,Africa,240262,Continent
+21,2018,America,1870551,Continent
+22,2018,Asia,5120238,Continent
+23,2018,Europa,2570977,Continent
+24,2018,Oceania,407150,Continent
+25,2019,Africa,246075,Continent
+26,2019,America,1922923,Continent
+27,2019,Asia,5479038,Continent
+28,2019,Europa,2496579,Continent
+29,2019,Oceania,432792,Continent
+30,2020,Africa,61070,Continent
+31,2020,America,533926,Continent
+32,2020,Asia,1201934,Continent
+33,2020,Europa,751195,Continent
+34,2020,Oceania,103411,Continent
+0,2014,0-14,474926,Age Groups
+1,2014,15-24,630311,Age Groups
+2,2014,25-34,1482991,Age Groups
+3,2014,35-44,1526888,Age Groups
+4,2014,45-54,1458822,Age Groups
+5,2014,55-64,1046592,Age Groups
+6,2014,65-above,598043,Age Groups
+7,2015,0-14,767908,Age Groups
+8,2015,15-24,789111,Age Groups
+9,2015,25-34,1558169,Age Groups
+10,2015,35-44,1567495,Age Groups
+11,2015,45-54,1447888,Age Groups
+12,2015,55-64,1021436,Age Groups
+13,2015,65-above,599486,Age Groups
+14,2016,0-14,819557,Age Groups
+15,2016,15-24,715951,Age Groups
+16,2016,25-34,1600190,Age Groups
+17,2016,35-44,1788346,Age Groups
+18,2016,45-54,1696116,Age Groups
+19,2016,55-64,1177934,Age Groups
+20,2016,65-above,692336,Age Groups
+21,2017,0-14,861739,Age Groups
+22,2017,15-24,728348,Age Groups
+23,2017,25-34,1660478,Age Groups
+24,2017,35-44,1881124,Age Groups
+25,2017,45-54,1781071,Age Groups
+26,2017,55-64,1222199,Age Groups
+27,2017,65-above,729659,Age Groups
+28,2018,0-14,969010,Age Groups
+29,2018,15-24,858688,Age Groups
+30,2018,25-34,1858610,Age Groups
+31,2018,35-44,2135692,Age Groups
+32,2018,45-54,2029508,Age Groups
+33,2018,55-64,1456035,Age Groups
+34,2018,65-above,901632,Age Groups
+35,2019,0-14,988809,Age Groups
+36,2019,15-24,869743,Age Groups
+37,2019,25-34,1926277,Age Groups
+38,2019,35-44,2240595,Age Groups
+39,2019,45-54,2103728,Age Groups
+40,2019,55-64,1505481,Age Groups
+41,2019,65-above,942345,Age Groups
+42,2020,0-14,208892,Age Groups
+43,2020,15-24,202338,Age Groups
+44,2020,25-34,476948,Age Groups
+45,2020,35-44,531572,Age Groups
+46,2020,45-54,523836,Age Groups
+47,2020,55-64,419159,Age Groups
+48,2020,65-above,287947,Age Groups
