@@ -13,7 +13,7 @@ shinyServer(function(input, output) {
     annual_visitors_3 <- read.csv(
       "./../data/input/annual_visitors.csv", sep = ";")
 
-    plot_title <- paste("Annual Visitors and Income per Year")
+    plot_title <- paste("Annual Visitors per Year")
 
     agg_tbl <- annual_visitors_3 %>%
       group_by(year) %>%
@@ -90,7 +90,7 @@ shinyServer(function(input, output) {
   ## PIE CHART
   output$lineAge <- renderPlot({
     df_age_group <- read.csv("./../data/input/yearly_categories.csv")
-    plot_title <- paste("Amount of people per variable in", input$siyear)
+    plot_title <- paste("Percentage of people per variable in", input$siyear)
     choice <- input$categorical_choice
     
     tbl1 <- df9 %>%
@@ -143,7 +143,9 @@ shinyServer(function(input, output) {
 
    ## nationality
   output$linePlot <- renderPlot({
-    df_annual_visitors <- read.csv("./../data/input/annual_visitors.csv")
+    
+    df_annual_visitors <- read.csv("./../data/input/annual_visitors.csv", sep=";")
+    
     # select a city
     country_of_choice <- c(input$country1, input$country2)
     df_visitors <- df_annual_visitors %>%
@@ -163,6 +165,7 @@ shinyServer(function(input, output) {
             axis.text.y = element_text(size = 12),
             axis.text.x = element_text(size =12)
       )
+    
   })
 
   output$lineScatter <- renderPlot({
